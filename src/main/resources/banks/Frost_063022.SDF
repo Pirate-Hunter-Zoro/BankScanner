@@ -1,0 +1,1898 @@
+Call Date;Bank RSSD Identifier;MDRM #;Value;Last Update;Short Definition;Call Schedule;Line Number
+20220630;682563;RCOA3792;3661580;20220812;Total capital (sum of items 26 and 46);RCRI;47
+20220630;682563;RCOA5310;237995;20220812;Allowance for loan and lease losses includable in tier 2 capital;RCRI;42
+20220630;682563;RCOA5311;237995;20220812;Tier 2 capital (greater of item 44 minus item 45, or zero);RCRI;46
+20220630;682563;RCOA7204;6.6222%;20220812;Leverage ratio (item 26 divided by 30);RCRI;31
+20220630;682563;RCOA7205;13.2847%;20220812;Total capital ratio (item 47 divided by item 48);RCRI;51
+20220630;682563;RCOA7206;12.4212%;20220812;Tier 1 capital ratio (item 26 divided by item 48);RCRI;50
+20220630;682563;RCOA8274;3423585;20220812;Tier 1 capital (sum of items 19 and 25);RCRI;26
+20220630;682563;RCOAA223;27562401;20220812;Total risk-weighted assets (from Schedule RC-R, Part II, item 31);RCRI;48
+20220630;682563;RCOAA224;51698550;20220812;Total assets for the leverage ratio (item 27 minus items 28 and 29);RCRI;30
+20220630;682563;RCOAB530;-874206;20220812;Accumulated other comprehensive income (AOCI);RCRI;3
+20220630;682563;RCOAB596;-9954;20220812;LESS: Other deductions from (additions to) assets for leverage ratio purposes;RCRI;29
+20220630;682563;RCOAH311;5.2847%;20220812;Capital conservation buffer;RCRI;52a
+20220630;682563;RCOAJJ29;2;20220812;Does your institution have a CECL transition election in effect as of the quarter-end report date?  (enter "0" for No: enter "1" for Yes with a 3-year CECL transition election: enter "2" for Yes with a 5-year 2020 CECL transition election.);RCRI;2a
+20220630;682563;RCOAKW00;2911577;20220812;Retained earnings;RCRI;2
+20220630;682563;RCOAKW03;52351679;20220812;Average total consolidated assets;RCRI;27
+20220630;682563;RCOALB58;0;20220812;LESS: Investments in the capital of unconsolidated financial institutions, net of associated DTLs, that exceed 25 percent of item 12;RCRI;13
+20220630;682563;RCOALB59;0;20220812;LESS: MSAs, net of associated DTLs, that exceed 25 percent of item 12;RCRI;14
+20220630;682563;RCOALB60;0;20220812;LESS: DTAs arising from temporary differences that could not be realized through net operating loss carrybacks, net of related valuation allowances and net of DTLs, that exceed 25 percent of item 12;RCRI;15
+20220630;682563;RCOALE74;0;20220812;Does your institution have a community bank leverage ratio (CBLR) framework election in effect as of the quarter-end report date? (enter "1" for Yes: enter "0" for No);RCRI;31a
+20220630;682563;RCOAP742;1175091;20220812;Common stock plus related surplus, net of treasury stock and unearned employee stock ownership plan (ESOP) shares;RCRI;1
+20220630;682563;RCOAP793;12.4212%;20220812;Common equity tier 1 capital ratio (item 19 divided by item 48);RCRI;49
+20220630;682563;RCOAP838;1;20220812;AOCI opt-out election (enter "1" for Yes: enter "0" for No.);RCRI;3a
+20220630;682563;RCOAP839;0;20220812;Common equity tier 1 minority interest includable in common equity tier 1 capital;RCRI;4
+20220630;682563;RCOAP840;3212462;20220812;Common equity tier 1 capital before adjustments and deductions (sum of items 1 through 4);RCRI;5
+20220630;682563;RCOAP841;633305;20220812;LESS: Goodwill net of associated deferred tax liabilities (DTLs);RCRI;6
+20220630;682563;RCOAP842;589;20220812;LESS: Intangible assets (other than goodwill and mortgage servicing assets (MSAs)), net of associated DTLs;RCRI;7
+20220630;682563;RCOAP843;0;20220812;LESS: Deferred tax assets (DTAs) that arise from net operating loss and tax credit carryforwards, net of any related valuation allowances and net of DTLs;RCRI;8
+20220630;682563;RCOAP844;-842486;20220812;LESS:  Net unrealized gains (losses) on available-for-sale debt securities (if a gain, report as a positive value: if a loss, report as a negative value);RCRI;9a
+20220630;682563;RCOAP846;0;20220812;LESS: Accumulated net gains (losses) on cash flow hedges (if a gain, report as a positive value: if a loss, report as a negative value);RCRI;9c
+20220630;682563;RCOAP847;-31720;20220812;LESS: Amounts recorded in AOCI attributed to defined benefit postretirement plans resulting from the initial and subsequent application of the relevant GAAP standards that pertain to such plans (if a gain, report as a positive value: if a loss, report as a negative value);RCRI;9d
+20220630;682563;RCOAP848;0;20220812;LESS: Net unrealized gains (losses) on held-to-maturity securities that are included in AOCI (if a gain, report as a positive value: if a loss, report as a negative value);RCRI;9e
+20220630;682563;RCOAP850;29189;20220812;LESS: All other deductions from (additions to) common equity tier 1 capital before threshold-based deductions;RCRI;10b
+20220630;682563;RCOAP852;3423585;20220812;Subtotal (item 5 minus items 6 through 10.b);RCRI;12
+20220630;682563;RCOAP857;0;20220812;LESS: Deductions applied to common equity tier 1 capital due to insufficient amounts of additional tier 1 capital and tier 2 capital to cover deductions;RCRI;17
+20220630;682563;RCOAP858;0;20220812;Total adjustments and deductions for common equity tier 1 capital (sum of items 13 through 17);RCRI;18
+20220630;682563;RCOAP859;3423585;20220812;Common equity tier 1 capital (item 12 minus item 18);RCRI;19
+20220630;682563;RCOAP860;0;20220812;Additional tier 1 capital instruments plus related surplus;RCRI;20
+20220630;682563;RCOAP861;0;20220812;Non-qualifying capital instruments subject to phase out from additional tier 1 capital ;RCRI;21
+20220630;682563;RCOAP862;0;20220812;Tier 1 minority interest not included in common equity tier 1 capital;RCRI;22
+20220630;682563;RCOAP863;0;20220812;Additional tier 1 capital before deductions (sum of items 20, 21, and 22);RCRI;23
+20220630;682563;RCOAP864;0;20220812;LESS: Additional tier 1 capital deductions;RCRI;24
+20220630;682563;RCOAP865;0;20220812;Additional tier 1 capital (greater of item 23 minus item 24, or zero);RCRI;25
+20220630;682563;RCOAP866;0;20220812;Tier 2 capital instruments plus related surplus;RCRI;39
+20220630;682563;RCOAP867;0;20220812;Non-qualifying capital instruments subject to phase-out from tier 2 capital;RCRI;40
+20220630;682563;RCOAP868;0;20220812;Total capital minority interest that is not included in tier 1 capital;RCRI;41
+20220630;682563;RCOAP870;237995;20220812;Tier 2 capital before deductions (sum of items 39 through 42);RCRI;44
+20220630;682563;RCOAP872;0;20220812;LESS: Tier 2 capital deductions;RCRI;45
+20220630;682563;RCOAP875;663083;20220812;LESS: Deductions from common equity tier 1 capital and additional tier 1 capital (sum of items 6, 7, 8, 10.b, 13 through 15, 17, and certain elements of item 24 - see instructions);RCRI;28
+20220630;682563;RCOAQ258;0;20220812;LESS: Unrealized net gain (loss) related to changes in the fair value of liabilities that are due to changes in own credit risk (if a gain, report as a positive value: if a loss, report as a negative value);RCRI;10a
+20220630;682563;RCON0010;13562942;20220812;Total;RCA;5
+20220630;682563;RCON0020;499008;20220812;Cash items in process of collection and unposted debits;RCA;1a
+20220630;682563;RCON0070;24560;20220812;Balances due from banks in foreign countries and foreign central banks;RCA;3
+20220630;682563;RCON0071;12809937;20220812;Interest-bearing balances;RC;1b
+20220630;682563;RCON0080;227006;20220812;Currency and coin;RCA;1b
+20220630;682563;RCON0081;753005;20220812;Noninterest-bearing balances and currency and coin;RC;1a
+20220630;682563;RCON0082;108987;20220812;Balances due from depository institutions in the U.S;RCA;2
+20220630;682563;RCON0090;12703381;20220812;Balances due from Federal Reserve Banks;RCA;4
+20220630;682563;RCON0211;0;20220812;U.S. Treasury securities;RCB;1
+20220630;682563;RCON0213;0;20220812;U.S. Treasury securities;RCB;1
+20220630;682563;RCON0352;2384450;20220812;Other savings deposits (excludes MMDAs);RCE;M2a2
+20220630;682563;RCON0416;4646937;20220812;Pledged securities;RCB;M1
+20220630;682563;RCON1226;683;20220812;Lease financing receivables;RCN;8
+20220630;682563;RCON1227;37;20220812;Lease financing receivables;RCN;8
+20220630;682563;RCON1228;2480;20220812;Lease financing receivables;RCN;8
+20220630;682563;RCON1248;0;20220812;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-N, item 1, above);RCN;M3a
+20220630;682563;RCON1249;0;20220812;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-N, item 1, above);RCN;M3a
+20220630;682563;RCON1250;0;20220812;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-N, item 1, above);RCN;M3a
+20220630;682563;RCON1254;0;20220812;Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RC-N, item 4, above);RCN;M3c
+20220630;682563;RCON1255;0;20220812;Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RC-N, item 4, above);RCN;M3c
+20220630;682563;RCON1256;0;20220812;Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RC-N, item 4, above);RCN;M3c
+20220630;682563;RCON1286;4656896;20220812;U.S. Treasury securities;RCB;1
+20220630;682563;RCON1287;4416299;20220812;U.S. Treasury securities;RCB;1
+20220630;682563;RCON1288;766;20220812;Loans to depository institutions and acceptances of other banks;RCCI;2
+20220630;682563;RCON1403;35125;20220812;Total loans and leases (sum of items 1 through 8);RCN;9
+20220630;682563;RCON1406;48377;20220812;Total loans and leases (sum of items 1 through 8);RCN;9
+20220630;682563;RCON1407;10625;20220812;Total loans and leases (sum of items 1 through 8);RCN;9
+20220630;682563;RCON1420;55040;20220812;Secured by farmland (including farm residential and other improvements);RCCI;1b
+20220630;682563;RCON1460;267332;20220812;Secured by multifamily (5 or more) residential properties;RCCI;1d
+20220630;682563;RCON1545;14634;20220812;Loans for purchasing or carrying securities (secured and unsecured);RCCI;9b1
+20220630;682563;RCON1578;0;20220812;Repossessed personal property (including vehicles);RCF;6b
+20220630;682563;RCON1583;0;20220812;Loans to finance agricultural production and other loans to farmers (included in Schedule RC-N, item 7, above);RCN;M4
+20220630;682563;RCON1590;22114;20220812;Loans to finance agricultural production and other loans to farmers;RCCI;3
+20220630;682563;RCON1594;0;20220812;Loans to finance agricultural production and other loans to farmers (included in Schedule RC-N, item 7, above);RCN;M4
+20220630;682563;RCON1597;0;20220812;Loans to finance agricultural production and other loans to farmers (included in Schedule RC-N, item 7, above);RCN;M4
+20220630;682563;RCON1606;17805;20220812;Commercial and industrial loans;RCN;4
+20220630;682563;RCON1607;8305;20220812;Commercial and industrial loans;RCN;4
+20220630;682563;RCON1608;16320;20220812;Commercial and industrial loans;RCN;4
+20220630;682563;RCON1737;0;20220812;Other domestic debt securities;RCB;6a
+20220630;682563;RCON1738;0;20220812;Other domestic debt securities;RCB;6a
+20220630;682563;RCON1739;0;20220812;Other domestic debt securities;RCB;6a
+20220630;682563;RCON1741;0;20220812;Other domestic debt securities;RCB;6a
+20220630;682563;RCON1742;1500;20220812;Other foreign debt securities;RCB;6b
+20220630;682563;RCON1743;1439;20220812;Other foreign debt securities;RCB;6b
+20220630;682563;RCON1744;0;20220812;Other foreign debt securities;RCB;6b
+20220630;682563;RCON1746;0;20220812;Other foreign debt securities;RCB;6b
+20220630;682563;RCON1752;42365;20220812;Equity investments without readily determinable fair values;RCF;4
+20220630;682563;RCON1754;1946586;20220812;Total (sum of items 1 through 7);RCB;8
+20220630;682563;RCON1763;5616352;20220812;To U.S. addressees (domicile);RCCI;4a
+20220630;682563;RCON1764;16827;20220812;To non-U.S. addressees (domicile);RCCI;4b
+20220630;682563;RCON1766;5633179;20220812;Commercial and industrial loans;RCCI;4
+20220630;682563;RCON1771;1828516;20220812;Total (sum of items 1 through 7);RCB;8
+20220630;682563;RCON1772;17807897;20220812;Total (sum of items 1 through 7);RCB;8
+20220630;682563;RCON1773;16739320;20220812;Total (sum of items 1 through 7);RCB;8
+20220630;682563;RCON1778;0;20220812;Amortized cost of held-to-maturity securities sold or transferred to available-for-sale or trading securities during the calendar year-to-date (report the amortized cost at date of sale or transfer);RCB;M3
+20220630;682563;RCON1797;603907;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCCI;1c1
+20220630;682563;RCON2107;215330;20220812;Obligations (other than securities and leases) of states and political subdivisions in the U.S.;RCCI;8
+20220630;682563;RCON2122;16736029;20220812;Total loans and leases held for investment and held for sale (sum of items 1 through 10 minus item 11) (must equal Schedule RC, sum of items 4.a and 4.b);RCCI;12
+20220630;682563;RCON2123;0;20220812;LESS: Any unearned income on loans reflected in items 1-9 above;RCCI;11
+20220630;682563;RCON2130;918;20220812;Investments in unconsolidated subsidiaries and associated companies;RC;8
+20220630;682563;RCON2143;653256;20220812;Total (sum of items 2.a, 2.b, and 2.c) (must equal Schedule RC, item 10);RCM;2d
+20220630;682563;RCON2145;1046495;20220812;Premises and fixed assets (including capitalized leases);RC;6
+20220630;682563;RCON2148;244812;20220812;Net deferred tax assets;RCF;2
+20220630;682563;RCON2150;1767;20220812;Total (sum of items 3.a through 3.e) (must equal Schedule RC, item 7);RCM;3f
+20220630;682563;RCON2160;981045;20220812;Total (sum of items 1 through 6) (must equal Schedule RC, item 11);RCF;7
+20220630;682563;RCON2165;284830;20220812;Lease financing receivables (net of unearned income);RCCI;10
+20220630;682563;RCON2166;0;20220812;Prepaid expenses;RCF;6a
+20220630;682563;RCON2168;309996;20220812;All other assets (itemize and describe amounts greater than $100,000 that exceed 25% of this item);RCF;6
+20220630;682563;RCON2170;51845683;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCON2200;46111332;20220812;In domestic offices (sum of totals of columns A and C from Schedule RC-E);RC;13a
+20220630;682563;RCON2202;122;20220812;U.S. Government;RCE;2
+20220630;682563;RCON2203;753935;20220812;States and political subdivisions in the U.S.;RCE;3
+20220630;682563;RCON2210;3347002;20220812;Total (sum of items 1 through 6) (sum of columns A and C must equal Schedule RC, item 13.a);RCE;7
+20220630;682563;RCON2213;898;20220812;Banks in foreign countries;RCE;5
+20220630;682563;RCON2215;3939719;20220812;Total (sum of items 1 through 6) (sum of columns A and C must equal Schedule RC, item 13.a);RCE;7
+20220630;682563;RCON2216;0;20220812;Foreign governments and official institutions (including foreign central banks);RCE;6
+20220630;682563;RCON2236;0;20220812;Banks in foreign countries;RCE;5
+20220630;682563;RCON2365;0;20220812;Total brokered deposits;RCE;M1b
+20220630;682563;RCON2377;0;20220812;Foreign governments and official institutions (including foreign central banks);RCE;6
+20220630;682563;RCON2385;42171613;20220812;Total (sum of items 1 through 6) (sum of columns A and C must equal Schedule RC, item 13.a);RCE;7
+20220630;682563;RCON2520;0;20220812;U.S. Government;RCE;2
+20220630;682563;RCON2530;764697;20220812;States and political subdivisions in the U.S.;RCE;3
+20220630;682563;RCON2651;0;20220812;Advances with a remaining maturity of one year or less (included in item 5.a.(1)(a) above);RCM;5a2
+20220630;682563;RCON2746;500;20220812;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-C, part I, items 4 and 9, column B;RCCI;M3
+20220630;682563;RCON2930;558141;20220812;Total;RCG;5
+20220630;682563;RCON2932;0;20220812;Dividends declared but not yet payable;RCG;4c
+20220630;682563;RCON2938;461104;20220812;All other liabilities (itemize and describe amounts greater than $100,000 that exceed 25 percent of this item);RCG;4
+20220630;682563;RCON2948;48679431;20220812;Total liabilities (sum of items 13 through 20);RC;21
+20220630;682563;RCON3000;0;20220812;Noncontrolling (minority) interests in consolidated subsidiaries;RC;27b
+20220630;682563;RCON3049;0;20220812;Net deferred tax liabilities;RCG;2
+20220630;682563;RCON3066;0;20220812;Accounts payable;RCG;4a
+20220630;682563;RCON3123;239632;20220812;LESS: Allowance for loan and lease losses;RCRII;6
+20220630;682563;RCON3128;0;20220812;LESS: Allocated transfer risk reserve;RCRII;30
+20220630;682563;RCON3163;652667;20220812;Goodwill;RCM;2b
+20220630;682563;RCON3164;0;20220812;Mortgage servicing assets;RCM;2a
+20220630;682563;RCON3190;0;20220812;Total (sum of items 5.a.(1)(a)-(d) and items 5.b.(1)(a)-(d)) (must equal Schedule RC, item 16);RCM;5c
+20220630;682563;RCON3200;0;20220812;Subordinated notes and debentures;RC;19
+20220630;682563;RCON3210;3166252;20220812;Total bank equity capital (sum of items 23 through 26.c);RC;27a
+20220630;682563;RCON3230;8500;20220812;Common stock;RC;24
+20220630;682563;RCON3300;51845683;20220812;Total liabilities and equity capital (sum of items 21 and 28);RC;29
+20220630;682563;RCON3353;1778198;20220812;Federal funds purchased and securities sold under agreements to repurchase;RCK;12
+20220630;682563;RCON3355;0;20220812;Other borrowed money (includes mortgage indebtedness and obligations under capitalized leases);RCK;13
+20220630;682563;RCON3360;16384847;20220812;Total loans;RCK;6a
+20220630;682563;RCON3365;34200;20220812;Federal funds sold and securities purchased under agreements to resell;RCK;5
+20220630;682563;RCON3368;52351680;20220812;Total assets;RCK;9
+20220630;682563;RCON3381;13040852;20220812;Interest-bearing balances due from depository institutions;RCK;1
+20220630;682563;RCON3386;21927;20220812;Loans to finance agricultural production and other loans to farmers ;RCK;M1
+20220630;682563;RCON3387;5759264;20220812;Commercial and industrial loans;RCK;6c
+20220630;682563;RCON3401;371528;20220812;Trading assets;RCK;7
+20220630;682563;RCON3411;5696;20220812;Commercial and similar letters of credit;RCL;4
+20220630;682563;RCON3430;0;20220812;All other off-balance sheet liabilities (exclude derivatives) (itemize and describe each component of this item over 25% of Schedule RC, item 27.a, "Total bank equity capital");RCL;9
+20220630;682563;RCON3432;0;20220812;Securities borrowed;RCL;6b
+20220630;682563;RCON3433;0;20220812;Securities lent (including customers' securities lent where the customer is indemnified against loss by the reporting bank);RCL;6a
+20220630;682563;RCON3434;0;20220812;Commitments to purchase when-issued securities;RCL;9b
+20220630;682563;RCON3435;0;20220812;Commitments to sell when-issued securities;RCL;10a
+20220630;682563;RCON3450;2300481;20220812;Swaps;RCL;12e
+20220630;682563;RCON3465;1648607;20220812;Loans secured by 1-4 family residential properties;RCK;6b1
+20220630;682563;RCON3466;7820928;20220812;All other loans secured by real estate;RCK;6b2
+20220630;682563;RCON3484;281005;20220812;Lease financing receivables (net of unearned income);RCK;8
+20220630;682563;RCON3485;627042;20220812;Interest-bearing transaction accounts (interest-bearing demand deposits, NOW accounts, ATS accounts, and telephone and preauthorized transfer accounts);RCK;10
+20220630;682563;RCON3493;0;20220812;Secured by farmland;RCN;1b
+20220630;682563;RCON3494;0;20220812;Secured by farmland;RCN;1b
+20220630;682563;RCON3495;0;20220812;Secured by farmland;RCN;1b
+20220630;682563;RCON3499;156;20220812;Secured by multifamily (5 or more) residential properties;RCN;1d
+20220630;682563;RCON3500;0;20220812;Secured by multifamily (5 or more) residential properties;RCN;1d
+20220630;682563;RCON3501;0;20220812;Secured by multifamily (5 or more) residential properties;RCN;1d
+20220630;682563;RCON3505;0;20220812;Debt securities and other assets (exclude other real estate owned and other repossessed assets);RCN;10
+20220630;682563;RCON3506;0;20220812;Debt securities and other assets (exclude other real estate owned and other repossessed assets);RCN;10
+20220630;682563;RCON3507;0;20220812;Debt securities and other assets (exclude other real estate owned and other repossessed assets);RCN;10
+20220630;682563;RCON3531;24615;20220812;U.S. Treasury securities;RCD;1
+20220630;682563;RCON3532;0;20220812;U.S. Government agency obligations (exclude mortgage-backed securities);RCD;2
+20220630;682563;RCON3533;65;20220812;Securities issued by states and political subdivisions in the U.S.;RCD;3
+20220630;682563;RCON3541;0;20220812;Other trading assets;RCD;9
+20220630;682563;RCON3543;286885;20220812;Derivative assets;RCQ;5a
+20220630;682563;RCON3545;311565;20220812;Total trading assets (sum of items 1 through 11) (must equal Schedule RC, item 5);RCD;12
+20220630;682563;RCON3546;0;20220812;Liability for short positions ;RCD;13a
+20220630;682563;RCON3547;302073;20220812;Derivative liabilities;RCQ;10a
+20220630;682563;RCON3548;302073;20220812;Total trading liabilities (sum of items 13.a through 14) (must equal Schedule RC, item 15);RCD;15
+20220630;682563;RCON3549;0;20220812;Amount of component;RCF;6h2
+20220630;682563;RCON3550;0;20220812;Amount of component;RCF;6i2
+20220630;682563;RCON3551;0;20220812;Amount of component;RCF;6j2
+20220630;682563;RCON3552;0;20220812;Amount of component;RCG;4f2
+20220630;682563;RCON3553;0;20220812;Amount of component;RCG;4g2
+20220630;682563;RCON3554;0;20220812;Amount of component;RCG;4h2
+20220630;682563;RCON3555;0;20220812;Amount of component;RCL;9d2
+20220630;682563;RCON3556;0;20220812;Amount of component;RCL;9e2
+20220630;682563;RCON3557;0;20220812;Amount of component;RCL;9f2
+20220630;682563;RCON3632;2865367;20220812;Retained earnings;RC;26a
+20220630;682563;RCON3645;4392;20220812;Interest accrued and unpaid on deposits;RCG;1a
+20220630;682563;RCON3646;42399;20220812;Other expenses accrued and unpaid (includes accrued income taxes payable);RCG;1b
+20220630;682563;RCON3656;0;20220812;Direct and indirect investments in real estate ventures;RC;9
+20220630;682563;RCON3814;794585;20220812;Revolving, open-end lines secured by 1-4 family residential properties, i.e., home equity lines;RCL;1a
+20220630;682563;RCON3815;30830;20220812;Credit card lines (Sum of items 1.b.(1) and 1.b.(2) must equal item 1.b);RCL;1b
+20220630;682563;RCON3817;0;20220812;Securities underwriting;RCL;1d
+20220630;682563;RCON3819;273796;20220812;Financial standby letters of credit;RCL;2
+20220630;682563;RCON3820;29847;20220812;Amount of financial standby letters of credit conveyed to others;RCL;2a
+20220630;682563;RCON3821;65132;20220812;Performance standby letters of credit;RCL;3
+20220630;682563;RCON3822;6588;20220812;Amount of performance standby letters of credit conveyed to others;RCL;3a
+20220630;682563;RCON3826;0;20220812;Swaps;RCL;12e
+20220630;682563;RCON3838;0;20220812;Perpetual preferred stock and related surplus;RC;23
+20220630;682563;RCON3839;1166591;20220812;Surplus (exclude all surplus related to preferred stock);RC;25
+20220630;682563;RCON5367;437734;20220812;Secured by first liens;RCCI;1c2a
+20220630;682563;RCON5368;680396;20220812;Secured by junior liens;RCCI;1c2b
+20220630;682563;RCON5369;0;20220812;Loans and leases held for sale;RC;4a
+20220630;682563;RCON5370;531;20220812;Adjustable rate closed-end loans secured by first liens on 1-4 family residential properties (included in Schedule RC-C, part I, item 1.c.(2)(a), column B);RCCI;M4
+20220630;682563;RCON5380;0;20220812;Loans to and acceptances of foreign banks (included in Schedule RC-N, item 2, above);RCN;M3b
+20220630;682563;RCON5381;0;20220812;Loans to and acceptances of foreign banks (included in Schedule RC-N, item 2, above);RCN;M3b
+20220630;682563;RCON5382;0;20220812;Loans to and acceptances of foreign banks (included in Schedule RC-N, item 2, above);RCN;M3b
+20220630;682563;RCON5398;2266;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCN;1c1
+20220630;682563;RCON5399;247;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCN;1c1
+20220630;682563;RCON5400;655;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCN;1c1
+20220630;682563;RCON5459;1911;20220812;All other loans;RCN;7
+20220630;682563;RCON5460;439;20220812;All other loans;RCN;7
+20220630;682563;RCON5461;2438;20220812;All other loans;RCN;7
+20220630;682563;RCON5508;0;20220812;Construction, land development, and other land;RCM;3a
+20220630;682563;RCON5509;0;20220812;Farmland;RCM;3b
+20220630;682563;RCON5510;1767;20220812;1-4 family residential properties;RCM;3c
+20220630;682563;RCON5511;0;20220812;Multifamily (5 or more) residential properties;RCM;3d
+20220630;682563;RCON5512;0;20220812;Nonfarm nonresidential properties;RCM;3e
+20220630;682563;RCON5564;105;20220812;With original amounts of $100,000 or less;RCCII;3a
+20220630;682563;RCON5565;4745;20220812;With original amounts of $100,000 or less;RCCII;3a
+20220630;682563;RCON5566;581;20220812;With original amounts of more than $100,000 through $250,000;RCCII;3b
+20220630;682563;RCON5567;75331;20220812;With original amounts of more than $100,000 through $250,000;RCCII;3b
+20220630;682563;RCON5568;1531;20220812;With original amounts of more than $250,000 through $1,000,000;RCCII;3c
+20220630;682563;RCON5569;670868;20220812;With original amounts of more than $250,000 through $1,000,000;RCCII;3c
+20220630;682563;RCON5570;4733;20220812;With original amounts of $100,000 or less;RCCII;4a
+20220630;682563;RCON5571;134952;20220812;With original amounts of $100,000 or less;RCCII;4a
+20220630;682563;RCON5572;1601;20220812;With original amounts of more than $100,000 through $250,000;RCCII;4b
+20220630;682563;RCON5573;173748;20220812;With original amounts of more than $100,000 through $250,000;RCCII;4b
+20220630;682563;RCON5574;1983;20220812;With original amounts of more than $250,000 through $1,000,000;RCCII;4c
+20220630;682563;RCON5575;678883;20220812;With original amounts of more than $250,000 through $1,000,000;RCCII;4c
+20220630;682563;RCON5578;0;20220812;With original amounts of $100,000 or less;RCCII;7a
+20220630;682563;RCON5579;0;20220812;With original amounts of $100,000 or less;RCCII;7a
+20220630;682563;RCON5580;4;20220812;With original amounts of more than $100,000 through $250,000;RCCII;7b
+20220630;682563;RCON5581;796;20220812;With original amounts of more than $100,000 through $250,000;RCCII;7b
+20220630;682563;RCON5582;4;20220812;With original amounts of more than $250,000 through $500,000;RCCII;7c
+20220630;682563;RCON5583;1359;20220812;With original amounts of more than $250,000 through $500,000;RCCII;7c
+20220630;682563;RCON5584;1;20220812;With original amounts of $100,000 or less;RCCII;8a
+20220630;682563;RCON5585;7;20220812;With original amounts of $100,000 or less;RCCII;8a
+20220630;682563;RCON5586;1;20220812;With original amounts of more than $100,000 through $250,000;RCCII;8b
+20220630;682563;RCON5587;35;20220812;With original amounts of more than $100,000 through $250,000;RCCII;8b
+20220630;682563;RCON5588;1;20220812;With original amounts of more than $250,000 through $500,000;RCCII;8c
+20220630;682563;RCON5589;65;20220812;With original amounts of more than $250,000 through $500,000;RCCII;8c
+20220630;682563;RCON5591;0;20220812;All other off-balance sheet assets (exclude derivatives) (itemize and describe each component of this item over 25% of Schedule RC, item 27.a, "Total bank equity capital");RCL;10
+20220630;682563;RCON5592;0;20220812;Amount of component;RCL;10b2
+20220630;682563;RCON5593;0;20220812;Amount of component;RCL;10c2
+20220630;682563;RCON5594;0;20220812;Amount of component;RCL;10d2
+20220630;682563;RCON5595;0;20220812;Amount of component;RCL;10e2
+20220630;682563;RCON5597;25810407;20220812;Estimated amount of uninsured deposits, including related interest accrued and unpaid (see instructions);RCO;M2
+20220630;682563;RCON6164;527060;20220812;Aggregate amount of all extensions of credit to all executive officers, directors, principal shareholders, and their related interests;RCM;1a
+20220630;682563;RCON6165;6;20220812;Number of executive officers, directors, and principal shareholders to whom the amount of all extensions of credit by the reporting bank (including extensions of credit to related interests) equals or exceeds the lesser of $500,000 or 5 percent of total capital as defined for this purpose in agency regulations;RCM;1b
+20220630;682563;RCON6550;0;20220812;Not secured by real estate;RCL;1c2
+20220630;682563;RCON6558;0;20220812;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-N, items 4 and 7, above;RCN;M2
+20220630;682563;RCON6559;0;20220812;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-N, items 4 and 7, above;RCN;M2
+20220630;682563;RCON6560;0;20220812;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-N, items 4 and 7, above;RCN;M2
+20220630;682563;RCON6631;19293298;20220812;Noninterest-bearing;RC;13a1
+20220630;682563;RCON6636;26818034;20220812;Interest-bearing;RC;13a2
+20220630;682563;RCON6648;325984;20220812;Total time deposits of less than $100,000;RCE;M2b
+20220630;682563;RCON6810;38268298;20220812;Money market deposit accounts (MMDAs);RCE;M2a1
+20220630;682563;RCON6835;170407;20220812;Total Individual Retirement Accounts (IRAs) and Keogh Plan accounts;RCE;M1a
+20220630;682563;RCON6860;false;20220812;Indicate in the appropriate box at the right whether all or substantially all of the dollar volume of your bank's "Loans secured by farmland (including farm residential and other improvements)" reported in Schedule RC-C, part I, item 1.b, and all or substantially all of the dollar volume of your bank's "Loans to finance agricultural production and other loans to farmers" reported in Schedule RC-C, part I, item 3, have original amounts of $100,000 or less;RCCII;5
+20220630;682563;RCON6979;false;20220812;Comments?;NARR;1
+20220630;682563;RCON6999;false;20220812;Indicate in the appropriate box at the right whether all or substantially all of the dollar volume of your bank's "Loans secured by nonfarm nonresidential properties" reported in Schedule RC-C, part I, items 1.e.(1) and 1.e.(2), and all or substantially all of the dollar volume of your bank's "Commercial and industrial loans" reported in Schedule RC-C, part I, item 4, have original amounts of $100,000 or less;RCCII;1
+20220630;682563;RCON8496;1418411;20220812;Securities issued by states and political subdivisions in the U.S.;RCB;3
+20220630;682563;RCON8497;1340785;20220812;Securities issued by states and political subdivisions in the U.S.;RCB;3
+20220630;682563;RCON8498;7183199;20220812;Securities issued by states and political subdivisions in the U.S.;RCB;3
+20220630;682563;RCON8499;6987296;20220812;Securities issued by states and political subdivisions in the U.S.;RCB;3
+20220630;682563;RCON8693;0;20220812;Futures contracts;RCL;12a
+20220630;682563;RCON8694;0;20220812;Futures contracts;RCL;12a
+20220630;682563;RCON8695;0;20220812;Futures contracts;RCL;12a
+20220630;682563;RCON8696;0;20220812;Futures contracts;RCL;12a
+20220630;682563;RCON8697;0;20220812;Forward contracts;RCL;12b
+20220630;682563;RCON8698;1088;20220812;Forward contracts;RCL;12b
+20220630;682563;RCON8699;0;20220812;Forward contracts;RCL;12b
+20220630;682563;RCON8700;0;20220812;Forward contracts;RCL;12b
+20220630;682563;RCON8701;0;20220812;Written options;RCL;12c1
+20220630;682563;RCON8702;0;20220812;Written options;RCL;12c1
+20220630;682563;RCON8703;0;20220812;Written options;RCL;12c1
+20220630;682563;RCON8704;0;20220812;Written options;RCL;12c1
+20220630;682563;RCON8705;0;20220812;Purchased options;RCL;12c2
+20220630;682563;RCON8706;0;20220812;Purchased options;RCL;12c2
+20220630;682563;RCON8707;0;20220812;Purchased options;RCL;12c2
+20220630;682563;RCON8708;0;20220812;Purchased options;RCL;12c2
+20220630;682563;RCON8709;269389;20220812;Written options;RCL;12d1
+20220630;682563;RCON8710;14080;20220812;Written options;RCL;12d1
+20220630;682563;RCON8711;0;20220812;Written options;RCL;12d1
+20220630;682563;RCON8712;655093;20220812;Written options;RCL;12d1
+20220630;682563;RCON8713;269389;20220812;Purchased options;RCL;12d2
+20220630;682563;RCON8714;14080;20220812;Purchased options;RCL;12d2
+20220630;682563;RCON8715;0;20220812;Purchased options;RCL;12d2
+20220630;682563;RCON8716;655093;20220812;Purchased options;RCL;12d2
+20220630;682563;RCON8719;0;20220812;Swaps;RCL;12e
+20220630;682563;RCON8720;777949;20220812;Swaps;RCL;12e
+20220630;682563;RCON8723;0;20220812;Total gross notional amount of derivative contracts held for trading;RCL;13
+20220630;682563;RCON8724;2088135;20220812;Total gross notional amount of derivative contracts held for trading;RCL;13
+20220630;682563;RCON8725;1743;20220812;Total gross notional amount of derivative contracts held for purposes other than trading;RCL;14
+20220630;682563;RCON8726;0;20220812;Total gross notional amount of derivative contracts held for purposes other than trading;RCL;14
+20220630;682563;RCON8727;0;20220812;Total gross notional amount of derivative contracts held for purposes other than trading;RCL;14
+20220630;682563;RCON8728;0;20220812;Total gross notional amount of derivative contracts held for purposes other than trading;RCL;14
+20220630;682563;RCON8733;41468;20220812;Gross positive fair value;RCL;15a1
+20220630;682563;RCON8734;199;20220812;Gross positive fair value;RCL;15a1
+20220630;682563;RCON8735;0;20220812;Gross positive fair value;RCL;15a1
+20220630;682563;RCON8736;245218;20220812;Gross positive fair value;RCL;15a1
+20220630;682563;RCON8737;58240;20220812;Gross negative fair value;RCL;15a2
+20220630;682563;RCON8738;195;20220812;Gross negative fair value;RCL;15a2
+20220630;682563;RCON8739;0;20220812;Gross negative fair value;RCL;15a2
+20220630;682563;RCON8740;243638;20220812;Gross negative fair value;RCL;15a2
+20220630;682563;RCON8741;18;20220812;Gross positive fair value;RCL;15b1
+20220630;682563;RCON8742;0;20220812;Gross positive fair value;RCL;15b1
+20220630;682563;RCON8743;0;20220812;Gross positive fair value;RCL;15b1
+20220630;682563;RCON8744;0;20220812;Gross positive fair value;RCL;15b1
+20220630;682563;RCON8745;0;20220812;Gross negative fair value;RCL;15b2
+20220630;682563;RCON8746;0;20220812;Gross negative fair value;RCL;15b2
+20220630;682563;RCON8747;0;20220812;Gross negative fair value;RCL;15b2
+20220630;682563;RCON8748;0;20220812;Gross negative fair value;RCL;15b2
+20220630;682563;RCON8782;0;20220812;Amortized cost;RCB;M4a
+20220630;682563;RCON8783;0;20220812;Fair value;RCB;M4b
+20220630;682563;RCON9224;G5AHTAP80NWA3Q8RDC78;20220812;Legal Entity Identifier (LEI) (Report only if your institution already has an LEI.);ENT;7
+20220630;682563;RCON9999;20220630;20220812;Reporting date;ENT;1
+20220630;682563;RCONA126;2837516;20220812;Total gross notional amount of derivative contracts held for trading;RCL;13
+20220630;682563;RCONA127;29248;20220812;Total gross notional amount of derivative contracts held for trading;RCL;13
+20220630;682563;RCONA130;0;20220812;Other equity capital components;RC;26c
+20220630;682563;RCONA222;0;20220812;LESS: Excess allowance for loan and lease losses;RCRII;29
+20220630;682563;RCONA247;3878119;20220812;Loans and leases (reported in Schedule RC-C, part I, items 1 through 10, column B, above) with a REMAINING MATURITY of one year or less (excluding those in nonaccrual status);RCCI;M2c
+20220630;682563;RCONA248;559554;20220812;Debt securities with a REMAINING MATURITY of one year or less (included in Memorandum items 2.a through 2.c above);RCB;M2d
+20220630;682563;RCONA345;true;20220812;Does the institution have fiduciary powers?  (If "NO," do not complete Schedule RC-T.);RCT;1
+20220630;682563;RCONA346;true;20220812;Does the institution exercise the fiduciary powers it has been granted?;RCT;2
+20220630;682563;RCONA545;0;20220812;FDIC Certificate Number;RCO;M3b
+20220630;682563;RCONA549;321261;20220812;Three months or less;RCB;M2a1
+20220630;682563;RCONA550;238236;20220812;Over three months through 12 months;RCB;M2a2
+20220630;682563;RCONA551;3301354;20220812;Over one year through three years;RCB;M2a3
+20220630;682563;RCONA552;1320311;20220812;Over three years through five years;RCB;M2a4
+20220630;682563;RCONA553;3596632;20220812;Over five years through 15 years;RCB;M2a5
+20220630;682563;RCONA554;4045712;20220812;Over 15 years;RCB;M2a6
+20220630;682563;RCONA555;551;20220812;Three months or less;RCB;M2b1
+20220630;682563;RCONA556;17089;20220812;Over three months through 12 months;RCB;M2b2
+20220630;682563;RCONA557;10222;20220812;Over one year through three years;RCB;M2b3
+20220630;682563;RCONA558;928;20220812;Over three years through five years;RCB;M2b4
+20220630;682563;RCONA559;16738;20220812;Over five years through 15 years;RCB;M2b5
+20220630;682563;RCONA560;5275358;20220812;Over 15 years;RCB;M2b6
+20220630;682563;RCONA561;0;20220812;Three years or less;RCB;M2c1
+20220630;682563;RCONA562;541514;20220812;Over three years;RCB;M2c2
+20220630;682563;RCONA564;77698;20220812;Three months or less;RCCI;M2a1
+20220630;682563;RCONA565;5186;20220812;Over three months through 12 months;RCCI;M2a2
+20220630;682563;RCONA566;23345;20220812;Over one year through three years;RCCI;M2a3
+20220630;682563;RCONA567;54272;20220812;Over three years through five years;RCCI;M2a4
+20220630;682563;RCONA568;124241;20220812;Over five years through 15 years;RCCI;M2a5
+20220630;682563;RCONA569;152616;20220812;Over 15 years;RCCI;M2a6
+20220630;682563;RCONA570;9807732;20220812;Three months or less;RCCI;M2b1
+20220630;682563;RCONA571;208051;20220812;Over three months through 12 months;RCCI;M2b2
+20220630;682563;RCONA572;787308;20220812;Over one year through three years;RCCI;M2b3
+20220630;682563;RCONA573;1669979;20220812;Over three years through five years;RCCI;M2b4
+20220630;682563;RCONA574;3327930;20220812;Over five years through 15 years;RCCI;M2b5
+20220630;682563;RCONA575;462546;20220812;Over 15 years;RCCI;M2b6
+20220630;682563;RCONA589;1743;20220812;Interest rate swaps where the bank has agreed to pay a fixed rate;RCL;14a
+20220630;682563;RCONA590;0;20220812;Estimated fair value of mortgage servicing assets;RCM;2a1
+20220630;682563;RCONA591;0;20220812;Other financial assets (includes home equity lines);RCS;M2c
+20220630;682563;RCONB528;16736029;20220812;Loans and leases held for investment;RC;4b
+20220630;682563;RCONB529;16496397;20220812;Loans and leases held for investment, net of allowance (item 4.b minus 4.c);RC;4d
+20220630;682563;RCONB530;-874206;20220812;Accumulated other comprehensive income;RC;26b
+20220630;682563;RCONB531;766;20220812;To commercial banks in the U.S.;RCCI;2a
+20220630;682563;RCONB534;0;20220812;To other depository institutions in the U.S.;RCCI;2b
+20220630;682563;RCONB535;0;20220812;To banks in foreign countries;RCCI;2c
+20220630;682563;RCONB538;0;20220812;Credit cards;RCCI;6a
+20220630;682563;RCONB539;391849;20220812;Other revolving credit plans;RCCI;6b
+20220630;682563;RCONB549;2973275;20220812;Individuals, partnerships, and corporations (include all certified and official checks);RCE;1
+20220630;682563;RCONB550;41383885;20220812;Individuals, partnerships, and corporations (include all certified and official checks);RCE;1
+20220630;682563;RCONB551;211489;20220812;Commercial banks and other depository institutions in the U.S.;RCE;4
+20220630;682563;RCONB552;23031;20220812;Commercial banks and other depository institutions in the U.S.;RCE;4
+20220630;682563;RCONB556;194049;20220812;Accrued interest receivable;RCF;1
+20220630;682563;RCONB557;50246;20220812;Allowance for credit losses on off-balance sheet credit exposures;RCG;3
+20220630;682563;RCONB558;4217169;20220812;U.S. Treasury securities and U.S. Government agency obligations (excluding mortgage-backed securities);RCK;2
+20220630;682563;RCONB559;6257783;20220812;Mortgage-backed securities;RCK;3
+20220630;682563;RCONB560;8360934;20220812;All other debt securities and equity securities with readily determinable fair values not held for trading;RCK;4
+20220630;682563;RCONB561;0;20220812;Credit cards;RCK;6d1
+20220630;682563;RCONB562;486349;20220812;Other (includes revolving credit plans other than credit cards, automobile loans, and other consumer loans);RCK;6d2
+20220630;682563;RCONB563;40635215;20220812;Savings deposits (includes MMDAs);RCK;11a
+20220630;682563;RCONB569;true;20220812;Does the reporting bank sell private label or third party mutual funds and annuities?;RCM;6
+20220630;682563;RCONB570;3649285;20220812;Assets under the reporting bank's management in proprietary mutual funds and annuities;RCM;7
+20220630;682563;RCONB571;0;20220812;Other borrowings with a remaining maturity of one year or less (included in item 5.b.(1)(a) above);RCM;5b2
+20220630;682563;RCONB575;0;20220812;Credit cards;RCN;5a
+20220630;682563;RCONB576;0;20220812;Credit cards;RCN;5a
+20220630;682563;RCONB577;0;20220812;Credit cards;RCN;5a
+20220630;682563;RCONB704;27562401;20220812;Risk-weighted assets before deductions for excess allowance of loan and lease losses and allocated risk transfer risk reserve;RCRII;28
+20220630;682563;RCONB705;0;20220812;Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements;RCS;1
+20220630;682563;RCONB711;0;20220812;Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements;RCS;1
+20220630;682563;RCONB733;0;20220812;30-89 days past due;RCS;4a
+20220630;682563;RCONB739;0;20220812;30-89 days past due;RCS;4a
+20220630;682563;RCONB740;0;20220812;90 days or more past due;RCS;4b
+20220630;682563;RCONB746;0;20220812;90 days or more past due;RCS;4b
+20220630;682563;RCONB776;0;20220812;Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements;RCS;9
+20220630;682563;RCONB782;0;20220812;Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements;RCS;9
+20220630;682563;RCONB783;0;20220812;Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures;RCS;10
+20220630;682563;RCONB789;0;20220812;Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures;RCS;10
+20220630;682563;RCONB790;0;20220812;Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank;RCS;11
+20220630;682563;RCONB796;0;20220812;Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank;RCS;11
+20220630;682563;RCONB797;0;20220812;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11;RCS;12
+20220630;682563;RCONB803;0;20220812;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11;RCS;12
+20220630;682563;RCONB804;0;20220812;Closed-end 1-4 family residential mortgages serviced with recourse or other servicer-provided credit enhancements;RCS;M2a
+20220630;682563;RCONB805;0;20220812;Closed-end 1-4 family residential mortgages serviced with no recourse or other servicer-provided credit enhancements;RCS;M2b
+20220630;682563;RCONB806;0;20220812;Conduits sponsored by the bank, a bank affiliate, or the bank's holding company;RCS;M3a1
+20220630;682563;RCONB807;0;20220812;Conduits sponsored by other unrelated institutions;RCS;M3a2
+20220630;682563;RCONB808;0;20220812;Conduits sponsored by the bank, a bank affiliate, or the bank's holding company;RCS;M3b1
+20220630;682563;RCONB809;0;20220812;Conduits sponsored by other unrelated institutions;RCS;M3b2
+20220630;682563;RCONB834;0;20220812;Loans to depository institutions and acceptances of other banks;RCN;2
+20220630;682563;RCONB835;0;20220812;Loans to depository institutions and acceptances of other banks;RCN;2
+20220630;682563;RCONB836;0;20220812;Loans to depository institutions and acceptances of other banks;RCN;2
+20220630;682563;RCONB837;1888;20220812;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-C, Part I, items 1.a through 1.e, column B);RCCI;M5
+20220630;682563;RCONB838;0;20220812;Credit card receivables;RCB;M5a
+20220630;682563;RCONB839;0;20220812;Credit card receivables;RCB;M5a
+20220630;682563;RCONB840;0;20220812;Credit card receivables;RCB;M5a
+20220630;682563;RCONB841;0;20220812;Credit card receivables;RCB;M5a
+20220630;682563;RCONB842;0;20220812;Home equity lines;RCB;M5b
+20220630;682563;RCONB843;0;20220812;Home equity lines;RCB;M5b
+20220630;682563;RCONB844;0;20220812;Home equity lines;RCB;M5b
+20220630;682563;RCONB845;0;20220812;Home equity lines;RCB;M5b
+20220630;682563;RCONB846;0;20220812;Automobile loans;RCB;M5c
+20220630;682563;RCONB847;0;20220812;Automobile loans;RCB;M5c
+20220630;682563;RCONB848;0;20220812;Automobile loans;RCB;M5c
+20220630;682563;RCONB849;0;20220812;Automobile loans;RCB;M5c
+20220630;682563;RCONB850;0;20220812;Other consumer loans;RCB;M5d
+20220630;682563;RCONB851;0;20220812;Other consumer loans;RCB;M5d
+20220630;682563;RCONB852;0;20220812;Other consumer loans;RCB;M5d
+20220630;682563;RCONB853;0;20220812;Other consumer loans;RCB;M5d
+20220630;682563;RCONB854;0;20220812;Commercial and industrial loans;RCB;M5e
+20220630;682563;RCONB855;0;20220812;Commercial and industrial loans;RCB;M5e
+20220630;682563;RCONB856;0;20220812;Commercial and industrial loans;RCB;M5e
+20220630;682563;RCONB857;0;20220812;Commercial and industrial loans;RCB;M5e
+20220630;682563;RCONB858;0;20220812;Other;RCB;M5f
+20220630;682563;RCONB859;0;20220812;Other;RCB;M5f
+20220630;682563;RCONB860;0;20220812;Other;RCB;M5f
+20220630;682563;RCONB861;0;20220812;Other;RCB;M5f
+20220630;682563;RCONB867;true;20220812;Does the institution have any fiduciary or related activity (in the form of assets or accounts) to report in this schedule?  (If "NO," do not complete the rest of Schedule RC-T.);RCT;3
+20220630;682563;RCONB868;6869429;20220812;Personal trust and agency accounts;RCT;4
+20220630;682563;RCONB869;2659523;20220812;Personal trust and agency accounts;RCT;4
+20220630;682563;RCONB870;3365;20220812;Personal trust and agency accounts;RCT;4
+20220630;682563;RCONB871;65;20220812;Personal trust and agency accounts;RCT;4
+20220630;682563;RCONB872;219120;20220812;Employee benefit - defined contribution;RCT;5a
+20220630;682563;RCONB873;2923540;20220812;Employee benefit - defined contribution;RCT;5a
+20220630;682563;RCONB874;84;20220812;Employee benefit - defined contribution;RCT;5a
+20220630;682563;RCONB875;393;20220812;Employee benefit - defined contribution;RCT;5a
+20220630;682563;RCONB876;251263;20220812;Employee benefit - defined benefit;RCT;5b
+20220630;682563;RCONB877;38787;20220812;Employee benefit - defined benefit;RCT;5b
+20220630;682563;RCONB878;17;20220812;Employee benefit - defined benefit;RCT;5b
+20220630;682563;RCONB879;13;20220812;Employee benefit - defined benefit;RCT;5b
+20220630;682563;RCONB880;713549;20220812;Other employee benefit and retirement-related accounts;RCT;5c
+20220630;682563;RCONB881;295624;20220812;Other employee benefit and retirement-related accounts;RCT;5c
+20220630;682563;RCONB882;1202;20220812;Other employee benefit and retirement-related accounts;RCT;5c
+20220630;682563;RCONB883;12;20220812;Other employee benefit and retirement-related accounts;RCT;5c
+20220630;682563;RCONB884;0;20220812;Corporate trust and agency accounts;RCT;6
+20220630;682563;RCONB885;0;20220812;Corporate trust and agency accounts;RCT;6
+20220630;682563;RCONB886;5193972;20220812;Investment management and investment advisory agency accounts;RCT;7
+20220630;682563;RCONB888;2402;20220812;Investment management and investment advisory agency accounts;RCT;7
+20220630;682563;RCONB890;0;20220812;Other fiduciary accounts;RCT;9
+20220630;682563;RCONB891;0;20220812;Other fiduciary accounts;RCT;9
+20220630;682563;RCONB892;0;20220812;Other fiduciary accounts;RCT;9
+20220630;682563;RCONB893;0;20220812;Other fiduciary accounts;RCT;9
+20220630;682563;RCONB894;14993324;20220812;Total fiduciary accounts (sum of items 4 through 9);RCT;10
+20220630;682563;RCONB895;5948365;20220812;Total fiduciary accounts (sum of items 4 through 9);RCT;10
+20220630;682563;RCONB896;7451;20220812;Total fiduciary accounts (sum of items 4 through 9);RCT;10
+20220630;682563;RCONB897;485;20220812;Total fiduciary accounts (sum of items 4 through 9);RCT;10
+20220630;682563;RCONB898;17225303;20220812;Custody and safekeeping accounts;RCT;11
+20220630;682563;RCONB899;1614;20220812;Custody and safekeeping accounts;RCT;11
+20220630;682563;RCONB945;0;20220812;Total collective investment funds (sum of Memorandum items 3.a through 3.g);RCT;M3h
+20220630;682563;RCONB946;0;20220812;Total collective investment funds (sum of Memorandum items 3.a through 3.g);RCT;M3h
+20220630;682563;RCONB987;95900;20220812;Federal funds sold;RC;3a
+20220630;682563;RCONB989;9650;20220812;Securities purchased under agreements to resell;RC;3b
+20220630;682563;RCONB993;43200;20220812;Federal funds purchased;RC;14a
+20220630;682563;RCONB995;1664685;20220812;Securities sold under agreements to repurchase;RC;14b
+20220630;682563;RCONC001;0;20220812;Corporate trust and agency accounts;RCT;6
+20220630;682563;RCONC002;0;20220812;Corporate trust and agency accounts;RCT;6
+20220630;682563;RCONC010;0;20220812;Derivatives with a positive fair value held for purposes other than trading;RCF;6c
+20220630;682563;RCONC011;0;20220812;Deferred compensation liabilities;RCG;4b
+20220630;682563;RCONC012;0;20220812;Derivatives with a negative fair value held for purposes other than trading;RCG;4d
+20220630;682563;RCONC026;0;20220812;Asset-backed securities (ABS);RCB;5a
+20220630;682563;RCONC027;0;20220812;Asset-backed securities (ABS);RCB;5a
+20220630;682563;RCONC219;0;20220812;Gross positive fair value;RCL;7b1
+20220630;682563;RCONC220;0;20220812;Gross negative fair value;RCL;7b2
+20220630;682563;RCONC221;0;20220812;Gross positive fair value;RCL;7b1
+20220630;682563;RCONC222;0;20220812;Gross negative fair value;RCL;7b2
+20220630;682563;RCONC223;0;20220812;Sales for which the reporting bank is the acquiring bank;RCL;11a
+20220630;682563;RCONC224;0;20220812;Sales for which the reporting bank is the agent bank with risk;RCL;11b
+20220630;682563;RCONC226;0;20220812;Loans and leases held for sale (included in Schedule RC-N, items 1 through 8, above);RCN;M5
+20220630;682563;RCONC229;376;20220812;Secured by first liens;RCN;1c2a
+20220630;682563;RCONC230;4;20220812;Secured by junior liens;RCN;1c2b
+20220630;682563;RCONC236;1805;20220812;Secured by first liens;RCN;1c2a
+20220630;682563;RCONC237;401;20220812;Secured by first liens;RCN;1c2a
+20220630;682563;RCONC238;2624;20220812;Secured by junior liens;RCN;1c2b
+20220630;682563;RCONC239;165;20220812;Secured by junior liens;RCN;1c2b
+20220630;682563;RCONC240;0;20220812;Loans and leases held for sale (included in Schedule RC-N, items 1 through 8, above);RCN;M5
+20220630;682563;RCONC241;0;20220812;Loans and leases held for sale (included in Schedule RC-N, items 1 through 8, above);RCN;M5
+20220630;682563;RCONC407;0;20220812;Outstanding credit card fees and finance charges;RCS;M4
+20220630;682563;RCONC410;12056;20220812;Additions to nonaccrual assets during the previous six months;RCN;M7
+20220630;682563;RCONC411;0;20220812;Nonaccrual assets sold during the previous six months;RCN;M8
+20220630;682563;RCONC968;0;20220812;Credit default swaps;RCL;7a1
+20220630;682563;RCONC969;0;20220812;Credit default swaps;RCL;7a1
+20220630;682563;RCONC970;0;20220812;Total return swaps;RCL;7a2
+20220630;682563;RCONC971;0;20220812;Total return swaps;RCL;7a2
+20220630;682563;RCONC972;0;20220812;Credit options;RCL;7a3
+20220630;682563;RCONC973;0;20220812;Credit options;RCL;7a3
+20220630;682563;RCONC974;15062;20220812;Other credit derivatives;RCL;7a4
+20220630;682563;RCONC975;0;20220812;Other credit derivatives;RCL;7a4
+20220630;682563;RCONC978;0;20220812;Standby letters of credit issued by another party (e.g., a Federal Home Loan Bank) on the bank's behalf;RCL;9c
+20220630;682563;RCONC988;0;20220812;Asset-backed securities (ABS);RCB;5a
+20220630;682563;RCONC989;0;20220812;Asset-backed securities (ABS);RCB;5a
+20220630;682563;RCOND957;13562942;20220812;Cash and balances due from depository institutions;RCRII;1
+20220630;682563;RCOND958;12930387;20220812;Cash and balances due from depository institutions;RCRII;1
+20220630;682563;RCOND959;632555;20220812;Cash and balances due from depository institutions;RCRII;1
+20220630;682563;RCOND960;0;20220812;Cash and balances due from depository institutions;RCRII;1
+20220630;682563;RCOND961;1946428;20220812;Held-to-maturity securities;RCRII;2a
+20220630;682563;RCOND962;794;20220812;Held-to-maturity securities;RCRII;2a
+20220630;682563;RCOND963;1782906;20220812;Held-to-maturity securities;RCRII;2a
+20220630;682563;RCOND964;161386;20220812;Held-to-maturity securities;RCRII;2a
+20220630;682563;RCOND965;1500;20220812;Held-to-maturity securities;RCRII;2a
+20220630;682563;RCOND967;4953240;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCOND968;12057365;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCOND969;797293;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCOND970;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCOND971;95900;20220812;Federal funds sold;RCRII;3a
+20220630;682563;RCOND972;0;20220812;Federal funds sold;RCRII;3a
+20220630;682563;RCOND973;95900;20220812;Federal funds sold;RCRII;3a
+20220630;682563;RCOND974;0;20220812;Federal funds sold;RCRII;3a
+20220630;682563;RCOND976;311565;20220812;Trading assets;RCRII;7
+20220630;682563;RCOND977;24615;20220812;Trading assets;RCRII;7
+20220630;682563;RCOND978;65;20220812;Trading assets;RCRII;7
+20220630;682563;RCOND979;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCOND980;286885;20220812;Trading assets;RCRII;7
+20220630;682563;RCOND981;2683481;20220812;All other assets;RCRII;8
+20220630;682563;RCOND982;35253;20220812;All other assets;RCRII;8
+20220630;682563;RCOND983;7112;20220812;All other assets;RCRII;8
+20220630;682563;RCOND984;0;20220812;All other assets;RCRII;8
+20220630;682563;RCOND985;1721901;20220812;All other assets;RCRII;8
+20220630;682563;RCOND987;18210858;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCOND988;14717447;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCOND989;1274645;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCOND990;17619188;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCOND991;273796;20220812;Financial standby letters of credit;RCRII;12
+20220630;682563;RCOND992;273796;20220812;Financial standby letters of credit;RCRII;12
+20220630;682563;RCOND993;0;20220812;Financial standby letters of credit;RCRII;12
+20220630;682563;RCOND994;23516;20220812;Financial standby letters of credit;RCRII;12
+20220630;682563;RCOND995;0;20220812;Financial standby letters of credit;RCRII;12
+20220630;682563;RCOND996;250280;20220812;Financial standby letters of credit;RCRII;12
+20220630;682563;RCOND997;65132;20220812;Performance standby letters of credit and transaction-related contingent items;RCRII;13
+20220630;682563;RCOND998;32566;20220812;Performance standby letters of credit and transaction-related contingent items;RCRII;13
+20220630;682563;RCOND999;0;20220812;Performance standby letters of credit and transaction-related contingent items;RCRII;13
+20220630;682563;RCONF045;146116;20220812;Amount of retirement deposit accounts of $250,000 or less;RCO;M1c1
+20220630;682563;RCONF046;7216;20220812;Number of retirement deposit accounts of $250,000 or less;RCO;M1c2
+20220630;682563;RCONF047;24291;20220812;Amount of retirement deposit accounts of more than $250,000;RCO;M1d1
+20220630;682563;RCONF048;63;20220812;Number of retirement deposit accounts of more than $250,000;RCO;M1d2
+20220630;682563;RCONF049;13323601;20220812;Amount of deposit accounts (excluding retirement accounts) of $250,000 or less;RCO;M1a1
+20220630;682563;RCONF050;759425;20220812;Number of deposit accounts (excluding retirement accounts) of $250,000 or less;RCO;M1a2
+20220630;682563;RCONF051;32753479;20220812;Amount of deposit accounts (excluding retirement accounts) of more than $250,000;RCO;M1b1
+20220630;682563;RCONF052;28209;20220812;Number of deposit accounts (excluding retirement accounts) of more than $250,000;RCO;M1b2
+20220630;682563;RCONF055;0;20220812;One year or less;RCM;5a1a
+20220630;682563;RCONF056;0;20220812;Over one year through three years;RCM;5a1b
+20220630;682563;RCONF057;0;20220812;Over three years through five years;RCM;5a1c
+20220630;682563;RCONF058;0;20220812;Over five years;RCM;5a1d
+20220630;682563;RCONF059;0;20220812;Structured advances (included in items 5.a.(1)(a) - (d) above);RCM;5a3
+20220630;682563;RCONF060;0;20220812;One year or less;RCM;5b1a
+20220630;682563;RCONF061;0;20220812;Over one year through three years;RCM;5b1b
+20220630;682563;RCONF062;0;20220812;Over three years through five years;RCM;5b1c
+20220630;682563;RCONF063;0;20220812;Over five years;RCM;5b1d
+20220630;682563;RCONF064;0;20220812;Amount of "Federal funds purchased" that are secured (included in Schedule RC, item 14.a);RCM;10a
+20220630;682563;RCONF065;0;20220812;Amount of "Other borrowings" that are secured (included in Schedule RC-M, items 5.b.(1)(a) - (d));RCM;10b
+20220630;682563;RCONF158;402709;20220812;1-4 family residential construction loans;RCCI;1a1
+20220630;682563;RCONF159;1619453;20220812;Other construction loans and all land development and other land loans;RCCI;1a2
+20220630;682563;RCONF160;1944586;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCCI;1e1
+20220630;682563;RCONF161;3608408;20220812;Loans secured by other nonfarm nonresidential properties;RCCI;1e2
+20220630;682563;RCONF162;0;20220812;Leases to individuals for household, family, and other personal expenditures (i.e., consumer leases);RCCI;10a
+20220630;682563;RCONF163;284830;20220812;All other leases;RCCI;10b
+20220630;682563;RCONF164;496291;20220812;1-4 family residential construction loan commitments;RCL;1c1a
+20220630;682563;RCONF165;1842909;20220812;Commercial real estate, other construction loan, and land development loan commitments;RCL;1c1b
+20220630;682563;RCONF166;0;20220812;Leases to individuals for household, family, and other personal expenditures (included in Schedule RC-N, item 8, above);RCN;M3d
+20220630;682563;RCONF167;0;20220812;Leases to individuals for household, family, and other personal expenditures (included in Schedule RC-N, item 8, above);RCN;M3d
+20220630;682563;RCONF168;0;20220812;Leases to individuals for household, family, and other personal expenditures (included in Schedule RC-N, item 8, above);RCN;M3d
+20220630;682563;RCONF172;833;20220812;1-4 family residential construction loans;RCN;1a1
+20220630;682563;RCONF173;393;20220812;Other construction loans and all land development and other land loans;RCN;1a2
+20220630;682563;RCONF174;0;20220812;1-4 family residential construction loans;RCN;1a1
+20220630;682563;RCONF175;169;20220812;Other construction loans and all land development and other land loans;RCN;1a2
+20220630;682563;RCONF176;0;20220812;1-4 family residential construction loans;RCN;1a1
+20220630;682563;RCONF177;157;20220812;Other construction loans and all land development and other land loans;RCN;1a2
+20220630;682563;RCONF178;2309;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;1e1
+20220630;682563;RCONF179;15061;20220812;Loans secured by other nonfarm nonresidential properties;RCN;1e2
+20220630;682563;RCONF180;594;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;1e1
+20220630;682563;RCONF181;109;20220812;Loans secured by other nonfarm nonresidential properties;RCN;1e2
+20220630;682563;RCONF182;7711;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;1e1
+20220630;682563;RCONF183;4984;20220812;Loans secured by other nonfarm nonresidential properties;RCN;1e2
+20220630;682563;RCONF230;0;20220812;Total amount of closed-end loans with negative amortization features secured by 1-4 family residential properties (included in Schedule RC-C, part I, items 1.c.(2)(a) and 1.c.(2)(b));RCCI;M8a
+20220630;682563;RCONF233;68369;20220812;Individual Retirement Accounts (IRAs) and Keogh Plan accounts of $100,000 or more included in Memorandum items 2.c and 2.d above;RCE;M2e
+20220630;682563;RCONF236;46247487;20220812;Total deposit liabilities before exclusions (gross) as defined in Section 3(l) of the Federal Deposit Insurance Act and FDIC regulations;RCO;1
+20220630;682563;RCONF237;0;20220812;Total allowable exclusions, including interest accrued and unpaid on allowable exclusions;RCO;2
+20220630;682563;RCONF240;0;20220812;Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above);RCQ;5b1
+20220630;682563;RCONF241;0;20220812;Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above);RCQ;5b1
+20220630;682563;RCONF242;0;20220812;Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above);RCQ;5b1
+20220630;682563;RCONF252;0;20220812;Deposits;RCQ;8
+20220630;682563;RCONF253;0;20220812;Deposits;RCQ;8
+20220630;682563;RCONF254;0;20220812;Deposits;RCQ;8
+20220630;682563;RCONF261;0;20220812;Loan commitments (not accounted for as derivatives);RCQ;M2a
+20220630;682563;RCONF262;0;20220812;Loan commitments (not accounted for as derivatives);RCQ;M2a
+20220630;682563;RCONF263;0;20220812;Loan commitments (not accounted for as derivatives);RCQ;M2a
+20220630;682563;RCONF576;0;20220812;Loans secured by 1-4 family residential properties;RCCI;M1b
+20220630;682563;RCONF577;16;20220812;Loans secured by 1-4 family residential properties in process of foreclosure (included in Schedule RC-C, part I, items 1.c.(1), 1.c.(2)(a), and 1.c.(2)(b));RCCI;M9
+20220630;682563;RCONF585;0;20220812;Commercial and industrial loans;RCQ;M3b
+20220630;682563;RCONF589;0;20220812;Other loans;RCQ;M3d
+20220630;682563;RCONF597;0;20220812;Commercial and industrial loans;RCQ;M4b
+20220630;682563;RCONF601;0;20220812;Other loans;RCQ;M4d
+20220630;682563;RCONF614;0;20220812;Commercial and industrial loans;RCD;6b
+20220630;682563;RCONF618;0;20220812;Other loans;RCD;6d
+20220630;682563;RCONF624;0;20220812;Other trading liabilities;RCD;13b
+20220630;682563;RCONF632;0;20220812;Commercial and industrial loans;RCD;M1b
+20220630;682563;RCONF636;0;20220812;Other loans;RCD;M1d
+20220630;682563;RCONF661;0;20220812;Loans secured by 1-4 family residential properties;RCN;M1b
+20220630;682563;RCONF662;0;20220812;Loans secured by 1-4 family residential properties;RCN;M1b
+20220630;682563;RCONF663;0;20220812;Loans secured by 1-4 family residential properties;RCN;M1b
+20220630;682563;RCONF684;0;20220812;Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above);RCQ;5b1
+20220630;682563;RCONF686;0;20220812;Deposits;RCQ;8
+20220630;682563;RCONF689;0;20220812;Loan commitments (not accounted for as derivatives);RCQ;M2a
+20220630;682563;RCONF692;0;20220812;Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above);RCQ;5b1
+20220630;682563;RCONF694;0;20220812;Deposits;RCQ;8
+20220630;682563;RCONF697;0;20220812;Loan commitments (not accounted for as derivatives);RCQ;M2a
+20220630;682563;RCONF699;0;20220812;1-4 family residential mortgages serviced for others that are in process of foreclosure at quarter-end (includes closed-end and open-end loans);RCS;M2d
+20220630;682563;RCONFT04;0;20220812;1-4 family residential mortgage loans sold during the quarter;RCP;3
+20220630;682563;RCONFT05;0;20220812;1-4 family residential mortgage loans held for sale or trading at quarter-end (included in Schedule RC, items 4.a and 5);RCP;4
+20220630;682563;RCONFT33;0;20220812;Computer software;RCF;6e
+20220630;682563;RCONFT34;0;20220812;Accounts receivable;RCF;6f
+20220630;682563;RCONFT35;0;20220812;Receivables from foreclosed government-guaranteed mortgage loans;RCF;6g
+20220630;682563;RCONG091;0;20220812;Loans secured by real estate;RCCI;M12a
+20220630;682563;RCONG092;0;20220812;Loans secured by real estate;RCCI;M12a
+20220630;682563;RCONG093;0;20220812;Loans secured by real estate;RCCI;M12a
+20220630;682563;RCONG094;0;20220812;Commercial and industrial loans;RCCI;M12b
+20220630;682563;RCONG095;0;20220812;Commercial and industrial loans;RCCI;M12b
+20220630;682563;RCONG096;0;20220812;Commercial and industrial loans;RCCI;M12b
+20220630;682563;RCONG097;0;20220812;Loans to individuals for household, family, and other personal expenditures;RCCI;M12c
+20220630;682563;RCONG098;0;20220812;Loans to individuals for household, family, and other personal expenditures;RCCI;M12c
+20220630;682563;RCONG099;0;20220812;Loans to individuals for household, family, and other personal expenditures;RCCI;M12c
+20220630;682563;RCONG100;0;20220812;All other loans and all leases;RCCI;M12d
+20220630;682563;RCONG101;0;20220812;All other loans and all leases;RCCI;M12d
+20220630;682563;RCONG102;0;20220812;All other loans and all leases;RCCI;M12d
+20220630;682563;RCONG105;3166252;20220812;Total equity capital (sum of items 27.a and 27.b);RC;28
+20220630;682563;RCONG300;795;20220812;Guaranteed by GNMA;RCB;4a1
+20220630;682563;RCONG301;769;20220812;Guaranteed by GNMA;RCB;4a1
+20220630;682563;RCONG302;296344;20220812;Guaranteed by GNMA;RCB;4a1
+20220630;682563;RCONG303;292550;20220812;Guaranteed by GNMA;RCB;4a1
+20220630;682563;RCONG304;0;20220812;Issued by FNMA and FHLMC;RCB;4a2
+20220630;682563;RCONG305;0;20220812;Issued by FNMA and FHLMC;RCB;4a2
+20220630;682563;RCONG306;5655689;20220812;Issued by FNMA and FHLMC;RCB;4a2
+20220630;682563;RCONG307;5027541;20220812;Issued by FNMA and FHLMC;RCB;4a2
+20220630;682563;RCONG308;0;20220812;Other pass-through securities;RCB;4a3
+20220630;682563;RCONG309;0;20220812;Other pass-through securities;RCB;4a3
+20220630;682563;RCONG310;0;20220812;Other pass-through securities;RCB;4a3
+20220630;682563;RCONG311;0;20220812;Other pass-through securities;RCB;4a3
+20220630;682563;RCONG312;0;20220812;Issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4b1
+20220630;682563;RCONG313;0;20220812;Issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4b1
+20220630;682563;RCONG314;0;20220812;Issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4b1
+20220630;682563;RCONG315;0;20220812;Issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4b1
+20220630;682563;RCONG316;0;20220812;Collateralized by MBS issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4b2
+20220630;682563;RCONG317;0;20220812;Collateralized by MBS issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4b2
+20220630;682563;RCONG318;0;20220812;Collateralized by MBS issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4b2
+20220630;682563;RCONG319;0;20220812;Collateralized by MBS issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4b2
+20220630;682563;RCONG320;0;20220812;All other residential MBS;RCB;4b3
+20220630;682563;RCONG321;0;20220812;All other residential MBS;RCB;4b3
+20220630;682563;RCONG322;0;20220812;All other residential MBS;RCB;4b3
+20220630;682563;RCONG323;0;20220812;All other residential MBS;RCB;4b3
+20220630;682563;RCONG348;0;20220812;Trust preferred securities issued by financial institutions;RCB;M6a
+20220630;682563;RCONG349;0;20220812;Trust preferred securities issued by financial institutions;RCB;M6a
+20220630;682563;RCONG350;0;20220812;Trust preferred securities issued by financial institutions;RCB;M6a
+20220630;682563;RCONG351;0;20220812;Trust preferred securities issued by financial institutions;RCB;M6a
+20220630;682563;RCONG352;0;20220812;Trust preferred securities issued by real estate investment trusts;RCB;M6b
+20220630;682563;RCONG353;0;20220812;Trust preferred securities issued by real estate investment trusts;RCB;M6b
+20220630;682563;RCONG354;0;20220812;Trust preferred securities issued by real estate investment trusts;RCB;M6b
+20220630;682563;RCONG355;0;20220812;Trust preferred securities issued by real estate investment trusts;RCB;M6b
+20220630;682563;RCONG356;0;20220812;Corporate and similar loans;RCB;M6c
+20220630;682563;RCONG357;0;20220812;Corporate and similar loans;RCB;M6c
+20220630;682563;RCONG358;0;20220812;Corporate and similar loans;RCB;M6c
+20220630;682563;RCONG359;0;20220812;Corporate and similar loans;RCB;M6c
+20220630;682563;RCONG360;0;20220812;1-4 family residential MBS issued or guaranteed by U.S. government-sponsored enterprises (GSEs);RCB;M6d
+20220630;682563;RCONG361;0;20220812;1-4 family residential MBS issued or guaranteed by U.S. government-sponsored enterprises (GSEs);RCB;M6d
+20220630;682563;RCONG362;0;20220812;1-4 family residential MBS issued or guaranteed by U.S. government-sponsored enterprises (GSEs);RCB;M6d
+20220630;682563;RCONG363;0;20220812;1-4 family residential MBS issued or guaranteed by U.S. government-sponsored enterprises (GSEs);RCB;M6d
+20220630;682563;RCONG364;0;20220812;1-4 family residential MBS not issued or guaranteed by GSEs;RCB;M6e
+20220630;682563;RCONG365;0;20220812;1-4 family residential MBS not issued or guaranteed by GSEs;RCB;M6e
+20220630;682563;RCONG366;0;20220812;1-4 family residential MBS not issued or guaranteed by GSEs;RCB;M6e
+20220630;682563;RCONG367;0;20220812;1-4 family residential MBS not issued or guaranteed by GSEs;RCB;M6e
+20220630;682563;RCONG368;0;20220812;Diversified (mixed) pools of structured financial products;RCB;M6f
+20220630;682563;RCONG369;0;20220812;Diversified (mixed) pools of structured financial products;RCB;M6f
+20220630;682563;RCONG370;0;20220812;Diversified (mixed) pools of structured financial products;RCB;M6f
+20220630;682563;RCONG371;0;20220812;Diversified (mixed) pools of structured financial products;RCB;M6f
+20220630;682563;RCONG372;0;20220812;Other collateral or reference assets;RCB;M6g
+20220630;682563;RCONG373;0;20220812;Other collateral or reference assets;RCB;M6g
+20220630;682563;RCONG374;0;20220812;Other collateral or reference assets;RCB;M6g
+20220630;682563;RCONG375;0;20220812;Other collateral or reference assets;RCB;M6g
+20220630;682563;RCONG378;0;20220812;Pledged loans and leases;RCCI;M14
+20220630;682563;RCONG379;0;20220812;Residential mortgage pass-through securities issued or guaranteed by FNMA, FHLMC, or GNMA;RCD;4a
+20220630;682563;RCONG380;0;20220812;Other residential MBS issued or guaranteed by U.S. Government agencies or sponsored agencies (include CMOs, REMICs, and stripped MBS);RCD;4b
+20220630;682563;RCONG381;0;20220812;All other residential MBS;RCD;4c
+20220630;682563;RCONG386;0;20220812;All other debt securities;RCD;5b
+20220630;682563;RCONG391;18;20220812;All other assets;RCQ;6
+20220630;682563;RCONG392;0;20220812;All other assets;RCQ;6
+20220630;682563;RCONG395;0;20220812;All other assets;RCQ;6
+20220630;682563;RCONG396;18;20220812;All other assets;RCQ;6
+20220630;682563;RCONG401;0;20220812;Sold protection;RCL;7c1a
+20220630;682563;RCONG402;0;20220812;Purchased protection;RCL;7c1b
+20220630;682563;RCONG403;15062;20220812;Sold protection;RCL;7c2a
+20220630;682563;RCONG404;0;20220812;Purchased protection that is recognized as a guarantee for regulatory capital purposes;RCL;7c2b
+20220630;682563;RCONG405;0;20220812;Purchased protection that is not recognized as a guarantee for regulatory capital purposes;RCL;7c2c
+20220630;682563;RCONG406;0;20220812;Investment grade;RCL;7d1a
+20220630;682563;RCONG407;0;20220812;Investment grade;RCL;7d1a
+20220630;682563;RCONG408;0;20220812;Investment grade;RCL;7d1a
+20220630;682563;RCONG409;0;20220812;Subinvestment grade;RCL;7d1b
+20220630;682563;RCONG410;11079;20220812;Subinvestment grade;RCL;7d1b
+20220630;682563;RCONG411;3983;20220812;Subinvestment grade;RCL;7d1b
+20220630;682563;RCONG412;0;20220812;Investment grade;RCL;7d2a
+20220630;682563;RCONG413;0;20220812;Investment grade;RCL;7d2a
+20220630;682563;RCONG414;0;20220812;Investment grade;RCL;7d2a
+20220630;682563;RCONG415;0;20220812;Subinvestment grade;RCL;7d2b
+20220630;682563;RCONG416;0;20220812;Subinvestment grade;RCL;7d2b
+20220630;682563;RCONG417;0;20220812;Subinvestment grade;RCL;7d2b
+20220630;682563;RCONG418;10442;20220812;Net current credit exposure;RCL;16a
+20220630;682563;RCONG422;198092;20220812;Net current credit exposure;RCL;16a
+20220630;682563;RCONG423;12060;20220812;Cash - U.S. dollar;RCL;16b1
+20220630;682563;RCONG427;0;20220812;Cash - U.S. dollar;RCL;16b1
+20220630;682563;RCONG428;0;20220812;Cash - Other currencies;RCL;16b2
+20220630;682563;RCONG432;0;20220812;Cash - Other currencies;RCL;16b2
+20220630;682563;RCONG433;0;20220812;U.S. Treasury securities;RCL;16b3
+20220630;682563;RCONG437;0;20220812;U.S. Treasury securities;RCL;16b3
+20220630;682563;RCONG453;0;20220812;All other collateral;RCL;16b7
+20220630;682563;RCONG457;0;20220812;All other collateral;RCL;16b7
+20220630;682563;RCONG458;12060;20220812;Total fair value of collateral (sum of items 16.b.(1) through (7));RCL;16b8
+20220630;682563;RCONG462;0;20220812;Total fair value of collateral (sum of items 16.b.(1) through (7));RCL;16b8
+20220630;682563;RCONG463;true;20220812;Does the bank act as trustee or custodian for Individual Retirement Accounts, Health Savings Accounts, and other similar accounts?;RCM;11
+20220630;682563;RCONG464;true;20220812;Does the bank provide custody, safekeeping, or other services involving the acceptance of orders for the sale or purchase of securities?;RCM;12
+20220630;682563;RCONG465;0;20220812;One year or less;RCO;7a
+20220630;682563;RCONG466;0;20220812;Over one year through three years;RCO;7b
+20220630;682563;RCONG467;0;20220812;Over three years through five years;RCO;7c
+20220630;682563;RCONG468;0;20220812;Over five years;RCO;7d
+20220630;682563;RCONG469;0;20220812;One year or less;RCO;8a
+20220630;682563;RCONG470;0;20220812;Over one year through three years;RCO;8b
+20220630;682563;RCONG471;0;20220812;Over three years through five years;RCO;8c
+20220630;682563;RCONG472;0;20220812;Over five years;RCO;8d
+20220630;682563;RCONG474;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCQ;1
+20220630;682563;RCONG475;4416299;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCQ;1
+20220630;682563;RCONG476;12323021;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCQ;1
+20220630;682563;RCONG477;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCQ;1
+20220630;682563;RCONG483;0;20220812;Loans and leases held for sale;RCQ;3
+20220630;682563;RCONG484;0;20220812;Loans and leases held for sale;RCQ;3
+20220630;682563;RCONG485;0;20220812;Loans and leases held for sale;RCQ;3
+20220630;682563;RCONG486;0;20220812;Loans and leases held for sale;RCQ;3
+20220630;682563;RCONG487;0;20220812;Loans and leases held for sale;RCQ;3
+20220630;682563;RCONG488;0;20220812;Loans and leases held for investment;RCQ;4
+20220630;682563;RCONG489;0;20220812;Loans and leases held for investment;RCQ;4
+20220630;682563;RCONG490;0;20220812;Loans and leases held for investment;RCQ;4
+20220630;682563;RCONG491;0;20220812;Loans and leases held for investment;RCQ;4
+20220630;682563;RCONG492;0;20220812;Loans and leases held for investment;RCQ;4
+20220630;682563;RCONG493;0;20220812;Derivative assets;RCQ;5a
+20220630;682563;RCONG494;199;20220812;Derivative assets;RCQ;5a
+20220630;682563;RCONG495;286686;20220812;Derivative assets;RCQ;5a
+20220630;682563;RCONG496;0;20220812;Derivative assets;RCQ;5a
+20220630;682563;RCONG497;24680;20220812;Other trading assets;RCQ;5b
+20220630;682563;RCONG498;0;20220812;Other trading assets;RCQ;5b
+20220630;682563;RCONG499;24615;20220812;Other trading assets;RCQ;5b
+20220630;682563;RCONG500;65;20220812;Other trading assets;RCQ;5b
+20220630;682563;RCONG501;0;20220812;Other trading assets;RCQ;5b
+20220630;682563;RCONG502;17050903;20220812;Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6);RCQ;7
+20220630;682563;RCONG503;0;20220812;Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6);RCQ;7
+20220630;682563;RCONG504;4441113;20220812;Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6);RCQ;7
+20220630;682563;RCONG505;12609790;20220812;Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6);RCQ;7
+20220630;682563;RCONG506;0;20220812;Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6);RCQ;7
+20220630;682563;RCONG512;0;20220812;Derivative liabilities;RCQ;10a
+20220630;682563;RCONG513;195;20220812;Derivative liabilities;RCQ;10a
+20220630;682563;RCONG514;301878;20220812;Derivative liabilities;RCQ;10a
+20220630;682563;RCONG515;0;20220812;Derivative liabilities;RCQ;10a
+20220630;682563;RCONG516;0;20220812;Other trading liabilities;RCQ;10b
+20220630;682563;RCONG517;0;20220812;Other trading liabilities;RCQ;10b
+20220630;682563;RCONG518;0;20220812;Other trading liabilities;RCQ;10b
+20220630;682563;RCONG519;0;20220812;Other trading liabilities;RCQ;10b
+20220630;682563;RCONG520;0;20220812;Other trading liabilities;RCQ;10b
+20220630;682563;RCONG531;302073;20220812;Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13);RCQ;14
+20220630;682563;RCONG532;0;20220812;Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13);RCQ;14
+20220630;682563;RCONG533;195;20220812;Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13);RCQ;14
+20220630;682563;RCONG534;301878;20220812;Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13);RCQ;14
+20220630;682563;RCONG535;0;20220812;Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13);RCQ;14
+20220630;682563;RCONG536;0;20220812;Mortgage servicing assets;RCQ;M1a
+20220630;682563;RCONG537;0;20220812;Mortgage servicing assets;RCQ;M1a
+20220630;682563;RCONG538;0;20220812;Mortgage servicing assets;RCQ;M1a
+20220630;682563;RCONG539;0;20220812;Mortgage servicing assets;RCQ;M1a
+20220630;682563;RCONG540;0;20220812;Mortgage servicing assets;RCQ;M1a
+20220630;682563;RCONG541;18;20220812;Nontrading derivative assets;RCQ;M1b
+20220630;682563;RCONG542;0;20220812;Nontrading derivative assets;RCQ;M1b
+20220630;682563;RCONG543;0;20220812;Nontrading derivative assets;RCQ;M1b
+20220630;682563;RCONG544;18;20220812;Nontrading derivative assets;RCQ;M1b
+20220630;682563;RCONG545;0;20220812;Nontrading derivative assets;RCQ;M1b
+20220630;682563;RCONG546;0;20220812;Amount of component;RCQ;M1c2
+20220630;682563;RCONG547;0;20220812;Amount of component;RCQ;M1c2
+20220630;682563;RCONG548;0;20220812;Amount of component;RCQ;M1c2
+20220630;682563;RCONG549;0;20220812;Amount of component;RCQ;M1c2
+20220630;682563;RCONG550;0;20220812;Amount of component;RCQ;M1c2
+20220630;682563;RCONG551;0;20220812;Amount of component;RCQ;M1d2
+20220630;682563;RCONG552;0;20220812;Amount of component;RCQ;M1d2
+20220630;682563;RCONG553;0;20220812;Amount of component;RCQ;M1d2
+20220630;682563;RCONG554;0;20220812;Amount of component;RCQ;M1d2
+20220630;682563;RCONG555;0;20220812;Amount of component;RCQ;M1d2
+20220630;682563;RCONG556;0;20220812;Amount of component;RCQ;M1e2
+20220630;682563;RCONG557;0;20220812;Amount of component;RCQ;M1e2
+20220630;682563;RCONG558;0;20220812;Amount of component;RCQ;M1e2
+20220630;682563;RCONG559;0;20220812;Amount of component;RCQ;M1e2
+20220630;682563;RCONG560;0;20220812;Amount of component;RCQ;M1e2
+20220630;682563;RCONG561;0;20220812;Amount of component;RCQ;M1f2
+20220630;682563;RCONG562;0;20220812;Amount of component;RCQ;M1f2
+20220630;682563;RCONG563;0;20220812;Amount of component;RCQ;M1f2
+20220630;682563;RCONG564;0;20220812;Amount of component;RCQ;M1f2
+20220630;682563;RCONG565;0;20220812;Amount of component;RCQ;M1f2
+20220630;682563;RCONG566;0;20220812;Nontrading derivative liabilities;RCQ;M2b
+20220630;682563;RCONG567;0;20220812;Nontrading derivative liabilities;RCQ;M2b
+20220630;682563;RCONG568;0;20220812;Nontrading derivative liabilities;RCQ;M2b
+20220630;682563;RCONG569;0;20220812;Nontrading derivative liabilities;RCQ;M2b
+20220630;682563;RCONG570;0;20220812;Nontrading derivative liabilities;RCQ;M2b
+20220630;682563;RCONG571;0;20220812;Amount of component;RCQ;M2c2
+20220630;682563;RCONG572;0;20220812;Amount of component;RCQ;M2c2
+20220630;682563;RCONG573;0;20220812;Amount of component;RCQ;M2c2
+20220630;682563;RCONG574;0;20220812;Amount of component;RCQ;M2c2
+20220630;682563;RCONG575;0;20220812;Amount of component;RCQ;M2c2
+20220630;682563;RCONG576;0;20220812;Amount of component;RCQ;M2d2
+20220630;682563;RCONG577;0;20220812;Amount of component;RCQ;M2d2
+20220630;682563;RCONG578;0;20220812;Amount of component;RCQ;M2d2
+20220630;682563;RCONG579;0;20220812;Amount of component;RCQ;M2d2
+20220630;682563;RCONG580;0;20220812;Amount of component;RCQ;M2d2
+20220630;682563;RCONG581;0;20220812;Amount of component;RCQ;M2e2
+20220630;682563;RCONG582;0;20220812;Amount of component;RCQ;M2e2
+20220630;682563;RCONG583;0;20220812;Amount of component;RCQ;M2e2
+20220630;682563;RCONG584;0;20220812;Amount of component;RCQ;M2e2
+20220630;682563;RCONG585;0;20220812;Amount of component;RCQ;M2e2
+20220630;682563;RCONG586;0;20220812;Amount of component;RCQ;M2f2
+20220630;682563;RCONG587;0;20220812;Amount of component;RCQ;M2f2
+20220630;682563;RCONG588;0;20220812;Amount of component;RCQ;M2f2
+20220630;682563;RCONG589;0;20220812;Amount of component;RCQ;M2f2
+20220630;682563;RCONG590;0;20220812;Amount of component;RCQ;M2f2
+20220630;682563;RCONG603;8864;20220812;Performance standby letters of credit and transaction-related contingent items;RCRII;13
+20220630;682563;RCONG604;0;20220812;Performance standby letters of credit and transaction-related contingent items;RCRII;13
+20220630;682563;RCONG605;23703;20220812;Performance standby letters of credit and transaction-related contingent items;RCRII;13
+20220630;682563;RCONG606;5696;20220812;Commercial and similar letters of credit with an original maturity of one year or less;RCRII;14
+20220630;682563;RCONG607;1139;20220812;Commercial and similar letters of credit with an original maturity of one year or less;RCRII;14
+20220630;682563;RCONG608;0;20220812;Commercial and similar letters of credit with an original maturity of one year or less;RCRII;14
+20220630;682563;RCONG609;0;20220812;Commercial and similar letters of credit with an original maturity of one year or less;RCRII;14
+20220630;682563;RCONG610;0;20220812;Commercial and similar letters of credit with an original maturity of one year or less;RCRII;14
+20220630;682563;RCONG611;1139;20220812;Commercial and similar letters of credit with an original maturity of one year or less;RCRII;14
+20220630;682563;RCONG612;0;20220812;Retained recourse on small business obligations sold with recourse;RCRII;15
+20220630;682563;RCONG613;0;20220812;Retained recourse on small business obligations sold with recourse;RCRII;15
+20220630;682563;RCONG614;0;20220812;Retained recourse on small business obligations sold with recourse;RCRII;15
+20220630;682563;RCONG615;0;20220812;Retained recourse on small business obligations sold with recourse;RCRII;15
+20220630;682563;RCONG616;0;20220812;Retained recourse on small business obligations sold with recourse;RCRII;15
+20220630;682563;RCONG617;0;20220812;Retained recourse on small business obligations sold with recourse;RCRII;15
+20220630;682563;RCONG618;938562;20220812;All other off-balance sheet liabilities;RCRII;17
+20220630;682563;RCONG619;938562;20220812;All other off-balance sheet liabilities;RCRII;17
+20220630;682563;RCONG620;0;20220812;All other off-balance sheet liabilities;RCRII;17
+20220630;682563;RCONG621;938562;20220812;All other off-balance sheet liabilities;RCRII;17
+20220630;682563;RCONG622;0;20220812;All other off-balance sheet liabilities;RCRII;17
+20220630;682563;RCONG623;0;20220812;All other off-balance sheet liabilities;RCRII;17
+20220630;682563;RCONG624;8490932;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONG625;4245466;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONG626;0;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONG627;58033;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONG628;0;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONG629;4061749;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONG630;19187056;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONG631;16457778;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONG632;1274645;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONG633;22789088;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONG634;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONG635;3291556;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONG636;637323;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONG637;22789088;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONG641;27562401;20220812;Total risk-weighted assets (item 28 minus items 29 and 30);RCRII;31
+20220630;682563;RCONG642;207862;20220812;Current credit exposure across all derivative contracts covered by the regulatory capital rules;RCRII;M1
+20220630;682563;RCONG803;0;20220812;Brokered reciprocal deposits (included in Schedule RC-E, Memorandum item 1.b);RCO;9
+20220630;682563;RCONG804;0;20220812;All other assets;RCQ;6
+20220630;682563;RCONG805;0;20220812;All other liabilities;RCQ;13
+20220630;682563;RCONG806;0;20220812;All other liabilities;RCQ;13
+20220630;682563;RCONG807;0;20220812;All other liabilities;RCQ;13
+20220630;682563;RCONG808;0;20220812;All other liabilities;RCQ;13
+20220630;682563;RCONG809;0;20220812;All other liabilities;RCQ;13
+20220630;682563;RCONH171;9650;20220812;Securities purchased under agreements to resell;RCRII;3b
+20220630;682563;RCONH172;9650;20220812;Securities purchased under agreements to resell;RCRII;3b
+20220630;682563;RCONH173;0;20220812;Residential mortgage exposures;RCRII;4a
+20220630;682563;RCONH174;0;20220812;High volatility commercial real estate exposures;RCRII;4b
+20220630;682563;RCONH175;0;20220812;High volatility commercial real estate exposures;RCRII;4b
+20220630;682563;RCONH176;0;20220812;High volatility commercial real estate exposures;RCRII;4b
+20220630;682563;RCONH177;0;20220812;High volatility commercial real estate exposures;RCRII;4b
+20220630;682563;RCONH178;0;20220812;Residential mortgage exposures;RCRII;5a
+20220630;682563;RCONH179;0;20220812;High volatility commercial real estate exposures;RCRII;5b
+20220630;682563;RCONH180;0;20220812;High volatility commercial real estate exposures;RCRII;5b
+20220630;682563;RCONH181;0;20220812;High volatility commercial real estate exposures;RCRII;5b
+20220630;682563;RCONH182;0;20220812;High volatility commercial real estate exposures;RCRII;5b
+20220630;682563;RCONH185;0;20220812;All other assets;RCRII;8
+20220630;682563;RCONH186;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCONH187;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCONH188;0;20220812;All other assets;RCRII;8
+20220630;682563;RCONH191;0;20220812;Unsettled transactions (failed trades);RCRII;22
+20220630;682563;RCONH193;0;20220812;Unsettled transactions (failed trades);RCRII;22
+20220630;682563;RCONH194;0;20220812;Unsettled transactions (failed trades);RCRII;22
+20220630;682563;RCONH195;0;20220812;Unsettled transactions (failed trades);RCRII;22
+20220630;682563;RCONH196;0;20220812;Unsettled transactions (failed trades);RCRII;22
+20220630;682563;RCONH197;0;20220812;Unsettled transactions (failed trades);RCRII;22
+20220630;682563;RCONH198;0;20220812;Unsettled transactions (failed trades);RCRII;22
+20220630;682563;RCONH199;0;20220812;Unsettled transactions (failed trades);RCRII;22
+20220630;682563;RCONH200;0;20220812;Unsettled transactions (failed trades);RCRII;22
+20220630;682563;RCONH271;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCONH272;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCONH273;0;20220812;Residential mortgage exposures;RCRII;4a
+20220630;682563;RCONH274;0;20220812;Residential mortgage exposures;RCRII;4a
+20220630;682563;RCONH275;0;20220812;High volatility commercial real estate exposures;RCRII;4b
+20220630;682563;RCONH276;0;20220812;High volatility commercial real estate exposures;RCRII;4b
+20220630;682563;RCONH277;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONH278;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONH279;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONH280;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONH281;0;20220812;Residential mortgage exposures;RCRII;5a
+20220630;682563;RCONH282;0;20220812;Residential mortgage exposures;RCRII;5a
+20220630;682563;RCONH283;0;20220812;High volatility commercial real estate exposures;RCRII;5b
+20220630;682563;RCONH284;0;20220812;High volatility commercial real estate exposures;RCRII;5b
+20220630;682563;RCONH285;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONH286;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONH287;0;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONH288;0;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONH290;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCONH291;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCONH292;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCONH293;0;20220812;All other assets;RCRII;8
+20220630;682563;RCONH294;0;20220812;All other assets;RCRII;8
+20220630;682563;RCONH295;0;20220812;All other assets;RCRII;8
+20220630;682563;RCONH296;170549;20220812;Separate account bank-owned life insurance;RCRII;8a
+20220630;682563;RCONH297;49545;20220812;Separate account bank-owned life insurance;RCRII;8a
+20220630;682563;RCONH298;0;20220812;Default fund contributions to central counterparties;RCRII;8b
+20220630;682563;RCONH299;0;20220812;Default fund contributions to central counterparties;RCRII;8b
+20220630;682563;RCONH300;170549;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONH301;0;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONH302;0;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONH303;0;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONH304;0;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONH307;0;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONH308;0;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONH309;0;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONH310;0;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONHJ74;0;20220812;Held-to-maturity securities;RCRII;2a
+20220630;682563;RCONHJ75;0;20220812;Held-to-maturity securities;RCRII;2a
+20220630;682563;RCONHJ76;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCONHJ77;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCONHJ78;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONHJ79;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONHJ80;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONHJ81;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONHJ82;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONHJ83;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONHJ84;0;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONHJ85;0;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONHJ86;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCONHJ87;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCONHJ88;0;20220812;All other assets;RCRII;8
+20220630;682563;RCONHJ89;0;20220812;All other assets;RCRII;8
+20220630;682563;RCONHJ90;0;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONHJ91;0;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONHJ92;0;20220812;Financial standby letters of credit;RCRII;12
+20220630;682563;RCONHJ93;0;20220812;Financial standby letters of credit;RCRII;12
+20220630;682563;RCONHJ94;0;20220812;Commercial and similar letters of credit with an original maturity of one year or less;RCRII;14
+20220630;682563;RCONHJ95;0;20220812;Commercial and similar letters of credit with an original maturity of one year or less;RCRII;14
+20220630;682563;RCONHJ96;0;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONHJ97;0;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONHJ98;0;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONHJ99;0;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONHK00;0;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONHK01;0;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONHK05;0;20220812;Brokered deposits of $250,000 or less (fully insured brokered deposits);RCE;M1c
+20220630;682563;RCONHK06;0;20220812;Brokered deposits of $250,000 or less with a remaining maturity of one year or less (included in Memorandum item 1.c above);RCE;M1d1
+20220630;682563;RCONHK07;207152;20220812;Three months or less;RCE;M3a1
+20220630;682563;RCONHK08;466773;20220812;Over three months through 12 months;RCE;M3a2
+20220630;682563;RCONHK09;206204;20220812;Over one year through three years;RCE;M3a3
+20220630;682563;RCONHK10;0;20220812;Over three years;RCE;M3a4
+20220630;682563;RCONHK11;673925;20220812;Time deposits of $250,000 or less with a REMAINING MATURITY of one year or less (included in Memorandum items 3.a.(1) and 3.a.(2) above);RCE;M3b
+20220630;682563;RCONHK12;166067;20220812;Three months or less;RCE;M4a1
+20220630;682563;RCONHK13;299178;20220812;Over three months through 12 months;RCE;M4a2
+20220630;682563;RCONHK14;173491;20220812;Over one year through three years;RCE;M4a3
+20220630;682563;RCONHK15;0;20220812;Over three years;RCE;M4a4
+20220630;682563;RCONHK16;841001;20220812;Time deposits of $250,000 or less;RCK;11b
+20220630;682563;RCONHK17;586266;20220812;Time deposits of more than $250,000;RCK;11c
+20220630;682563;RCONHK25;0;20220812;Total loans restructured in troubled debt restructurings that are in compliance with their modified terms (sum of Memorandum items 1.a.(1) through 1.f);RCCI;M1g
+20220630;682563;RCONHK26;0;20220812;Total loans restructured in troubled debt restructurings included in Schedule RC-N, items 1 through 7, above and not reported in Schedule RC-C, Part I, Memorandum item 1 (sum of items Memorandum item 1.a.(1) through Memorandum item 1.f);RCN;M1g
+20220630;682563;RCONHK27;0;20220812;Total loans restructured in troubled debt restructurings included in Schedule RC-N, items 1 through 7, above and not reported in Schedule RC-C, Part I, Memorandum item 1 (sum of items Memorandum item 1.a.(1) through Memorandum item 1.f);RCN;M1g
+20220630;682563;RCONHK28;1116;20220812;Total loans restructured in troubled debt restructurings included in Schedule RC-N, items 1 through 7, above and not reported in Schedule RC-C, Part I, Memorandum item 1 (sum of items Memorandum item 1.a.(1) through Memorandum item 1.f);RCN;M1g
+20220630;682563;RCONHT50;0;20220812;U.S. Government agency and sponsored agency obligations (exclude mortgage-backed securities);RCB;2
+20220630;682563;RCONHT51;0;20220812;U.S. Government agency and sponsored agency obligations (exclude mortgage-backed securities);RCB;2
+20220630;682563;RCONHT52;0;20220812;U.S. Government agency and sponsored agency obligations (exclude mortgage-backed securities);RCB;2
+20220630;682563;RCONHT53;0;20220812;U.S. Government agency and sponsored agency obligations (exclude mortgage-backed securities);RCB;2
+20220630;682563;RCONHT58;0;20220812;Structured financial products;RCB;5b
+20220630;682563;RCONHT59;0;20220812;Structured financial products;RCB;5b
+20220630;682563;RCONHT60;0;20220812;Structured financial products;RCB;5b
+20220630;682563;RCONHT61;0;20220812;Structured financial products;RCB;5b
+20220630;682563;RCONHT62;0;20220812;Structured financial products;RCD;5a
+20220630;682563;RCONHT63;0;20220812;Loans secured by 1-4 family residential properties;RCD;6a1
+20220630;682563;RCONHT64;0;20220812;All other loans secured by real estate;RCD;6a2
+20220630;682563;RCONHT65;0;20220812;Loans to individuals for household, family, and other personal expenditures (i.e., consumer loans) (includes purchased paper);RCD;6c
+20220630;682563;RCONHT66;0;20220812;Loans secured by 1-4 family residential properties;RCD;M1a1
+20220630;682563;RCONHT67;0;20220812;All other loans secured by real estate;RCD;M1a2
+20220630;682563;RCONHT68;0;20220812;Loans to individuals for household, family, and other personal expenditures (i.e., consumer loans) (includes purchased paper);RCD;M1c
+20220630;682563;RCONHT80;0;20220812;Interest-only strips receivable (not in the form of a security);RCF;3
+20220630;682563;RCONHT81;0;20220812;Retail originations during the quarter of 1-4 family residential mortgage loans for sale;RCP;1
+20220630;682563;RCONHT82;0;20220812;Wholesale originations and purchases during the quarter of 1-4 family residential mortgage loans for sale;RCP;2
+20220630;682563;RCONHT86;0;20220812;Repurchases and indemnifications of 1-4 family residential mortgage loans during the quarter;RCP;6
+20220630;682563;RCONHT87;0;20220812;Secured by 1-4 family residential properties;RCQ;M3a1
+20220630;682563;RCONHT88;0;20220812;All other loans secured by real estate;RCQ;M3a2
+20220630;682563;RCONHT89;0;20220812;Loans to individuals for household, family, and other personal expenditures (i.e., consumer loans) (includes purchased paper);RCQ;M3c
+20220630;682563;RCONHT91;0;20220812;Secured by 1-4 family residential properties;RCQ;M4a1
+20220630;682563;RCONHT92;0;20220812;All other loans secured by real estate;RCQ;M4a2
+20220630;682563;RCONHT93;0;20220812;Loans to individuals for household, family, and other personal expenditures (i.e., consumer loans) (includes purchased paper);RCQ;M4c
+20220630;682563;RCONHU09;0;20220812;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to structures reported in item 1;RCS;2
+20220630;682563;RCONHU15;0;20220812;Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to structures reported in item 1;RCS;2
+20220630;682563;RCONHU19;0;20220812;Total amount of ownership (or seller's) interest carried as securities or loans;RCS;6
+20220630;682563;RCONHU20;0;20220812;Securities not held for trading;RCV;1b
+20220630;682563;RCONHU21;0;20220812;Securities not held for trading;RCV;1b
+20220630;682563;RCONHU22;0;20220812;Loans and leases held for investment, net of allowance, and held for sale;RCV;1c
+20220630;682563;RCONHU23;0;20220812;Loans and leases held for investment, net of allowance, and held for sale;RCV;1c
+20220630;682563;RCONJ253;0;20220812;Investment management and investment advisory agency accounts;RCT;7
+20220630;682563;RCONJ254;0;20220812;Investment management and investment advisory agency accounts;RCT;7
+20220630;682563;RCONJ255;1745991;20220812;Foundation and endowment trust and agency accounts;RCT;8
+20220630;682563;RCONJ256;30891;20220812;Foundation and endowment trust and agency accounts;RCT;8
+20220630;682563;RCONJ257;381;20220812;Foundation and endowment trust and agency accounts;RCT;8
+20220630;682563;RCONJ258;2;20220812;Foundation and endowment trust and agency accounts;RCT;8
+20220630;682563;RCONJ259;630763;20220812;Individual Retirement Accounts, Health Savings Accounts, and other similar accounts (included in items 5.c and 11);RCT;13
+20220630;682563;RCONJ260;161149;20220812;Individual Retirement Accounts, Health Savings Accounts, and other similar accounts (included in items 5.c and 11);RCT;13
+20220630;682563;RCONJ261;1188;20220812;Individual Retirement Accounts, Health Savings Accounts, and other similar accounts (included in items 5.c and 11);RCT;13
+20220630;682563;RCONJ262;170;20220812;Individual Retirement Accounts, Health Savings Accounts, and other similar accounts (included in items 5.c and 11);RCT;13
+20220630;682563;RCONJ448;0;20220812;FDIC loss-sharing indemnification assets;RCF;6d
+20220630;682563;RCONJ451;190362;20220812;All other loans (exclude consumer loans);RCCI;9b2
+20220630;682563;RCONJ454;262549;20220812;Loans to nondepository financial institutions;RCCI;9a
+20220630;682563;RCONJ455;0;20220812;Unused consumer credit card lines;RCL;1b1
+20220630;682563;RCONJ456;30830;20220812;Other unused credit card lines;RCL;1b2
+20220630;682563;RCONJ457;6313132;20220812;Commercial and industrial loans;RCL;1e1
+20220630;682563;RCONJ458;25015;20220812;Loans to financial institutions;RCL;1e2
+20220630;682563;RCONJ459;1314500;20220812;All other unused commitments;RCL;1e3
+20220630;682563;RCONJ461;0;20220812;Debt securities (included in Schedule RC, items 2.a and 2.b);RCM;13c
+20220630;682563;RCONJ462;0;20220812;Other assets (exclude FDIC loss-sharing indemnification assets);RCM;13d
+20220630;682563;RCONJ464;204996;20220812;Other loans;RCCI;9b
+20220630;682563;RCONJ473;554145;20220812;Total time deposits of $100,000 through $250,000;RCE;M2c
+20220630;682563;RCONJ474;638736;20220812;Total time deposits of more than $250,000;RCE;M2d
+20220630;682563;RCONJ981;0;20220812;Cash and balances due from depository institutions;RCV;1a
+20220630;682563;RCONJA21;16739320;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCONJA22;0;20220812;Equity securities with readily determinable fair values not held for trading;RC;2c
+20220630;682563;RCONJA36;16739320;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCQ;1
+20220630;682563;RCONJF76;589;20220812;All other intangible assets;RCM;2c
+20220630;682563;RCONJF77;0;20220812;Total assets of asset-backed commercial paper (ABCP) conduit VIEs;RCV;5
+20220630;682563;RCONJF78;0;20220812;Total liabilities of ABCP conduit VIEs;RCV;6
+20220630;682563;RCONJF84;0;20220812;Cash and balances due from depository institutions;RCV;1a
+20220630;682563;RCONJF85;0;20220812;Other borrowed money;RCV;2a
+20220630;682563;RCONJF86;0;20220812;Other liabilities;RCV;2b
+20220630;682563;RCONJF87;0;20220812;All other assets of consolidated VIEs (not included in items 1.a. through 1.e above);RCV;3
+20220630;682563;RCONJF88;0;20220812;All other liabilities of consolidated VIEs (not included in items 2.a and 2.b above);RCV;4
+20220630;682563;RCONJF89;0;20220812;Other real estate owned;RCV;1d
+20220630;682563;RCONJF90;0;20220812;Other assets;RCV;1e
+20220630;682563;RCONJF91;0;20220812;Other assets;RCV;1e
+20220630;682563;RCONJF92;0;20220812;Other borrowed money;RCV;2a
+20220630;682563;RCONJF93;0;20220812;Other liabilities;RCV;2b
+20220630;682563;RCONJH83;0;20220812;Total reciprocal deposits (as of the report date);RCE;M1g
+20220630;682563;RCONJJ03;0;20220812;Allowance for credit losses on other financial assets measured at amortized cost (not included in item 7, above);RIBII;M6
+20220630;682563;RCONJJ04;2014482;20220812;Construction loans;RICII;1a
+20220630;682563;RCONJJ05;6041606;20220812;Commercial real estate loans;RICII;1b
+20220630;682563;RCONJJ06;1561035;20220812;Residential real estate loans;RICII;1c
+20220630;682563;RCONJJ07;6619124;20220812;Commercial loans;RICII;2
+20220630;682563;RCONJJ08;0;20220812;Credit cards;RICII;3
+20220630;682563;RCONJJ09;499782;20220812;Other consumer loans;RICII;4
+20220630;682563;RCONJJ11;16736029;20220812;Total (sum of items 1.a. through 5);RICII;6
+20220630;682563;RCONJJ12;28327;20220812;Construction loans;RICII;1a
+20220630;682563;RCONJJ13;88779;20220812;Commercial real estate loans;RICII;1b
+20220630;682563;RCONJJ14;6854;20220812;Residential real estate loans;RICII;1c
+20220630;682563;RCONJJ15;103537;20220812;Commercial loans;RICII;2
+20220630;682563;RCONJJ16;0;20220812;Credit cards;RICII;3
+20220630;682563;RCONJJ17;12135;20220812;Other consumer loans;RICII;4
+20220630;682563;RCONJJ18;0;20220812;Unallocated, if any;RICII;5
+20220630;682563;RCONJJ19;239632;20220812;Total (sum of items 1.a. through 5);RICII;6
+20220630;682563;RCONJJ20;158;20220812;Securities issued by states and political subdivisions in the U.S.;RICII;7
+20220630;682563;RCONJJ21;0;20220812;Mortgage-backed securities (MBS) (including CMOs, REMICs, and stripped MBS);RICII;8
+20220630;682563;RCONJJ23;0;20220812;Asset-backed securities and structured financial products;RICII;9
+20220630;682563;RCONJJ24;0;20220812;Other debt securities;RICII;10
+20220630;682563;RCONJJ25;158;20220812;Total (sum of items 7 through 10);RICII;11
+20220630;682563;RCONJJ30;0;20220812;Loans and leases held for investment;RCRII;M4a
+20220630;682563;RCONJJ31;0;20220812;Held-to-maturity debt securities;RCRII;M4b
+20220630;682563;RCONJJ32;0;20220812;Other financial assets measured at amortized cost;RCRII;M4c
+20220630;682563;RCONJJ34;1946428;20220812;Held-to-maturity securities (from Schedule RC-B, column A);RC;2a
+20220630;682563;RCONK009;0;20220812;Other real estate owned;RCV;1d
+20220630;682563;RCONK030;0;20220812;All other assets of consolidated VIEs (not included in items 1.a. through 1.e above);RCV;3
+20220630;682563;RCONK033;0;20220812;All other liabilities of consolidated VIEs (not included in items 2.a and 2.b above);RCV;4
+20220630;682563;RCONK036;5961;20220812;Loans and leases reported in items 1 through 8 above that are wholly or partially guaranteed by the U.S. Government, excluding loans and leases covered by loss-sharing agreements with the FDIC:;RCN;11
+20220630;682563;RCONK037;5063;20220812;Loans and leases reported in items 1 through 8 above that are wholly or partially guaranteed by the U.S. Government, excluding loans and leases covered by loss-sharing agreements with the FDIC:;RCN;11
+20220630;682563;RCONK038;6006;20220812;Loans and leases reported in items 1 through 8 above that are wholly or partially guaranteed by the U.S. Government, excluding loans and leases covered by loss-sharing agreements with the FDIC:;RCN;11
+20220630;682563;RCONK039;5940;20220812;Guaranteed portion of loans and leases included in item 11 above, excluding rebooked "GNMA loans";RCN;11a
+20220630;682563;RCONK040;5063;20220812;Guaranteed portion of loans and leases included in item 11 above, excluding rebooked "GNMA loans";RCN;11a
+20220630;682563;RCONK041;4423;20220812;Guaranteed portion of loans and leases included in item 11 above, excluding rebooked "GNMA loans";RCN;11a
+20220630;682563;RCONK042;0;20220812;Rebooked "GNMA loans" that have been repurchased or are eligible for repurchase included in item 11 above;RCN;11b
+20220630;682563;RCONK043;0;20220812;Rebooked "GNMA loans" that have been repurchased or are eligible for repurchase included in item 11 above;RCN;11b
+20220630;682563;RCONK044;0;20220812;Rebooked "GNMA loans" that have been repurchased or are eligible for repurchase included in item 11 above;RCN;11b
+20220630;682563;RCONK045;0;20220812;1-4 family residential construction loans;RCN;12a1a
+20220630;682563;RCONK046;0;20220812;1-4 family residential construction loans;RCN;12a1a
+20220630;682563;RCONK047;0;20220812;1-4 family residential construction loans;RCN;12a1a
+20220630;682563;RCONK048;0;20220812;Other construction loans and all land development and other land loans;RCN;12a1b
+20220630;682563;RCONK049;0;20220812;Other construction loans and all land development and other land loans;RCN;12a1b
+20220630;682563;RCONK050;0;20220812;Other construction loans and all land development and other land loans;RCN;12a1b
+20220630;682563;RCONK051;0;20220812;Secured by farmland;RCN;12a2
+20220630;682563;RCONK052;0;20220812;Secured by farmland;RCN;12a2
+20220630;682563;RCONK053;0;20220812;Secured by farmland;RCN;12a2
+20220630;682563;RCONK054;0;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCN;12a3a
+20220630;682563;RCONK055;0;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCN;12a3a
+20220630;682563;RCONK056;0;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCN;12a3a
+20220630;682563;RCONK057;0;20220812;Secured by first liens;RCN;12a3b1
+20220630;682563;RCONK058;0;20220812;Secured by first liens;RCN;12a3b1
+20220630;682563;RCONK059;0;20220812;Secured by first liens;RCN;12a3b1
+20220630;682563;RCONK060;0;20220812;Secured by junior liens;RCN;12a3b2
+20220630;682563;RCONK061;0;20220812;Secured by junior liens;RCN;12a3b2
+20220630;682563;RCONK062;0;20220812;Secured by junior liens;RCN;12a3b2
+20220630;682563;RCONK063;0;20220812;Secured by multifamily (5 or more) residential properties;RCN;12a4
+20220630;682563;RCONK064;0;20220812;Secured by multifamily (5 or more) residential properties;RCN;12a4
+20220630;682563;RCONK065;0;20220812;Secured by multifamily (5 or more) residential properties;RCN;12a4
+20220630;682563;RCONK066;0;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;12a5a
+20220630;682563;RCONK067;0;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;12a5a
+20220630;682563;RCONK068;0;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;12a5a
+20220630;682563;RCONK069;0;20220812;Loans secured by other nonfarm nonresidential properties;RCN;12a5b
+20220630;682563;RCONK070;0;20220812;Loans secured by other nonfarm nonresidential properties;RCN;12a5b
+20220630;682563;RCONK071;0;20220812;Loans secured by other nonfarm nonresidential properties;RCN;12a5b
+20220630;682563;RCONK087;0;20220812;All other loans and all leases;RCN;12e
+20220630;682563;RCONK088;0;20220812;All other loans and all leases;RCN;12e
+20220630;682563;RCONK089;0;20220812;All other loans and all leases;RCN;12e
+20220630;682563;RCONK098;0;20220812;Credit cards;RCCI;M1f4a
+20220630;682563;RCONK102;0;20220812;Portion of covered loans and leases included in items 12.a through 12.e above that is protected by FDIC loss-sharing agreements;RCN;12f
+20220630;682563;RCONK103;0;20220812;Portion of covered loans and leases included in items 12.a through 12.e above that is protected by FDIC loss-sharing agreements;RCN;12f
+20220630;682563;RCONK104;0;20220812;Portion of covered loans and leases included in items 12.a through 12.e above that is protected by FDIC loss-sharing agreements;RCN;12f
+20220630;682563;RCONK105;0;20220812;1-4 family residential construction loans;RCN;M1a1
+20220630;682563;RCONK106;0;20220812;1-4 family residential construction loans;RCN;M1a1
+20220630;682563;RCONK107;0;20220812;1-4 family residential construction loans;RCN;M1a1
+20220630;682563;RCONK108;0;20220812;Other construction loans and all land development and other land loans;RCN;M1a2
+20220630;682563;RCONK109;0;20220812;Other construction loans and all land development and other land loans;RCN;M1a2
+20220630;682563;RCONK110;0;20220812;Other construction loans and all land development and other land loans;RCN;M1a2
+20220630;682563;RCONK111;0;20220812;Secured by multifamily (5 or more) residential properties;RCN;M1c
+20220630;682563;RCONK112;0;20220812;Secured by multifamily (5 or more) residential properties;RCN;M1c
+20220630;682563;RCONK113;0;20220812;Secured by multifamily (5 or more) residential properties;RCN;M1c
+20220630;682563;RCONK114;0;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;M1d1
+20220630;682563;RCONK115;0;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;M1d1
+20220630;682563;RCONK116;1116;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCN;M1d1
+20220630;682563;RCONK117;0;20220812;Loans secured by other nonfarm nonresidential properties;RCN;M1d2
+20220630;682563;RCONK118;0;20220812;Loans secured by other nonfarm nonresidential properties;RCN;M1d2
+20220630;682563;RCONK119;0;20220812;Loans secured by other nonfarm nonresidential properties;RCN;M1d2
+20220630;682563;RCONK120;0;20220812;To U.S. addressees (domicile);RCN;M1e1
+20220630;682563;RCONK121;0;20220812;To U.S. addressees (domicile);RCN;M1e1
+20220630;682563;RCONK122;0;20220812;To U.S. addressees (domicile);RCN;M1e1
+20220630;682563;RCONK123;0;20220812;To non-U.S. addressees (domicile);RCN;M1e2
+20220630;682563;RCONK124;0;20220812;To non-U.S. addressees (domicile);RCN;M1e2
+20220630;682563;RCONK125;0;20220812;To non-U.S. addressees (domicile);RCN;M1e2
+20220630;682563;RCONK126;0;20220812;All other loans (include loans to individuals for household, family, and other personal expenditures);RCN;M1f
+20220630;682563;RCONK127;0;20220812;All other loans (include loans to individuals for household, family, and other personal expenditures);RCN;M1f
+20220630;682563;RCONK128;0;20220812;All other loans (include loans to individuals for household, family, and other personal expenditures);RCN;M1f
+20220630;682563;RCONK130;0;20220812;Loans secured by farmland;RCN;M1f1
+20220630;682563;RCONK131;0;20220812;Loans secured by farmland;RCN;M1f1
+20220630;682563;RCONK132;0;20220812;Loans secured by farmland;RCN;M1f1
+20220630;682563;RCONK137;15047;20220812;Automobile loans;RCCI;6c
+20220630;682563;RCONK138;0;20220812;Loans to finance agricultural production and other loans to farmers included in Schedule RC-N, Memorandum item 1.f, above;RCN;M1f5
+20220630;682563;RCONK139;0;20220812;Loans to finance agricultural production and other loans to farmers included in Schedule RC-N, Memorandum item 1.f, above;RCN;M1f5
+20220630;682563;RCONK140;0;20220812;Loans to finance agricultural production and other loans to farmers included in Schedule RC-N, Memorandum item 1.f, above;RCN;M1f5
+20220630;682563;RCONK142;0;20220812;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4c1a
+20220630;682563;RCONK143;0;20220812;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4c1a
+20220630;682563;RCONK144;0;20220812;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4c1a
+20220630;682563;RCONK145;0;20220812;Issued or guaranteed by FNMA, FHLMC, or GNMA;RCB;4c1a
+20220630;682563;RCONK146;0;20220812;Other pass-through securities;RCB;4c1b
+20220630;682563;RCONK147;0;20220812;Other pass-through securities;RCB;4c1b
+20220630;682563;RCONK148;0;20220812;Other pass-through securities;RCB;4c1b
+20220630;682563;RCONK149;0;20220812;Other pass-through securities;RCB;4c1b
+20220630;682563;RCONK150;525880;20220812;Issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4c2a
+20220630;682563;RCONK151;485523;20220812;Issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4c2a
+20220630;682563;RCONK152;15769;20220812;Issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4c2a
+20220630;682563;RCONK153;15634;20220812;Issued or guaranteed by U.S. Government agencies or sponsored agencies;RCB;4c2a
+20220630;682563;RCONK154;0;20220812;All other commercial MBS;RCB;4c2b
+20220630;682563;RCONK155;0;20220812;All other commercial MBS;RCB;4c2b
+20220630;682563;RCONK156;0;20220812;All other commercial MBS;RCB;4c2b
+20220630;682563;RCONK157;0;20220812;All other commercial MBS;RCB;4c2b
+20220630;682563;RCONK158;0;20220812;1-4 family residential construction loans;RCCI;M1a1
+20220630;682563;RCONK159;0;20220812;Other construction loans and all land development and other land loans;RCCI;M1a2
+20220630;682563;RCONK160;0;20220812;Secured by multifamily (5 or more) residential properties;RCCI;M1c
+20220630;682563;RCONK161;0;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCCI;M1d1
+20220630;682563;RCONK162;0;20220812;Loans secured by other nonfarm nonresidential properties;RCCI;M1d2
+20220630;682563;RCONK163;0;20220812;To U.S. addressees (domicile);RCCI;M1e1
+20220630;682563;RCONK164;0;20220812;To non-U.S. addressees (domicile);RCCI;M1e2
+20220630;682563;RCONK165;0;20220812;All other loans (include loans to individuals for household, family, and other personal expenditures);RCCI;M1f
+20220630;682563;RCONK166;0;20220812;Loans secured by farmland;RCCI;M1f1
+20220630;682563;RCONK168;0;20220812;Loans to finance agricultural production and other loans to farmers included in Schedule RC-C, part I, Memorandum item 1.f, above;RCCI;M1f5
+20220630;682563;RCONK169;0;20220812;1-4 family residential construction loans;RCM;13a1a1
+20220630;682563;RCONK170;0;20220812;Other construction loans and all land development and other land loans;RCM;13a1a2
+20220630;682563;RCONK171;0;20220812;Secured by farmland;RCM;13a1b
+20220630;682563;RCONK172;0;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCM;13a1c1
+20220630;682563;RCONK173;0;20220812;Secured by first liens;RCM;13a1c2a
+20220630;682563;RCONK174;0;20220812;Secured by junior liens;RCM;13a1c2b
+20220630;682563;RCONK175;0;20220812;Secured by multifamily (5 or more) residential properties;RCM;13a1d
+20220630;682563;RCONK176;0;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RCM;13a1e1
+20220630;682563;RCONK177;0;20220812;Loans secured by other nonfarm nonresidential properties;RCM;13a1e2
+20220630;682563;RCONK183;0;20220812;All other loans and all leases;RCM;13a5
+20220630;682563;RCONK187;0;20220812;Construction, land development, and other land;RCM;13b1
+20220630;682563;RCONK188;0;20220812;Farmland;RCM;13b2
+20220630;682563;RCONK189;0;20220812;1-4 family residential properties;RCM;13b3
+20220630;682563;RCONK190;0;20220812;Multifamily (5 or more) residential properties;RCM;13b4
+20220630;682563;RCONK191;0;20220812;Nonfarm nonresidential properties;RCM;13b5
+20220630;682563;RCONK192;0;20220812;Portion of covered other real estate owned included in items 13.b.(1) through (5) above that is protected by FDIC loss-sharing agreements;RCM;13b7
+20220630;682563;RCONK197;0;20220812;Commercial MBS issued or guaranteed by U.S. Government agencies or sponsored agencies;RCD;4d
+20220630;682563;RCONK198;0;20220812;All other commercial MBS;RCD;4e
+20220630;682563;RCONK201;22000;20220812;General account life insurance assets;RCF;5a
+20220630;682563;RCONK202;152891;20220812;Separate account life insurance assets;RCF;5b
+20220630;682563;RCONK203;0;20220812;Automobile loans;RCCI;M1f4b
+20220630;682563;RCONK204;0;20220812;Other (includes revolving credit plans other than credit cards and other consumer loans);RCCI;M1f4c
+20220630;682563;RCONK207;85804;20220812;Other consumer loans (includes single payment and installment loans other than automobile loans and all student loans);RCCI;6d
+20220630;682563;RCONK213;61;20220812;Automobile loans;RCN;5b
+20220630;682563;RCONK214;19;20220812;Automobile loans;RCN;5b
+20220630;682563;RCONK215;0;20220812;Automobile loans;RCN;5b
+20220630;682563;RCONK216;2470;20220812;Other (includes revolving credit plans other than credit cards and other consumer loans);RCN;5c
+20220630;682563;RCONK217;140;20220812;Other (includes revolving credit plans other than credit cards and other consumer loans);RCN;5c
+20220630;682563;RCONK218;0;20220812;Other (includes revolving credit plans other than credit cards and other consumer loans);RCN;5c
+20220630;682563;RCONK220;0;20220812;Brokered deposits of more than $250,000 with a remaining maturity of one year or less (included in Memorandum item 1.b above);RCE;M1d3
+20220630;682563;RCONK222;465245;20220812;Time deposits of more than $250,000 with a REMAINING MATURITY of one year or less (included in Memorandum items 4.a.(1) and 4.a.(2) above);RCE;M4b
+20220630;682563;RCONK223;0;20220812;Estimated amount of deposits obtained through the use of deposit listing services that are not brokered deposits;RCE;M1f
+20220630;682563;RCONK256;0;20220812;Commercial and industrial loans;RCCI;M1e
+20220630;682563;RCONK257;0;20220812;Commercial and industrial loans;RCN;M1e
+20220630;682563;RCONK258;0;20220812;Commercial and industrial loans;RCN;M1e
+20220630;682563;RCONK259;0;20220812;Commercial and industrial loans;RCN;M1e
+20220630;682563;RCONK270;14932;20220812;Hybrid account life insurance assets;RCF;5c
+20220630;682563;RCONK274;0;20220812;Credit cards;RCN;M1f4a
+20220630;682563;RCONK275;0;20220812;Credit cards;RCN;M1f4a
+20220630;682563;RCONK276;0;20220812;Credit cards;RCN;M1f4a
+20220630;682563;RCONK277;0;20220812;Automobile loans;RCN;M1f4b
+20220630;682563;RCONK278;0;20220812;Automobile loans;RCN;M1f4b
+20220630;682563;RCONK279;0;20220812;Automobile loans;RCN;M1f4b
+20220630;682563;RCONK280;0;20220812;Other (includes revolving credit plans other than credit cards and other consumer loans);RCN;M1f4c
+20220630;682563;RCONK281;0;20220812;Other (includes revolving credit plans other than credit cards and other consumer loans);RCN;M1f4c
+20220630;682563;RCONK282;0;20220812;Other (includes revolving credit plans other than credit cards and other consumer loans);RCN;M1f4c
+20220630;682563;RCONK652;52351680;20220812;Average consolidated total assets for the calendar quarter;RCO;4
+20220630;682563;RCONK653;1;20220812;Averaging method used (for daily averaging, enter 1: for weekly averaging, enter 2);RCO;4a
+20220630;682563;RCONK654;3378349;20220812;Average tangible equity for the calendar quarter;RCO;5
+20220630;682563;RCONK655;0;20220812;Holdings of long-term unsecured debt issued by other FDIC-insured depository institutions;RCO;6
+20220630;682563;RCONK656;false;20220812;Banker's bank certification:  Does the reporting institution meet both the statutory definition of a banker's bank and the business conduct test set forth in FDIC regulations?  If the answer to item 10 is "YES," complete items 10.a and 10.b.;RCO;10
+20220630;682563;RCONK659;false;20220812;Custodial bank certification:  Does the reporting institution meet the definition of a custodial bank set forth in FDIC regulations?  If the answer to item 11 is "YES," complete items 11.a and 11.b.;RCO;11
+20220630;682563;RCONK663;;20220812;Special mention;RCO;M6a
+20220630;682563;RCONK664;;20220812;Substandard;RCO;M6b
+20220630;682563;RCONK665;;20220812;Doubtful;RCO;M6c
+20220630;682563;RCONK666;;20220812;Loss;RCO;M6d
+20220630;682563;RCONK669;0;20220812;Amount of other real estate owned recoverable from the U.S. government under guarantee or insurance provisions (excluding FDIC loss-sharing agreements);RCO;M11
+20220630;682563;RCONK676;1993921;20220812;Total unfunded commitments;RCO;M10a
+20220630;682563;RCONK677;0;20220812;Portion of unfunded commitments guaranteed or insured by the U.S. government (including the FDIC);RCO;M10b
+20220630;682563;RCONK678;638736;20220812;Nonbrokered time deposits of more than $250,000 (included in Schedule RC-E, Memorandum item 2.d);RCO;M12
+20220630;682563;RCONL189;0;20220812;Portion of loans restructured in troubled debt restructurings that are in compliance with their modified terms and are guaranteed or insured by the U.S. government (including the FDIC) (included in Schedule RC-C, part I, Memorandum item 1);RCO;M16
+20220630;682563;RCONL191;;20220812;For representations and warranties made to U.S. government agencies and government-sponsored agencies;RCP;7a
+20220630;682563;RCONL192;;20220812;For representations and warranties made to other parties;RCP;7b
+20220630;682563;RCONLB56;310504;20220812;Operating lease liabilities;RCG;4e
+20220630;682563;RCONLE75;10520;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit that have converted to non-revolving closed-end status (included in item 1.c.(1) above);RCCI;M16
+20220630;682563;RCONLG24;;20220812;Number of Section 4013 loans outstanding;RCCI;M17a
+20220630;682563;RCONLG25;;20220812;Outstanding balance of Section 4013 loans;RCCI;M17b
+20220630;682563;RCONLG26;573;20220812;Number of PPP loans outstanding;RCM;17a
+20220630;682563;RCONLG27;91919;20220812;Outstanding balance of PPP loans;RCM;17b
+20220630;682563;RCONLG28;0;20220812;Outstanding balance of PPP loans pledged to the PPPLF;RCM;17c
+20220630;682563;RCONLL57;0;20220812;Quarterly average amount of PPP loans pledged to the PPPLF and excluded from "Total assets for the leverage ratio" reported in Schedule RC-R, Part I, item 30;RCM;17e
+20220630;682563;RCONLL58;0;20220812;Quarterly average amount of assets purchased under the MMLF and excluded from "Total assets for the leverage ratio" reported in Schedule RC-R, Part I, item 30;RCM;18b
+20220630;682563;RCONLL59;0;20220812;One year or less;RCM;17d1
+20220630;682563;RCONLL60;0;20220812;More than one year;RCM;17d2
+20220630;682563;RCONLL61;0;20220812;Outstanding balance of assets purchased under the MMLF;RCM;18a
+20220630;682563;RCONM288;0;20220812;Total representation and warranty reserves (sum of items 7.a and 7.b);RCP;7c
+20220630;682563;RCONM963;0;20220812;Non-agency residential mortgage-backed securities;RCO;M13h
+20220630;682563;RCONM964;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM965;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM966;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM967;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM968;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM969;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM970;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM971;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM972;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM973;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM974;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM975;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM976;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM977;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM978;;20220812;"Nontraditional 1-4 family residential mortgage loans" as defined for assessment purposes only in FDIC regulations;RCO;M18a
+20220630;682563;RCONM979;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM980;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM981;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM982;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM983;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM984;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM985;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM986;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM987;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM988;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM989;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM990;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM991;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM992;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM993;;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M18b
+20220630;682563;RCONM994;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONM995;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONM996;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONM997;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONM998;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONM999;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONMT87;0;20220812;Fully insured, affiliate sweep deposits;RCE;M1h1
+20220630;682563;RCONMT89;0;20220812;Not fully insured, affiliate sweep deposits;RCE;M1h2
+20220630;682563;RCONMT91;0;20220812;Fully insured, non-affiliate sweep deposits;RCE;M1h3
+20220630;682563;RCONMT93;0;20220812;Not fully insured, non-affiliate sweep deposits;RCE;M1h4
+20220630;682563;RCONMT95;0;20220812;Total sweep deposits that are not brokered deposits;RCE;M1i
+20220630;682563;RCONMW53;20805;20220812;Applicable portion of the CECL transitional amount or modified CECL transitional amount that has been added to retained earnings for regulatory capital purposes as of the current report date and is attributable to loans and leases held for investment;RCO;M5
+20220630;682563;RCONN001;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONN002;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONN003;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONN004;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONN005;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONN006;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONN007;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONN008;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONN009;;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties;RCO;M18c
+20220630;682563;RCONN010;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN011;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN012;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN013;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN014;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN015;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN016;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN017;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN018;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN019;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN020;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN021;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN022;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN023;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN024;;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M18d
+20220630;682563;RCONN025;;20220812;Nontraditional 1-4 family residential mortgage loans;RCO;M7a
+20220630;682563;RCONN026;;20220812;Securitizations of nontraditional 1-4 family residential mortgage loans;RCO;M7b
+20220630;682563;RCONN027;;20220812;Higher-risk consumer loans;RCO;M8a
+20220630;682563;RCONN028;;20220812;Securitizations of higher-risk consumer loans;RCO;M8b
+20220630;682563;RCONN029;;20220812;Higher-risk commercial and industrial loans and securities;RCO;M9a
+20220630;682563;RCONN030;;20220812;Securitizations of higher-risk commercial and industrial loans and securities;RCO;M9b
+20220630;682563;RCONN040;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN041;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN042;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN043;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN044;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN045;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN046;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN047;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN048;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN049;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN050;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN051;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN052;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN053;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN054;;20220812;Credit cards;RCO;M18e
+20220630;682563;RCONN055;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN056;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN057;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN058;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN059;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN060;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN061;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN062;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN063;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN064;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN065;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN066;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN067;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN068;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN069;;20220812;Automobile loans;RCO;M18f
+20220630;682563;RCONN070;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN071;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN072;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN073;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN074;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN075;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN076;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN077;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN078;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN079;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN080;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN081;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN082;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN083;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN084;;20220812;Student loans;RCO;M18g
+20220630;682563;RCONN085;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN086;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN087;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN088;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN089;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN090;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN091;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN092;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN093;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN094;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN095;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN096;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN097;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN098;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN099;;20220812;Other consumer loans and revolving credit plans other than credit cards;RCO;M18h
+20220630;682563;RCONN100;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN101;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN102;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN103;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN104;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN105;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN106;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN107;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN108;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN109;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN110;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN111;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN112;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN113;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN114;;20220812;Consumer leases;RCO;M18i
+20220630;682563;RCONN115;;20220812;Total;RCO;M18j
+20220630;682563;RCONN116;;20220812;Total;RCO;M18j
+20220630;682563;RCONN117;;20220812;Total;RCO;M18j
+20220630;682563;RCONN118;;20220812;Total;RCO;M18j
+20220630;682563;RCONN119;;20220812;Total;RCO;M18j
+20220630;682563;RCONN120;;20220812;Total;RCO;M18j
+20220630;682563;RCONN121;;20220812;Total;RCO;M18j
+20220630;682563;RCONN122;;20220812;Total;RCO;M18j
+20220630;682563;RCONN123;;20220812;Total;RCO;M18j
+20220630;682563;RCONN124;;20220812;Total;RCO;M18j
+20220630;682563;RCONN125;;20220812;Total;RCO;M18j
+20220630;682563;RCONN126;;20220812;Total;RCO;M18j
+20220630;682563;RCONN127;;20220812;Total;RCO;M18j
+20220630;682563;RCONN128;;20220812;Total;RCO;M18j
+20220630;682563;RCONN177;249;20220812;Construction, land development, and other land loans secured by real estate;RCO;M13a
+20220630;682563;RCONN178;13671;20220812;Loans secured by multifamily residential and nonfarm nonresidential properties;RCO;M13b
+20220630;682563;RCONN179;0;20220812;Closed-end loans secured by first liens on 1-4 family residential properties;RCO;M13c
+20220630;682563;RCONN180;0;20220812;Closed-end loans secured by junior liens on 1-4 family residential properties and revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RCO;M13d
+20220630;682563;RCONN181;207955;20220812;Commercial and industrial loans;RCO;M13e
+20220630;682563;RCONN182;0;20220812;Credit card loans to individuals for household, family, and other personal expenditures;RCO;M13f
+20220630;682563;RCONN183;7;20220812;All other loans to individuals for household, family, and other personal expenditures;RCO;M13g
+20220630;682563;RCONP752;true;20220812;Does your institution offer one or more consumer deposit account products, i.e., transaction account or nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use?;RCE;M5
+20220630;682563;RCONP753;2582;20220812;Total deposits in those noninterest-bearing transaction account deposit products intended primarily for individuals for personal, household, or family use;RCE;M6a
+20220630;682563;RCONP754;443572;20220812;Total deposits in those interest-bearing transaction account deposit products intended primarily for individuals for personal, household, or family use;RCE;M6b
+20220630;682563;RCONP756;15531781;20220812;Total deposits in those MMDA deposit products intended primarily for individuals for personal, household, or family use;RCE;M7a1
+20220630;682563;RCONP757;22736517;20220812;Deposits in all other MMDAs of individuals, partnerships, and corporations;RCE;M7a2
+20220630;682563;RCONP758;2057779;20220812;Total deposits in those other savings deposit account deposit products intended primarily for individuals for personal, household, or family use;RCE;M7b1
+20220630;682563;RCONP759;326671;20220812;Deposits in all other savings deposit accounts of individuals, partnerships, and corporations;RCE;M7b2
+20220630;682563;RCONS396;0;20220812;Cash and balances due from depository institutions;RCRII;1
+20220630;682563;RCONS397;0;20220812;Cash and balances due from depository institutions;RCRII;1
+20220630;682563;RCONS398;0;20220812;Cash and balances due from depository institutions;RCRII;1
+20220630;682563;RCONS399;-158;20220812;Held-to-maturity securities;RCRII;2a
+20220630;682563;RCONS400;0;20220812;Held-to-maturity securities;RCRII;2a
+20220630;682563;RCONS402;-1068578;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCONS403;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCONS405;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCONS406;0;20220812;Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading;RCRII;2b
+20220630;682563;RCONS410;0;20220812;Federal funds sold;RCRII;3a
+20220630;682563;RCONS411;0;20220812;Federal funds sold;RCRII;3a
+20220630;682563;RCONS413;0;20220812;Residential mortgage exposures;RCRII;4a
+20220630;682563;RCONS414;0;20220812;Residential mortgage exposures;RCRII;4a
+20220630;682563;RCONS415;0;20220812;Residential mortgage exposures;RCRII;4a
+20220630;682563;RCONS416;0;20220812;Residential mortgage exposures;RCRII;4a
+20220630;682563;RCONS417;0;20220812;Residential mortgage exposures;RCRII;4a
+20220630;682563;RCONS419;0;20220812;High volatility commercial real estate exposures;RCRII;4b
+20220630;682563;RCONS420;0;20220812;High volatility commercial real estate exposures;RCRII;4b
+20220630;682563;RCONS421;0;20220812;High volatility commercial real estate exposures;RCRII;4b
+20220630;682563;RCONS423;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONS424;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONS425;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONS426;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONS427;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONS428;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONS429;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;4c
+20220630;682563;RCONS431;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONS432;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONS433;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONS434;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONS435;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONS436;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONS437;0;20220812;All other exposures;RCRII;4d
+20220630;682563;RCONS439;1722037;20220812;Residential mortgage exposures;RCRII;5a
+20220630;682563;RCONS440;0;20220812;Residential mortgage exposures;RCRII;5a
+20220630;682563;RCONS441;0;20220812;Residential mortgage exposures;RCRII;5a
+20220630;682563;RCONS442;315966;20220812;Residential mortgage exposures;RCRII;5a
+20220630;682563;RCONS443;1406071;20220812;Residential mortgage exposures;RCRII;5a
+20220630;682563;RCONS445;359093;20220812;High volatility commercial real estate exposures;RCRII;5b
+20220630;682563;RCONS446;0;20220812;High volatility commercial real estate exposures;RCRII;5b
+20220630;682563;RCONS447;359093;20220812;High volatility commercial real estate exposures;RCRII;5b
+20220630;682563;RCONS449;43955;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONS450;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONS451;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONS452;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONS453;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONS454;0;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONS455;43955;20220812;Exposures past due 90 days or more or on nonaccrual;RCRII;5c
+20220630;682563;RCONS457;14610944;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONS458;0;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONS459;266569;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONS460;141544;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONS461;0;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONS462;14202831;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONS463;0;20220812;All other exposures;RCRII;5d
+20220630;682563;RCONS466;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCONS467;0;20220812;Trading assets;RCRII;7
+20220630;682563;RCONS469;748666;20220812;All other assets;RCRII;8
+20220630;682563;RCONS470;0;20220812;All other assets;RCRII;8
+20220630;682563;RCONS471;0;20220812;All other assets;RCRII;8
+20220630;682563;RCONS475;0;20220812;Held-to-maturity securities;RCRII;9a
+20220630;682563;RCONS476;0;20220812;Held-to-maturity securities;RCRII;9a
+20220630;682563;RCONS477;0;20220812;Held-to-maturity securities;RCRII;9a
+20220630;682563;RCONS478;0;20220812;Held-to-maturity securities;RCRII;9a
+20220630;682563;RCONS479;0;20220812;Held-to-maturity securities;RCRII;9a
+20220630;682563;RCONS480;0;20220812;Available-for-sale securities;RCRII;9b
+20220630;682563;RCONS481;0;20220812;Available-for-sale securities;RCRII;9b
+20220630;682563;RCONS482;0;20220812;Available-for-sale securities;RCRII;9b
+20220630;682563;RCONS483;0;20220812;Available-for-sale securities;RCRII;9b
+20220630;682563;RCONS484;0;20220812;Available-for-sale securities;RCRII;9b
+20220630;682563;RCONS485;0;20220812;Trading assets;RCRII;9c
+20220630;682563;RCONS486;0;20220812;Trading assets;RCRII;9c
+20220630;682563;RCONS487;0;20220812;Trading assets;RCRII;9c
+20220630;682563;RCONS488;0;20220812;Trading assets;RCRII;9c
+20220630;682563;RCONS489;0;20220812;Trading assets;RCRII;9c
+20220630;682563;RCONS490;0;20220812;All other on-balance sheet securitization exposures;RCRII;9d
+20220630;682563;RCONS491;0;20220812;All other on-balance sheet securitization exposures;RCRII;9d
+20220630;682563;RCONS492;0;20220812;All other on-balance sheet securitization exposures;RCRII;9d
+20220630;682563;RCONS493;0;20220812;All other on-balance sheet securitization exposures;RCRII;9d
+20220630;682563;RCONS494;0;20220812;All other on-balance sheet securitization exposures;RCRII;9d
+20220630;682563;RCONS495;0;20220812;Off-balance sheet securitization exposures;RCRII;10
+20220630;682563;RCONS496;0;20220812;Off-balance sheet securitization exposures;RCRII;10
+20220630;682563;RCONS497;0;20220812;Off-balance sheet securitization exposures;RCRII;10
+20220630;682563;RCONS498;0;20220812;Off-balance sheet securitization exposures;RCRII;10
+20220630;682563;RCONS499;0;20220812;Off-balance sheet securitization exposures;RCRII;10
+20220630;682563;RCONS500;-550052;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONS503;403048;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONS504;0;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONS505;0;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONS506;0;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONS507;0;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONS510;0;20220812;Total balance sheet assets;RCRII;11
+20220630;682563;RCONS511;0;20220812;Financial standby letters of credit;RCRII;12
+20220630;682563;RCONS512;0;20220812;Performance standby letters of credit and transaction-related contingent items;RCRII;13
+20220630;682563;RCONS513;0;20220812;Commercial and similar letters of credit with an original maturity of one year or less;RCRII;14
+20220630;682563;RCONS514;0;20220812;Retained recourse on small business obligations sold with recourse;RCRII;15
+20220630;682563;RCONS515;1674335;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONS516;1674335;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONS517;976198;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONS518;0;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONS519;0;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONS520;698137;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONS521;0;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONS522;0;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONS523;0;20220812;Repo-style transactions;RCRII;16
+20220630;682563;RCONS524;0;20220812;All other off-balance sheet liabilities;RCRII;17
+20220630;682563;RCONS525;2295500;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONS526;459100;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONS527;0;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONS528;13219;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONS529;0;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONS530;444687;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONS531;1194;20220812;Original maturity of one year or less;RCRII;18a
+20220630;682563;RCONS539;125684;20220812;Original maturity exceeding one year;RCRII;18b
+20220630;682563;RCONS540;30830;20220812;Unconditionally cancelable commitments;RCRII;19
+20220630;682563;RCONS541;0;20220812;Unconditionally cancelable commitments;RCRII;19
+20220630;682563;RCONS542;378572;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONS543;0;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONS544;0;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONS545;0;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONS546;0;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONS547;378572;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONS548;0;20220812;Over-the-counter derivatives;RCRII;20
+20220630;682563;RCONS549;9770;20220812;Centrally cleared derivatives;RCRII;21
+20220630;682563;RCONS550;0;20220812;Centrally cleared derivatives;RCRII;21
+20220630;682563;RCONS551;0;20220812;Centrally cleared derivatives;RCRII;21
+20220630;682563;RCONS552;0;20220812;Centrally cleared derivatives;RCRII;21
+20220630;682563;RCONS554;0;20220812;Centrally cleared derivatives;RCRII;21
+20220630;682563;RCONS555;0;20220812;Centrally cleared derivatives;RCRII;21
+20220630;682563;RCONS556;9770;20220812;Centrally cleared derivatives;RCRII;21
+20220630;682563;RCONS557;0;20220812;Centrally cleared derivatives;RCRII;21
+20220630;682563;RCONS558;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS559;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS560;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS561;529926;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS562;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS563;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS564;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS565;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS566;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS567;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS568;0;20220812;Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22);RCRII;23
+20220630;682563;RCONS569;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS570;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS571;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS572;794889;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS573;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS574;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS575;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS576;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS577;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS578;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS579;0;20220812;Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24);RCRII;25
+20220630;682563;RCONS580;27562401;20220812;Risk-weighted assets base for purposes of calculating the allowance for loan and lease losses 1.25 percent threshold;RCRII;26
+20220630;682563;RCONS581;0;20220812;Standardized market-risk weighted assets (applicable only to banks that are covered by the market risk capital rule);RCRII;27
+20220630;682563;RCONS582;57808;20220812;Interest rate;RCRII;M2a
+20220630;682563;RCONS583;901604;20220812;Interest rate;RCRII;M2a
+20220630;682563;RCONS584;1119887;20220812;Interest rate;RCRII;M2a
+20220630;682563;RCONS585;1088;20220812;Foreign exchange rate and gold;RCRII;M2b
+20220630;682563;RCONS586;0;20220812;Foreign exchange rate and gold;RCRII;M2b
+20220630;682563;RCONS587;0;20220812;Foreign exchange rate and gold;RCRII;M2b
+20220630;682563;RCONS588;0;20220812;Credit (investment grade reference asset);RCRII;M2c
+20220630;682563;RCONS589;0;20220812;Credit (investment grade reference asset);RCRII;M2c
+20220630;682563;RCONS590;0;20220812;Credit (investment grade reference asset);RCRII;M2c
+20220630;682563;RCONS591;0;20220812;Credit (non-investment grade reference asset);RCRII;M2d
+20220630;682563;RCONS592;11079;20220812;Credit (non-investment grade reference asset);RCRII;M2d
+20220630;682563;RCONS593;3983;20220812;Credit (non-investment grade reference asset);RCRII;M2d
+20220630;682563;RCONS594;0;20220812;Equity;RCRII;M2e
+20220630;682563;RCONS595;0;20220812;Equity;RCRII;M2e
+20220630;682563;RCONS596;0;20220812;Equity;RCRII;M2e
+20220630;682563;RCONS597;0;20220812;Precious metals (except gold);RCRII;M2f
+20220630;682563;RCONS598;0;20220812;Precious metals (except gold);RCRII;M2f
+20220630;682563;RCONS599;0;20220812;Precious metals (except gold);RCRII;M2f
+20220630;682563;RCONS600;715405;20220812;Other;RCRII;M2g
+20220630;682563;RCONS601;717637;20220812;Other;RCRII;M2g
+20220630;682563;RCONS602;0;20220812;Other;RCRII;M2g
+20220630;682563;RCONS603;490571;20220812;Interest rate;RCRII;M3a
+20220630;682563;RCONS604;0;20220812;Interest rate;RCRII;M3a
+20220630;682563;RCONS605;0;20220812;Interest rate;RCRII;M3a
+20220630;682563;RCONS606;0;20220812;Foreign exchange rate and gold;RCRII;M3b
+20220630;682563;RCONS607;0;20220812;Foreign exchange rate and gold;RCRII;M3b
+20220630;682563;RCONS608;0;20220812;Foreign exchange rate and gold;RCRII;M3b
+20220630;682563;RCONS609;0;20220812;Credit (investment grade reference asset);RCRII;M3c
+20220630;682563;RCONS610;0;20220812;Credit (investment grade reference asset);RCRII;M3c
+20220630;682563;RCONS611;0;20220812;Credit (investment grade reference asset);RCRII;M3c
+20220630;682563;RCONS612;0;20220812;Credit (non-investment grade reference asset);RCRII;M3d
+20220630;682563;RCONS613;0;20220812;Credit (non-investment grade reference asset);RCRII;M3d
+20220630;682563;RCONS614;0;20220812;Credit (non-investment grade reference asset);RCRII;M3d
+20220630;682563;RCONS615;0;20220812;Equity;RCRII;M3e
+20220630;682563;RCONS616;0;20220812;Equity;RCRII;M3e
+20220630;682563;RCONS617;0;20220812;Equity;RCRII;M3e
+20220630;682563;RCONS618;0;20220812;Precious metals (except gold);RCRII;M3f
+20220630;682563;RCONS619;0;20220812;Precious metals (except gold);RCRII;M3f
+20220630;682563;RCONS620;0;20220812;Precious metals (except gold);RCRII;M3f
+20220630;682563;RCONS621;0;20220812;Other;RCRII;M3g
+20220630;682563;RCONS622;0;20220812;Other;RCRII;M3g
+20220630;682563;RCONS623;0;20220812;Other;RCRII;M3g
+20220630;682563;RIAD0093;16335;20220812;Savings deposits (includes MMDAs);RI;2a2a
+20220630;682563;RIAD0497;17874;20220812;Advertising and marketing expenses;RIE;2b
+20220630;682563;RIAD3123;239632;20220812;Balance end of current period (sum of items 1, 2, 5, and 6, less items 3 and 4) (column A must equal Schedule RC, item 4.c);RIBII;7
+20220630;682563;RIAD3196;0;20220812;Realized gains (losses) on available-for-sale debt securities;RI;6b
+20220630;682563;RIAD3210;3166252;20220812;Total bank equity capital end of current period (sum of items 3 through 11) (must equal Schedule RC, item 27.a);RIA;12
+20220630;682563;RIAD3217;4215635;20220812;Total bank equity capital most recently reported for the December 31, 2021, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income);RIA;1
+20220630;682563;RIAD3521;0;20220812;Realized gains (losses) on held-to-maturity securities;RI;6a
+20220630;682563;RIAD3584;0;20220812;Secured by farmland;RIBI;1b
+20220630;682563;RIAD3585;0;20220812;Secured by farmland;RIBI;1b
+20220630;682563;RIAD3588;0;20220812;Secured by multifamily (5 or more) residential properties;RIBI;1d
+20220630;682563;RIAD3589;0;20220812;Secured by multifamily (5 or more) residential properties;RIBI;1d
+20220630;682563;RIAD4010;312014;20220812;Total interest and fee income on loans (sum of items 1.a.(1)(a) through 1.a.(5));RI;1a6
+20220630;682563;RIAD4012;113376;20220812;Commercial and industrial loans;RI;1a2
+20220630;682563;RIAD4020;127;20220812;Interest income on federal funds sold and securities purchased under agreements to resell;RI;1f
+20220630;682563;RIAD4024;273;20220812;Interest and fee income on loans to finance agricultural production and other loans to farmers (included in Schedule RI, item 1.a.(5));RI;M6
+20220630;682563;RIAD4042;0;20220812;Rent and other income from other real estate owned;RIE;1d
+20220630;682563;RIAD4058;9782;20220812;All other loans;RI;1a5
+20220630;682563;RIAD4060;120541;20220812;All other securities (includes securities issued by states and political subdivisions in the U.S.);RI;1d3
+20220630;682563;RIAD4065;5910;20220812;Income from lease financing receivables;RI;1b
+20220630;682563;RIAD4070;60072;20220812;Total gross fiduciary and related services income (sum of items 14 through 21) (must equal Schedule RI, item 5.a);RCT;22
+20220630;682563;RIAD4073;21900;20220812;Total interest expense (sum of items 2.a through 2.d);RI;2e
+20220630;682563;RIAD4074;542230;20220812;Net interest income (item 1.h minus 2.e);RI;3
+20220630;682563;RIAD4079;198977;20220812;Total noninterest income (sum of items 5.a through 5.l);RI;5m
+20220630;682563;RIAD4080;42738;20220812;Service charges on deposit accounts;RI;5b
+20220630;682563;RIAD4092;128649;20220812;Other noninterest expense;RI;7d
+20220630;682563;RIAD4093;481508;20220812;Total noninterest expense (sum of items 7.a through 7.d);RI;7e
+20220630;682563;RIAD4107;564130;20220812;Total interest income (sum of items 1.a.(6) through 1.g);RI;1h
+20220630;682563;RIAD4115;32714;20220812;Interest income on balances due from depository institutions;RI;1c
+20220630;682563;RIAD4135;275771;20220812;Salaries and employee benefits;RI;7a
+20220630;682563;RIAD4136;0;20220812;Directors' fees;RIE;2c
+20220630;682563;RIAD4141;0;20220812;Legal fees and expenses;RIE;2f
+20220630;682563;RIAD4146;;20220812;FDIC deposit insurance assessments;RIE;2g
+20220630;682563;RIAD4150;4795;20220812;Number of full-time equivalent employees at end of current period (round to nearest whole number);RI;M5
+20220630;682563;RIAD4180;2395;20220812;Expense of federal funds purchased and securities sold under agreements to repurchase;RI;2b
+20220630;682563;RIAD4185;0;20220812;Interest on trading liabilities and other borrowed money;RI;2c
+20220630;682563;RIAD4200;0;20220812;Interest on subordinated notes and debentures;RI;2d
+20220630;682563;RIAD4217;76810;20220812;Expenses of premises and fixed assets (net of rental income) (excluding salaries and employee benefits and mortgage interest);RI;7b
+20220630;682563;RIAD4230;68;20220812;Provisions for credit losses;RIBII;5
+20220630;682563;RIAD4266;323;20220812;Lease financing receivables;RIBI;8
+20220630;682563;RIAD4267;107;20220812;Lease financing receivables;RIBI;8
+20220630;682563;RIAD4300;223852;20220812;Income (loss) before discontinued operations (item 8.c minus item 9);RI;10
+20220630;682563;RIAD4301;259699;20220812;Income (loss) before applicable income taxes and discontinued operations (sum of items 8.a and 8.b);RI;8c
+20220630;682563;RIAD4302;35847;20220812;Applicable income taxes (on item 8.c);RI;9
+20220630;682563;RIAD4313;3630;20220812;Income on tax-exempt loans and leases to states and political subdivisions in the U.S. (included in Schedule RI, items 1.a and 1.b);RI;M3
+20220630;682563;RIAD4340;223852;20220812;Net income (loss) attributable to bank (must equal Schedule RI, item 14);RIA;4
+20220630;682563;RIAD4356;0;20220812;Changes incident to business combinations, net;RIA;7
+20220630;682563;RIAD4415;0;20220812;Other transactions with stockholders (including a parent holding company) (not included in items 5, 6, 8, or 9 above);RIA;11
+20220630;682563;RIAD4435;35360;20220812;Loans secured by 1-4 family residential properties;RI;1a1a
+20220630;682563;RIAD4436;143977;20220812;All other loans secured by real estate;RI;1a1b
+20220630;682563;RIAD4460;51710;20220812;LESS: Cash dividends declared on common stock;RIA;9
+20220630;682563;RIAD4461;0;20220812;Amount of component;RIE;1h2
+20220630;682563;RIAD4462;0;20220812;Amount of component;RIE;1i2
+20220630;682563;RIAD4463;0;20220812;Amount of component;RIE;1j2
+20220630;682563;RIAD4464;19334;20220812;Amount of component;RIE;2n2
+20220630;682563;RIAD4467;12314;20220812;Amount of component;RIE;2o2
+20220630;682563;RIAD4468;0;20220812;Amount of component;RIE;2p2
+20220630;682563;RIAD4470;0;20220812;LESS: Cash dividends declared on preferred stock;RIA;8
+20220630;682563;RIAD4498;0;20220812;Amount of component;RIE;5a2
+20220630;682563;RIAD4499;0;20220812;Amount of component;RIE;5b2
+20220630;682563;RIAD4507;113923;20220812;Income on tax-exempt securities issued by states and political subdivisions in the U.S. (included in Schedule RI, item 1.d.(3));RI;M4
+20220630;682563;RIAD4508;46;20220812;Transaction accounts (interest-bearing demand deposits, NOW accounts, ATS accounts, and telephone and preauthorized transfer accounts);RI;2a1
+20220630;682563;RIAD4513;2243;20220812;Interest expense incurred to carry tax-exempt securities, loans, and leases acquired after August 7, 1986, that is not deductible for federal income tax purposes;RI;M1
+20220630;682563;RIAD4518;561;20220812;Other interest income;RI;1g
+20220630;682563;RIAD4521;0;20220812;Amount of component;RIE;6c2
+20220630;682563;RIAD4522;0;20220812;Amount of component;RIE;6d2
+20220630;682563;RIAD4605;8773;20220812;Recoveries (column A must equal Part I, item 9, column B, above);RIBII;2
+20220630;682563;RIAD4608;2954;20220812;Commercial and industrial loans;RIBI;4
+20220630;682563;RIAD4618;0;20220812;Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 4, above);RIBI;M2c
+20220630;682563;RIAD4628;4371;20220812;All other loans;RIBI;7
+20220630;682563;RIAD4635;17875;20220812;Total (sum of items 1 through 8);RIBI;9
+20220630;682563;RIAD4638;5394;20220812;Commercial and industrial loans;RIBI;4
+20220630;682563;RIAD4644;10110;20220812;All other loans;RIBI;7
+20220630;682563;RIAD4646;0;20220812;Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 4, above);RIBI;M2c
+20220630;682563;RIAD4652;0;20220812;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 1, above);RIBI;M2a
+20220630;682563;RIAD4655;0;20220812;Loans to finance agricultural production and other loans to farmers (included in Schedule RI-B, part I, item 7, above);RIBI;M3
+20220630;682563;RIAD4662;0;20220812;Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 1, above);RIBI;M2a
+20220630;682563;RIAD4665;0;20220812;Loans to finance agricultural production and other loans to farmers (included in Schedule RI-B, part I, item 7, above);RIBI;M3
+20220630;682563;RIAD4769;false;20220812;Comments?;RIE;7a
+20220630;682563;RIAD5409;0;20220812;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RI-B, part I, items 4 and 7, above;RIBI;M1
+20220630;682563;RIAD5410;0;20220812;Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RI-B, part I, items 4 and 7, above;RIBI;M1
+20220630;682563;RIAD5411;3;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RIBI;1c1
+20220630;682563;RIAD5412;24;20220812;Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit;RIBI;1c1
+20220630;682563;RIAD5415;-80;20220812;Net gains (losses) on sales of other real estate owned;RI;5j
+20220630;682563;RIAD5416;0;20220812;Net gains (losses) on sales of loans and leases;RI;5i
+20220630;682563;RIAD5523;0;20220812;LESS:  Write-downs arising from transfers of financial assets;RIBII;4
+20220630;682563;RIAD8403;0;20220812;Postage;RIE;2e
+20220630;682563;RIAD8431;6341;20220812;Income from the sale and servicing of mutual funds and annuities (included in Schedule RI, item 8);RI;M2
+20220630;682563;RIAD9106;00000000;20220812;If the reporting institution has applied pushdown accounting this calendar year, report the date of the institution's acquisition (see instructions);RI;M7
+20220630;682563;RIADA220;6640;20220812;Trading revenue;RI;5c
+20220630;682563;RIADA251;0;20220812;Credit losses on derivatives (see instructions);RI;M10
+20220630;682563;RIADA479;0;20220812;Corporate trust and agency accounts;RCT;16
+20220630;682563;RIADA480;0;20220812;Other fiduciary accounts;RCT;19
+20220630;682563;RIADA530;false;20220812;Does the reporting bank have a Subchapter S election in effect for federal income tax purposes for the current tax year?;RI;M11
+20220630;682563;RIADB485;0;20220812;Credit cards;RI;1a3a
+20220630;682563;RIADB486;9519;20220812;Other (includes revolving credit plans other than credit cards, automobile loans, and other consumer loans);RI;1a3b
+20220630;682563;RIADB488;28121;20220812;U.S. Treasury securities and U.S. Government agency obligations (excluding mortgage-backed securities);RI;1d1
+20220630;682563;RIADB489;64142;20220812;Mortgage-backed securities;RI;1d2
+20220630;682563;RIADB491;0;20220812;Venture capital revenue;RI;5e
+20220630;682563;RIADB492;0;20220812;Net servicing fees;RI;5f
+20220630;682563;RIADB493;0;20220812;Net securitization income;RI;5g
+20220630;682563;RIADB496;-22;20220812;Net gains (losses) on sales of other assets;RI;5k
+20220630;682563;RIADB497;32752;20220812;Other noninterest income;RI;5l
+20220630;682563;RIADB507;0;20220812;Cumulative effect of changes in accounting principles and corrections of material accounting errors;RIA;2
+20220630;682563;RIADB508;4215635;20220812;Balance end of previous calendar year as restated (sum of items 1 and 2);RIA;3
+20220630;682563;RIADB509;0;20220812;Sale, conversion, acquisition, or retirement of capital stock, net (excluding treasury stock transactions);RIA;5
+20220630;682563;RIADB510;0;20220812;Treasury stock transactions, net;RIA;6
+20220630;682563;RIADB511;-1221525;20220812;Other comprehensive income;RIA;10
+20220630;682563;RIADB514;0;20220812;Credit cards;RIBI;5a
+20220630;682563;RIADB515;0;20220812;Credit cards;RIBI;5a
+20220630;682563;RIADB522;248666;20220812;Balance most recently reported for the December 31, 2021, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income);RIBII;1
+20220630;682563;RIADB526;0;20220812;Amount of component;RIE;4c2
+20220630;682563;RIADB527;0;20220812;Amount of component;RIE;4d2
+20220630;682563;RIADB747;0;20220812;Charge-offs;RCS;5a
+20220630;682563;RIADB753;0;20220812;Charge-offs;RCS;5a
+20220630;682563;RIADB754;0;20220812;Recoveries;RCS;5b
+20220630;682563;RIADB760;0;20220812;Recoveries;RCS;5b
+20220630;682563;RIADB904;27336;20220812;Personal trust and agency accounts;RCT;14
+20220630;682563;RIADB905;3684;20220812;Employee benefit - defined contribution;RCT;15a
+20220630;682563;RIADB906;475;20220812;Employee benefit - defined benefit;RCT;15b
+20220630;682563;RIADB907;2786;20220812;Other employee benefit and retirement-related accounts;RCT;15c
+20220630;682563;RIADB909;2783;20220812;Custody and safekeeping accounts;RCT;20
+20220630;682563;RIADB910;0;20220812;Other fiduciary and related services income;RCT;21
+20220630;682563;RIADC013;0;20220812;Income and fees from the printing and sale of checks;RIE;1a
+20220630;682563;RIADC014;0;20220812;Earnings on/increase in value of cash surrender value of life insurance;RIE;1b
+20220630;682563;RIADC015;0;20220812;Safe deposit box rent;RIE;1e
+20220630;682563;RIADC016;0;20220812;Income and fees from automated teller machines (ATMs);RIE;1c
+20220630;682563;RIADC017;0;20220812;Data processing expenses;RIE;2a
+20220630;682563;RIADC018;0;20220812;Printing, stationery, and supplies;RIE;2d
+20220630;682563;RIADC079;17875;20220812;LESS:  Charge-offs (column A must equal Part I, item 9, column A, above less Schedule RI-B, Part II, item 4, column A);RIBII;3
+20220630;682563;RIADC216;0;20220812;Goodwill impairment losses;RI;7c1
+20220630;682563;RIADC217;19;20220812;Secured by first liens;RIBI;1c2a
+20220630;682563;RIADC218;48;20220812;Secured by junior liens;RIBI;1c2b
+20220630;682563;RIADC232;278;20220812;Amortization expense and impairment losses for other intangible assets;RI;7c2
+20220630;682563;RIADC233;0;20220812;Adjustments (see instructions for this schedule);RIBII;6
+20220630;682563;RIADC234;143;20220812;Secured by first liens;RIBI;1c2a
+20220630;682563;RIADC235;217;20220812;Secured by junior liens;RIBI;1c2b
+20220630;682563;RIADC386;0;20220812;Underwriting income from insurance and reinsurance activities;RI;5d4
+20220630;682563;RIADC387;28464;20220812;Income from other insurance activities;RI;5d5
+20220630;682563;RIADC435;0;20220812;Allocated transfer risk reserve included in Schedule RI-8, Part II, item 7, column A, above;RIBII;M1
+20220630;682563;RIADC886;6787;20220812;Fees and commissions from securities brokerage;RI;5d1
+20220630;682563;RIADC887;1013;20220812;Fees and commissions from annuity sales;RI;5d3
+20220630;682563;RIADC888;20613;20220812;Investment banking, advisory, and underwriting fees and commissions;RI;5d2
+20220630;682563;RIADC889;0;20220812;Net gains (losses) on credit derivatives held for trading;RI;M9a
+20220630;682563;RIADC890;0;20220812;Net gains (losses) on credit derivatives held for purposes other than trading;RI;M9b
+20220630;682563;RIADC891;0;20220812;1-4 family residential construction loans;RIBI;1a1
+20220630;682563;RIADC892;2;20220812;1-4 family residential construction loans;RIBI;1a1
+20220630;682563;RIADC893;350;20220812;Other construction loans and all land development and other land loans;RIBI;1a2
+20220630;682563;RIADC894;273;20220812;Other construction loans and all land development and other land loans;RIBI;1a2
+20220630;682563;RIADC895;0;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RIBI;1e1
+20220630;682563;RIADC896;0;20220812;Loans secured by owner-occupied nonfarm nonresidential properties;RIBI;1e1
+20220630;682563;RIADC897;352;20220812;Loans secured by other nonfarm nonresidential properties;RIBI;1e2
+20220630;682563;RIADC898;421;20220812;Loans secured by other nonfarm nonresidential properties;RIBI;1e2
+20220630;682563;RIADF185;0;20220812;Leases to individuals for household, family, and other personal expenditures (included in Schedule RI-B, part I, item 8, above);RIBI;M2d
+20220630;682563;RIADF187;0;20220812;Leases to individuals for household, family, and other personal expenditures (included in Schedule RI-B, part I, item 8, above);RIBI;M2d
+20220630;682563;RIADF555;8487;20220812;Bank card and credit card interchange fees;RIE;1f
+20220630;682563;RIADF556;0;20220812;Accounting and auditing expenses;RIE;2h
+20220630;682563;RIADF557;15102;20220812;Consulting and advisory expenses;RIE;2i
+20220630;682563;RIADF558;0;20220812;Automated teller machine (ATM) and interchange expenses;RIE;2j
+20220630;682563;RIADF559;0;20220812;Telecommunications expenses;RIE;2k
+20220630;682563;RIADFT28;0;20220812;Discontinued operations, net of applicable income taxes (Describe on Schedule RI-E - Explanations);RI;11
+20220630;682563;RIADFT29;0;20220812;Amount of component;RIE;3a2
+20220630;682563;RIADFT30;0;20220812;Applicable income tax effect;RIE;3a3
+20220630;682563;RIADFT31;0;20220812;Amount of component;RIE;3b2
+20220630;682563;RIADFT32;0;20220812;Applicable income tax effect;RIE;3b3
+20220630;682563;RIADG103;0;20220812;LESS: Net income (loss) attributable to noncontrolling (minority) interests (if net income, report as a positive value: if net loss, report as a negative value);RI;13
+20220630;682563;RIADG104;223852;20220812;Net income (loss) attributable to bank and noncontrolling (minority) interests (sum of items 10 and 11);RI;12
+20220630;682563;RIADH032;15953;20220812;Consumer overdraft-related service charges levied on those transaction account and nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use;RI;M15a
+20220630;682563;RIADH033;2219;20220812;Consumer account periodic maintenance charges levied on those transaction account and nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use;RI;M15b
+20220630;682563;RIADH034;1178;20220812;Consumer customer automated teller machine (ATM) fees levied on those transaction account and nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use;RI;M15c
+20220630;682563;RIADH035;23388;20220812;All other service charges on deposit accounts;RI;M15d
+20220630;682563;RIADHK03;1692;20220812;Time deposits of $250,000 or less;RI;2a2b
+20220630;682563;RIADHK04;1432;20220812;Time deposits of more than $250,000;RI;2a2c
+20220630;682563;RIADHT69;259699;20220812;Income (loss) before change in net unrealized holding gains (losses) on equity securities not held for trading, applicable income taxes, and discontinued operations (item 3 plus or minus items 4, 5.m, 6.a, 6.b, and 7.e);RI;8a
+20220630;682563;RIADHT70;0;20220812;Change in net unrealized holding gains (losses) on equity securities not held for trading;RI;8b
+20220630;682563;RIADHT85;0;20220812;Noninterest income for the quarter from the sale, securitization, and servicing of 1-4 family residential mortgage loans (included in Schedule RI, items 5.c, 5.f, 5.g, and 5.i);RCP;5
+20220630;682563;RIADJ315;17018;20220812;Investment management and investment advisory agency accounts;RCT;17
+20220630;682563;RIADJ316;5990;20220812;Foundation and endowment trust and agency accounts;RCT;18
+20220630;682563;RIADJH88;158;20220812;Balance most recently reported for the December 31, 2021, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income);RIBII;1
+20220630;682563;RIADJH89;0;20220812;Recoveries (column A must equal Part I, item 9, column B, above);RIBII;2
+20220630;682563;RIADJH90;0;20220812;Provisions for credit losses;RIBII;5
+20220630;682563;RIADJH91;0;20220812;Adjustments (see instructions for this schedule);RIBII;6
+20220630;682563;RIADJH92;0;20220812;LESS:  Charge-offs (column A must equal Part I, item 9, column A, above less Schedule RI-B, Part II, item 4, column A);RIBII;3
+20220630;682563;RIADJH93;158;20220812;Balance end of current period (sum of items 1, 2, 5, and 6, less items 3 and 4) (column A must equal Schedule RC, item 4.c);RIBII;7
+20220630;682563;RIADJH94;0;20220812;Balance most recently reported for the December 31, 2021, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income);RIBII;1
+20220630;682563;RIADJH95;0;20220812;Recoveries (column A must equal Part I, item 9, column B, above);RIBII;2
+20220630;682563;RIADJH96;0;20220812;Provisions for credit losses;RIBII;5
+20220630;682563;RIADJH97;0;20220812;Adjustments (see instructions for this schedule);RIBII;6
+20220630;682563;RIADJH98;0;20220812;LESS:  Charge-offs (column A must equal Part I, item 9, column A, above less Schedule RI-B, Part II, item 4, column A);RIBII;3
+20220630;682563;RIADJH99;0;20220812;Balance end of current period (sum of items 1, 2, 5, and 6, less items 3 and 4) (column A must equal Schedule RC, item 4.c);RIBII;7
+20220630;682563;RIADJJ00;0;20220812;LESS:  Write-downs arising from transfers of financial assets;RIBII;4
+20220630;682563;RIADJJ01;0;20220812;LESS:  Write-downs arising from transfers of financial assets;RIBII;4
+20220630;682563;RIADJJ02;0;20220812;Provisions for credit losses on other financial assets measured at amortized cost (not included in item 5, above);RIBII;M5
+20220630;682563;RIADJJ33;0;20220812;Provision for loan and lease losses;RI;4
+20220630;682563;RIADK129;1;20220812;Automobile loans;RIBI;5b
+20220630;682563;RIADK133;55;20220812;Automobile loans;RIBI;5b
+20220630;682563;RIADK205;982;20220812;Other (includes revolving credit plans other than credit cards and other consumer loans);RIBI;5c
+20220630;682563;RIADK206;499;20220812;Other (includes revolving credit plans other than credit cards and other consumer loans);RIBI;5c
+20220630;682563;RIADMG93;-68;20220812;Provisions for credit losses on off-balance-sheet credit exposures;RIBII;M7
+20220630;682563;RIADMG94;7423;20220812;Estimated amount of expected recoveries of amounts previously written off included within the allowance for credit losses on loans and leases held for investment (included in item 7, column A, "Balance end of current period," above);RIBII;M8
+20220630;682563;RIADT047;7958;20220812;Income and fees from wire transfers;RIE;1g
+20220630;682563;RIADY923;0;20220812;Other real estate owned expenses;RIE;2l
+20220630;682563;RIADY924;0;20220812;Insurance expenses (not included in employee expenses, premises and fixed asset expenses, and other real estate owned expenses);RIE;2m
+20220630;682563;RSSD9017;Frost Bank 041;20220812;Legal title of bank;ENT;3
+20220630;682563;RSSD9050;5510;20220812;FDIC certificate number;ENT;2
+20220630;682563;RSSD9130;San Antonio;20220812;City;ENT;4
+20220630;682563;RSSD9200;Tx;20220812;State abbreviation;ENT;5
+20220630;682563;RSSD9220;78296;20220812;Zip code;ENT;6
+20220630;682563;TE01N528;http://frostmobile.com;20220812;URL 1;RCM;8b1
+20220630;682563;TEXT4086;;20220812;E-mail Address;CI;1b3
+20220630;682563;TEXT4087;http://www.frostbank.com;20220812;Uniform Resource Locator (URL) of the reporting institution's primary Internet Web site (home page), if any (Example: www.examplebank.com):;RCM;8a
+20220630;682563;TEXT4464;Software Maintenance;20220812;Describe component;RIE;2n1
+20220630;682563;TEXT4467;Cloud Services;20220812;Describe component;RIE;2o1
+20220630;682563;TEXT8902;;20220812;Telephone;CI;1b4
+20220630;682563;TEXT9116;;20220812;FAX;CI;1b5
+20220630;682563;TEXTB926;;20220812;E-mail Address;CI;2b
+20220630;682563;TEXTB962;;20220812;Name and Title;CI;2a
+20220630;682563;TEXTB963;;20220812;Telephone;CI;2c
+20220630;682563;TEXTB964;;20220812;FAX;CI;2d
+20220630;682563;TEXTC366;;20220812;Name;CI;3a1
+20220630;682563;TEXTC367;;20220812;Title;CI;3a2
+20220630;682563;TEXTC368;;20220812;E-mail Address;CI;3a3
+20220630;682563;TEXTC369;;20220812;Telephone;CI;3a4
+20220630;682563;TEXTC370;;20220812;FAX;CI;3a5
+20220630;682563;TEXTC371;;20220812;Name;CI;3b1
+20220630;682563;TEXTC372;;20220812;Title;CI;3b2
+20220630;682563;TEXTC373;;20220812;E-mail Address;CI;3b3
+20220630;682563;TEXTC374;;20220812;Telephone;CI;3b4
+20220630;682563;TEXTC375;;20220812;FAX;CI;3b5
+20220630;682563;TEXTC437;;20220812;Name;CI;4a1
+20220630;682563;TEXTC438;;20220812;Title;CI;4a2
+20220630;682563;TEXTC439;;20220812;E-mail Address;CI;4a3
+20220630;682563;TEXTC440;;20220812;Telephone;CI;4a4
+20220630;682563;TEXTC442;;20220812;Name;CI;4b1
+20220630;682563;TEXTC443;;20220812;Title;CI;4b2
+20220630;682563;TEXTC444;;20220812;E-mail Address;CI;4b3
+20220630;682563;TEXTC445;;20220812;Telephone;CI;4b4
+20220630;682563;TEXTC490;;20220812;Name;CI;1a1
+20220630;682563;TEXTC491;;20220812;Title;CI;1a2
+20220630;682563;TEXTC492;;20220812;E-mail Address;CI;1a3
+20220630;682563;TEXTC493;;20220812;Telephone;CI;1a4
+20220630;682563;TEXTC494;;20220812;FAX;CI;1a5
+20220630;682563;TEXTC495;;20220812;Name;CI;1b1
+20220630;682563;TEXTC496;;20220812;Title;CI;1b2
+20220630;682563;TEXTC870;;20220812;Name;CI;4c1
+20220630;682563;TEXTC871;;20220812;Title;CI;4c2
+20220630;682563;TEXTC872;;20220812;E-mail Address;CI;4c3
+20220630;682563;TEXTC873;;20220812;Telephone;CI;4c4
+20220630;682563;TEXTFT42;;20220812;Name;CI;5a1
+20220630;682563;TEXTFT43;;20220812;Telephone;CI;5a3
+20220630;682563;TEXTFT44;;20220812;E-mail Address;CI;5a2
+20220630;682563;TEXTFT45;;20220812;FAX;CI;5a4
