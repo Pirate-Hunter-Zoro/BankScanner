@@ -18,6 +18,9 @@
 
 package org.bankscanner.Readers;
 
+import javafx.scene.image.Image;
+
+import java.io.File;
 import java.util.ArrayList;
 import java.util.regex.Pattern;
 
@@ -63,6 +66,9 @@ public class ParentScanner {
     private ParentScanner() {
         if (fields == null) {
             fields = new ArrayList<>();
+            File resources = new File("src/main/resources");
+            // source: https://stackoverflow.com/questions/4917326/how-to-iterate-over-the-files-of-a-certain-directory-in-java
+            File[] parents = resources.listFiles();
         }
     }
 
