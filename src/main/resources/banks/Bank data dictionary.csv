@@ -1,0 +1,1920 @@
+MDRM #,Short Definition
+RCOA3792,Total capital (sum of items 26 and 46)
+RCOA5310,Allowance for loan and lease losses includable in tier 2 capital
+RCOA5311,"Tier 2 capital (greater of item 44 minus item 45, or zero)"
+RCOA7204,Leverage ratio (item 26 divided by 30)
+RCOA7205,Total capital ratio (item 47 divided by item 48)
+RCOA7206,Tier 1 capital ratio (item 26 divided by item 48)
+RCOA8274,Tier 1 capital (sum of items 19 and 25)
+RCOAA223,"Total risk-weighted assets (from Schedule RC-R, Part II, item 31)"
+RCOAA224,Total assets for the leverage ratio (item 27 minus items 28 and 29)
+RCOAB530,Accumulated other comprehensive income (AOCI)
+RCOAB596,LESS: Other deductions from (additions to) assets for leverage ratio purposes
+RCOAH311,Capital conservation buffer
+RCOAJJ29,"Does your institution have a CECL transition election in effect as of the quarter-end report date?  (enter ""0"" for No: enter ""1"" for Yes with a 3-year CECL transition election: enter ""2"" for Yes with a 5-year 2020 CECL transition election.)"
+RCOAKW00,Retained earnings
+RCOAKW03,Average total consolidated assets
+RCOALB58,"LESS: Investments in the capital of unconsolidated financial institutions, net of associated DTLs, that exceed 25 percent of item 12"
+RCOALB59,"LESS: MSAs, net of associated DTLs, that exceed 25 percent of item 12"
+RCOALB60,"LESS: DTAs arising from temporary differences that could not be realized through net operating loss carrybacks, net of related valuation allowances and net of DTLs, that exceed 25 percent of item 12"
+RCOALE74,"Does your institution have a community bank leverage ratio (CBLR) framework election in effect as of the quarter-end report date? (enter ""1"" for Yes: enter ""0"" for No)"
+RCOAP742,"Common stock plus related surplus, net of treasury stock and unearned employee stock ownership plan (ESOP) shares"
+RCOAP793,Common equity tier 1 capital ratio (item 19 divided by item 48)
+RCOAP838,"AOCI opt-out election (enter ""1"" for Yes: enter ""0"" for No.)"
+RCOAP839,Common equity tier 1 minority interest includable in common equity tier 1 capital
+RCOAP840,Common equity tier 1 capital before adjustments and deductions (sum of items 1 through 4)
+RCOAP841,LESS: Goodwill net of associated deferred tax liabilities (DTLs)
+RCOAP842,"LESS: Intangible assets (other than goodwill and mortgage servicing assets (MSAs)), net of associated DTLs"
+RCOAP843,"LESS: Deferred tax assets (DTAs) that arise from net operating loss and tax credit carryforwards, net of any related valuation allowances and net of DTLs"
+RCOAP844,"LESS:  Net unrealized gains (losses) on available-for-sale debt securities (if a gain, report as a positive value: if a loss, report as a negative value)"
+RCOAP846,"LESS: Accumulated net gains (losses) on cash flow hedges (if a gain, report as a positive value: if a loss, report as a negative value)"
+RCOAP847,"LESS: Amounts recorded in AOCI attributed to defined benefit postretirement plans resulting from the initial and subsequent application of the relevant GAAP standards that pertain to such plans (if a gain, report as a positive value: if a loss, report as a negative value)"
+RCOAP848,"LESS: Net unrealized gains (losses) on held-to-maturity securities that are included in AOCI (if a gain, report as a positive value: if a loss, report as a negative value)"
+RCOAP850,LESS: All other deductions from (additions to) common equity tier 1 capital before threshold-based deductions
+RCOAP852,Subtotal (item 5 minus items 6 through 10.b)
+RCOAP857,LESS: Deductions applied to common equity tier 1 capital due to insufficient amounts of additional tier 1 capital and tier 2 capital to cover deductions
+RCOAP858,Total adjustments and deductions for common equity tier 1 capital (sum of items 13 through 17)
+RCOAP859,Common equity tier 1 capital (item 12 minus item 18)
+RCOAP860,Additional tier 1 capital instruments plus related surplus
+RCOAP861,Non-qualifying capital instruments subject to phase out from additional tier 1 capital 
+RCOAP862,Tier 1 minority interest not included in common equity tier 1 capital
+RCOAP863,"Additional tier 1 capital before deductions (sum of items 20, 21, and 22)"
+RCOAP864,LESS: Additional tier 1 capital deductions
+RCOAP865,"Additional tier 1 capital (greater of item 23 minus item 24, or zero)"
+RCOAP866,Tier 2 capital instruments plus related surplus
+RCOAP867,Non-qualifying capital instruments subject to phase-out from tier 2 capital
+RCOAP868,Total capital minority interest that is not included in tier 1 capital
+RCOAP870,Tier 2 capital before deductions (sum of items 39 through 42)
+RCOAP872,LESS: Tier 2 capital deductions
+RCOAP875,"LESS: Deductions from common equity tier 1 capital and additional tier 1 capital (sum of items 6, 7, 8, 10.b, 13 through 15, 17, and certain elements of item 24 - see instructions)"
+RCOAQ258,"LESS: Unrealized net gain (loss) related to changes in the fair value of liabilities that are due to changes in own credit risk (if a gain, report as a positive value: if a loss, report as a negative value)"
+RCON0010,Total
+RCON0020,Cash items in process of collection and unposted debits
+RCON0070,Balances due from banks in foreign countries and foreign central banks
+RCON0071,Interest-bearing balances
+RCON0080,Currency and coin
+RCON0081,Noninterest-bearing balances and currency and coin
+RCON0082,Balances due from depository institutions in the U.S
+RCON0090,Balances due from Federal Reserve Banks
+RCON0211,U.S. Treasury securities
+RCON0213,U.S. Treasury securities
+RCON0352,Other savings deposits (excludes MMDAs)
+RCON0416,Pledged securities
+RCON1226,Lease financing receivables
+RCON1227,Lease financing receivables
+RCON1228,Lease financing receivables
+RCON1248,"Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-N, item 1, above)"
+RCON1249,"Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-N, item 1, above)"
+RCON1250,"Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-N, item 1, above)"
+RCON1254,"Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RC-N, item 4, above)"
+RCON1255,"Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RC-N, item 4, above)"
+RCON1256,"Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RC-N, item 4, above)"
+RCON1286,U.S. Treasury securities
+RCON1287,U.S. Treasury securities
+RCON1288,Loans to depository institutions and acceptances of other banks
+RCON1403,Total loans and leases (sum of items 1 through 8)
+RCON1406,Total loans and leases (sum of items 1 through 8)
+RCON1407,Total loans and leases (sum of items 1 through 8)
+RCON1420,Secured by farmland (including farm residential and other improvements)
+RCON1460,Secured by multifamily (5 or more) residential properties
+RCON1545,Loans for purchasing or carrying securities (secured and unsecured)
+RCON1578,Repossessed personal property (including vehicles)
+RCON1583,"Loans to finance agricultural production and other loans to farmers (included in Schedule RC-N, item 7, above)"
+RCON1590,Loans to finance agricultural production and other loans to farmers
+RCON1594,"Loans to finance agricultural production and other loans to farmers (included in Schedule RC-N, item 7, above)"
+RCON1597,"Loans to finance agricultural production and other loans to farmers (included in Schedule RC-N, item 7, above)"
+RCON1606,Commercial and industrial loans
+RCON1607,Commercial and industrial loans
+RCON1608,Commercial and industrial loans
+RCON1737,Other domestic debt securities
+RCON1738,Other domestic debt securities
+RCON1739,Other domestic debt securities
+RCON1741,Other domestic debt securities
+RCON1742,Other foreign debt securities
+RCON1743,Other foreign debt securities
+RCON1744,Other foreign debt securities
+RCON1746,Other foreign debt securities
+RCON1752,Equity investments without readily determinable fair values
+RCON1754,Total (sum of items 1 through 7)
+RCON1763,To U.S. addressees (domicile)
+RCON1764,To non-U.S. addressees (domicile)
+RCON1766,Commercial and industrial loans
+RCON1771,Total (sum of items 1 through 7)
+RCON1772,Total (sum of items 1 through 7)
+RCON1773,Total (sum of items 1 through 7)
+RCON1797,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCON2107,Obligations (other than securities and leases) of states and political subdivisions in the U.S.
+RCON2122,"Total loans and leases held for investment and held for sale (sum of items 1 through 10 minus item 11) (must equal Schedule RC, sum of items 4.a and 4.b)"
+RCON2123,LESS: Any unearned income on loans reflected in items 1-9 above
+RCON2130,Investments in unconsolidated subsidiaries and associated companies
+RCON2143,"Total (sum of items 2.a, 2.b, and 2.c) (must equal Schedule RC, item 10)"
+RCON2145,Premises and fixed assets (including capitalized leases)
+RCON2148,Net deferred tax assets
+RCON2150,"Total (sum of items 3.a through 3.e) (must equal Schedule RC, item 7)"
+RCON2160,"Total (sum of items 1 through 6) (must equal Schedule RC, item 11)"
+RCON2165,Lease financing receivables (net of unearned income)
+RCON2166,Prepaid expenses
+RCON2168,"All other assets (itemize and describe amounts greater than $100,000 that exceed 25% of this item)"
+RCON2170,Total balance sheet assets
+RCON2200,In domestic offices (sum of totals of columns A and C from Schedule RC-E)
+RCON2202,U.S. Government
+RCON2203,States and political subdivisions in the U.S.
+RCON2210,"Total (sum of items 1 through 6) (sum of columns A and C must equal Schedule RC, item 13.a)"
+RCON2213,Banks in foreign countries
+RCON2215,"Total (sum of items 1 through 6) (sum of columns A and C must equal Schedule RC, item 13.a)"
+RCON2216,Foreign governments and official institutions (including foreign central banks)
+RCON2236,Banks in foreign countries
+RCON2365,Total brokered deposits
+RCON2377,Foreign governments and official institutions (including foreign central banks)
+RCON2385,"Total (sum of items 1 through 6) (sum of columns A and C must equal Schedule RC, item 13.a)"
+RCON2520,U.S. Government
+RCON2530,States and political subdivisions in the U.S.
+RCON2651,Advances with a remaining maturity of one year or less (included in item 5.a.(1)(a) above)
+RCON2746,"Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-C, part I, items 4 and 9, column B"
+RCON2930,Total
+RCON2932,Dividends declared but not yet payable
+RCON2938,"All other liabilities (itemize and describe amounts greater than $100,000 that exceed 25 percent of this item)"
+RCON2948,Total liabilities (sum of items 13 through 20)
+RCON3000,Noncontrolling (minority) interests in consolidated subsidiaries
+RCON3049,Net deferred tax liabilities
+RCON3066,Accounts payable
+RCON3123,LESS: Allowance for loan and lease losses
+RCON3128,LESS: Allocated transfer risk reserve
+RCON3163,Goodwill
+RCON3164,Mortgage servicing assets
+RCON3190,"Total (sum of items 5.a.(1)(a)-(d) and items 5.b.(1)(a)-(d)) (must equal Schedule RC, item 16)"
+RCON3200,Subordinated notes and debentures
+RCON3210,Total bank equity capital (sum of items 23 through 26.c)
+RCON3230,Common stock
+RCON3300,Total liabilities and equity capital (sum of items 21 and 28)
+RCON3353,Federal funds purchased and securities sold under agreements to repurchase
+RCON3355,Other borrowed money (includes mortgage indebtedness and obligations under capitalized leases)
+RCON3360,Total loans
+RCON3365,Federal funds sold and securities purchased under agreements to resell
+RCON3368,Total assets
+RCON3381,Interest-bearing balances due from depository institutions
+RCON3386,Loans to finance agricultural production and other loans to farmers 
+RCON3387,Commercial and industrial loans
+RCON3401,Trading assets
+RCON3411,Commercial and similar letters of credit
+RCON3430,"All other off-balance sheet liabilities (exclude derivatives) (itemize and describe each component of this item over 25% of Schedule RC, item 27.a, ""Total bank equity capital"")"
+RCON3432,Securities borrowed
+RCON3433,Securities lent (including customers' securities lent where the customer is indemnified against loss by the reporting bank)
+RCON3434,Commitments to purchase when-issued securities
+RCON3435,Commitments to sell when-issued securities
+RCON3450,Swaps
+RCON3465,Loans secured by 1-4 family residential properties
+RCON3466,All other loans secured by real estate
+RCON3484,Lease financing receivables (net of unearned income)
+RCON3485,"Interest-bearing transaction accounts (interest-bearing demand deposits, NOW accounts, ATS accounts, and telephone and preauthorized transfer accounts)"
+RCON3493,Secured by farmland
+RCON3494,Secured by farmland
+RCON3495,Secured by farmland
+RCON3499,Secured by multifamily (5 or more) residential properties
+RCON3500,Secured by multifamily (5 or more) residential properties
+RCON3501,Secured by multifamily (5 or more) residential properties
+RCON3505,Debt securities and other assets (exclude other real estate owned and other repossessed assets)
+RCON3506,Debt securities and other assets (exclude other real estate owned and other repossessed assets)
+RCON3507,Debt securities and other assets (exclude other real estate owned and other repossessed assets)
+RCON3531,U.S. Treasury securities
+RCON3532,U.S. Government agency obligations (exclude mortgage-backed securities)
+RCON3533,Securities issued by states and political subdivisions in the U.S.
+RCON3541,Other trading assets
+RCON3543,Derivative assets
+RCON3545,"Total trading assets (sum of items 1 through 11) (must equal Schedule RC, item 5)"
+RCON3546,Liability for short positions 
+RCON3547,Derivative liabilities
+RCON3548,"Total trading liabilities (sum of items 13.a through 14) (must equal Schedule RC, item 15)"
+RCON3549,Amount of component
+RCON3550,Amount of component
+RCON3551,Amount of component
+RCON3552,Amount of component
+RCON3553,Amount of component
+RCON3554,Amount of component
+RCON3555,Amount of component
+RCON3556,Amount of component
+RCON3557,Amount of component
+RCON3632,Retained earnings
+RCON3645,Interest accrued and unpaid on deposits
+RCON3646,Other expenses accrued and unpaid (includes accrued income taxes payable)
+RCON3656,Direct and indirect investments in real estate ventures
+RCON3814,"Revolving, open-end lines secured by 1-4 family residential properties, i.e., home equity lines"
+RCON3815,Credit card lines (Sum of items 1.b.(1) and 1.b.(2) must equal item 1.b)
+RCON3817,Securities underwriting
+RCON3819,Financial standby letters of credit
+RCON3820,Amount of financial standby letters of credit conveyed to others
+RCON3821,Performance standby letters of credit
+RCON3822,Amount of performance standby letters of credit conveyed to others
+RCON3826,Swaps
+RCON3838,Perpetual preferred stock and related surplus
+RCON3839,Surplus (exclude all surplus related to preferred stock)
+RCON4088,"Do any of the bank's Internet Web sites have transactional capability, i.e., allow the bank's customers to execute transactions on their accounts through the Web site?"
+RCON5367,Secured by first liens
+RCON5368,Secured by junior liens
+RCON5369,Loans and leases held for sale
+RCON5370,"Adjustable rate closed-end loans secured by first liens on 1-4 family residential properties (included in Schedule RC-C, part I, item 1.c.(2)(a), column B)"
+RCON5380,"Loans to and acceptances of foreign banks (included in Schedule RC-N, item 2, above)"
+RCON5381,"Loans to and acceptances of foreign banks (included in Schedule RC-N, item 2, above)"
+RCON5382,"Loans to and acceptances of foreign banks (included in Schedule RC-N, item 2, above)"
+RCON5398,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCON5399,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCON5400,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCON5459,All other loans
+RCON5460,All other loans
+RCON5461,All other loans
+RCON5508,"Construction, land development, and other land"
+RCON5509,Farmland
+RCON5510,1-4 family residential properties
+RCON5511,Multifamily (5 or more) residential properties
+RCON5512,Nonfarm nonresidential properties
+RCON5564,"With original amounts of $100,000 or less"
+RCON5565,"With original amounts of $100,000 or less"
+RCON5566,"With original amounts of more than $100,000 through $250,000"
+RCON5567,"With original amounts of more than $100,000 through $250,000"
+RCON5568,"With original amounts of more than $250,000 through $1,000,000"
+RCON5569,"With original amounts of more than $250,000 through $1,000,000"
+RCON5570,"With original amounts of $100,000 or less"
+RCON5571,"With original amounts of $100,000 or less"
+RCON5572,"With original amounts of more than $100,000 through $250,000"
+RCON5573,"With original amounts of more than $100,000 through $250,000"
+RCON5574,"With original amounts of more than $250,000 through $1,000,000"
+RCON5575,"With original amounts of more than $250,000 through $1,000,000"
+RCON5578,"With original amounts of $100,000 or less"
+RCON5579,"With original amounts of $100,000 or less"
+RCON5580,"With original amounts of more than $100,000 through $250,000"
+RCON5581,"With original amounts of more than $100,000 through $250,000"
+RCON5582,"With original amounts of more than $250,000 through $500,000"
+RCON5583,"With original amounts of more than $250,000 through $500,000"
+RCON5584,"With original amounts of $100,000 or less"
+RCON5585,"With original amounts of $100,000 or less"
+RCON5586,"With original amounts of more than $100,000 through $250,000"
+RCON5587,"With original amounts of more than $100,000 through $250,000"
+RCON5588,"With original amounts of more than $250,000 through $500,000"
+RCON5589,"With original amounts of more than $250,000 through $500,000"
+RCON5591,"All other off-balance sheet assets (exclude derivatives) (itemize and describe each component of this item over 25% of Schedule RC, item 27.a, ""Total bank equity capital"")"
+RCON5592,Amount of component
+RCON5593,Amount of component
+RCON5594,Amount of component
+RCON5595,Amount of component
+RCON5597,"Estimated amount of uninsured deposits, including related interest accrued and unpaid (see instructions)"
+RCON6164,"Aggregate amount of all extensions of credit to all executive officers, directors, principal shareholders, and their related interests"
+RCON6165,"Number of executive officers, directors, and principal shareholders to whom the amount of all extensions of credit by the reporting bank (including extensions of credit to related interests) equals or exceeds the lesser of $500,000 or 5 percent of total capital as defined for this purpose in agency regulations"
+RCON6550,Not secured by real estate
+RCON6558,"Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-N, items 4 and 7, above"
+RCON6559,"Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-N, items 4 and 7, above"
+RCON6560,"Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RC-N, items 4 and 7, above"
+RCON6631,Noninterest-bearing
+RCON6636,Interest-bearing
+RCON6648,"Total time deposits of less than $100,000"
+RCON6810,Money market deposit accounts (MMDAs)
+RCON6835,Total Individual Retirement Accounts (IRAs) and Keogh Plan accounts
+RCON6860,"Indicate in the appropriate box at the right whether all or substantially all of the dollar volume of your bank's ""Loans secured by farmland (including farm residential and other improvements)"" reported in Schedule RC-C, part I, item 1.b, and all or substantially all of the dollar volume of your bank's ""Loans to finance agricultural production and other loans to farmers"" reported in Schedule RC-C, part I, item 3, have original amounts of $100,000 or less"
+RCON6979,Comments?
+RCON6999,"Indicate in the appropriate box at the right whether all or substantially all of the dollar volume of your bank's ""Loans secured by nonfarm nonresidential properties"" reported in Schedule RC-C, part I, items 1.e.(1) and 1.e.(2), and all or substantially all of the dollar volume of your bank's ""Commercial and industrial loans"" reported in Schedule RC-C, part I, item 4, have original amounts of $100,000 or less"
+RCON8496,Securities issued by states and political subdivisions in the U.S.
+RCON8497,Securities issued by states and political subdivisions in the U.S.
+RCON8498,Securities issued by states and political subdivisions in the U.S.
+RCON8499,Securities issued by states and political subdivisions in the U.S.
+RCON8693,Futures contracts
+RCON8694,Futures contracts
+RCON8695,Futures contracts
+RCON8696,Futures contracts
+RCON8697,Forward contracts
+RCON8698,Forward contracts
+RCON8699,Forward contracts
+RCON8700,Forward contracts
+RCON8701,Written options
+RCON8702,Written options
+RCON8703,Written options
+RCON8704,Written options
+RCON8705,Purchased options
+RCON8706,Purchased options
+RCON8707,Purchased options
+RCON8708,Purchased options
+RCON8709,Written options
+RCON8710,Written options
+RCON8711,Written options
+RCON8712,Written options
+RCON8713,Purchased options
+RCON8714,Purchased options
+RCON8715,Purchased options
+RCON8716,Purchased options
+RCON8719,Swaps
+RCON8720,Swaps
+RCON8723,Total gross notional amount of derivative contracts held for trading
+RCON8724,Total gross notional amount of derivative contracts held for trading
+RCON8725,Total gross notional amount of derivative contracts held for purposes other than trading
+RCON8726,Total gross notional amount of derivative contracts held for purposes other than trading
+RCON8727,Total gross notional amount of derivative contracts held for purposes other than trading
+RCON8728,Total gross notional amount of derivative contracts held for purposes other than trading
+RCON8733,Gross positive fair value
+RCON8734,Gross positive fair value
+RCON8735,Gross positive fair value
+RCON8736,Gross positive fair value
+RCON8737,Gross negative fair value
+RCON8738,Gross negative fair value
+RCON8739,Gross negative fair value
+RCON8740,Gross negative fair value
+RCON8741,Gross positive fair value
+RCON8742,Gross positive fair value
+RCON8743,Gross positive fair value
+RCON8744,Gross positive fair value
+RCON8745,Gross negative fair value
+RCON8746,Gross negative fair value
+RCON8747,Gross negative fair value
+RCON8748,Gross negative fair value
+RCON8782,Amortized cost
+RCON8783,Fair value
+RCON9224,Legal Entity Identifier (LEI) (Report only if your institution already has an LEI.)
+RCON9999,Reporting date
+RCONA126,Total gross notional amount of derivative contracts held for trading
+RCONA127,Total gross notional amount of derivative contracts held for trading
+RCONA130,Other equity capital components
+RCONA222,LESS: Excess allowance for loan and lease losses
+RCONA247,"Loans and leases (reported in Schedule RC-C, part I, items 1 through 10, column B, above) with a REMAINING MATURITY of one year or less (excluding those in nonaccrual status)"
+RCONA248,Debt securities with a REMAINING MATURITY of one year or less (included in Memorandum items 2.a through 2.c above)
+RCONA345,"Does the institution have fiduciary powers?  (If ""NO,"" do not complete Schedule RC-T.)"
+RCONA346,Does the institution exercise the fiduciary powers it has been granted?
+RCONA545,FDIC Certificate Number
+RCONA549,Three months or less
+RCONA550,Over three months through 12 months
+RCONA551,Over one year through three years
+RCONA552,Over three years through five years
+RCONA553,Over five years through 15 years
+RCONA554,Over 15 years
+RCONA555,Three months or less
+RCONA556,Over three months through 12 months
+RCONA557,Over one year through three years
+RCONA558,Over three years through five years
+RCONA559,Over five years through 15 years
+RCONA560,Over 15 years
+RCONA561,Three years or less
+RCONA562,Over three years
+RCONA564,Three months or less
+RCONA565,Over three months through 12 months
+RCONA566,Over one year through three years
+RCONA567,Over three years through five years
+RCONA568,Over five years through 15 years
+RCONA569,Over 15 years
+RCONA570,Three months or less
+RCONA571,Over three months through 12 months
+RCONA572,Over one year through three years
+RCONA573,Over three years through five years
+RCONA574,Over five years through 15 years
+RCONA575,Over 15 years
+RCONA589,Interest rate swaps where the bank has agreed to pay a fixed rate
+RCONA590,Estimated fair value of mortgage servicing assets
+RCONA591,Other financial assets (includes home equity lines)
+RCONB528,Loans and leases held for investment
+RCONB529,"Loans and leases held for investment, net of allowance (item 4.b minus 4.c)"
+RCONB530,Accumulated other comprehensive income
+RCONB531,To commercial banks in the U.S.
+RCONB534,To other depository institutions in the U.S.
+RCONB535,To banks in foreign countries
+RCONB538,Credit cards
+RCONB539,Other revolving credit plans
+RCONB549,"Individuals, partnerships, and corporations (include all certified and official checks)"
+RCONB550,"Individuals, partnerships, and corporations (include all certified and official checks)"
+RCONB551,Commercial banks and other depository institutions in the U.S.
+RCONB552,Commercial banks and other depository institutions in the U.S.
+RCONB556,Accrued interest receivable
+RCONB557,Allowance for credit losses on off-balance sheet credit exposures
+RCONB558,U.S. Treasury securities and U.S. Government agency obligations (excluding mortgage-backed securities)
+RCONB559,Mortgage-backed securities
+RCONB560,All other debt securities and equity securities with readily determinable fair values not held for trading
+RCONB561,Credit cards
+RCONB562,"Other (includes revolving credit plans other than credit cards, automobile loans, and other consumer loans)"
+RCONB563,Savings deposits (includes MMDAs)
+RCONB569,Does the reporting bank sell private label or third party mutual funds and annuities?
+RCONB570,Assets under the reporting bank's management in proprietary mutual funds and annuities
+RCONB571,Other borrowings with a remaining maturity of one year or less (included in item 5.b.(1)(a) above)
+RCONB575,Credit cards
+RCONB576,Credit cards
+RCONB577,Credit cards
+RCONB704,Risk-weighted assets before deductions for excess allowance of loan and lease losses and allocated risk transfer risk reserve
+RCONB705,Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements
+RCONB711,Outstanding principal balance of assets sold and securitized by the reporting bank with servicing retained or with recourse or other seller-provided credit enhancements
+RCONB733,30-89 days past due
+RCONB739,30-89 days past due
+RCONB740,90 days or more past due
+RCONB746,90 days or more past due
+RCONB776,"Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements"
+RCONB782,"Maximum amount of credit exposure arising from credit enhancements provided by the reporting bank to other institutions' securitization structures in the form of standby letters of credit, purchased subordinated securities, and other enhancements"
+RCONB783,Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures
+RCONB789,Reporting bank's unused commitments to provide liquidity to other institutions' securitization structures
+RCONB790,Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank
+RCONB796,Assets sold with recourse or other seller-provided credit enhancements and not securitized by the reporting bank
+RCONB797,Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11
+RCONB803,Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to assets reported in item 11
+RCONB804,Closed-end 1-4 family residential mortgages serviced with recourse or other servicer-provided credit enhancements
+RCONB805,Closed-end 1-4 family residential mortgages serviced with no recourse or other servicer-provided credit enhancements
+RCONB806,"Conduits sponsored by the bank, a bank affiliate, or the bank's holding company"
+RCONB807,Conduits sponsored by other unrelated institutions
+RCONB808,"Conduits sponsored by the bank, a bank affiliate, or the bank's holding company"
+RCONB809,Conduits sponsored by other unrelated institutions
+RCONB834,Loans to depository institutions and acceptances of other banks
+RCONB835,Loans to depository institutions and acceptances of other banks
+RCONB836,Loans to depository institutions and acceptances of other banks
+RCONB837,"Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RC-C, Part I, items 1.a through 1.e, column B)"
+RCONB838,Credit card receivables
+RCONB839,Credit card receivables
+RCONB840,Credit card receivables
+RCONB841,Credit card receivables
+RCONB842,Home equity lines
+RCONB843,Home equity lines
+RCONB844,Home equity lines
+RCONB845,Home equity lines
+RCONB846,Automobile loans
+RCONB847,Automobile loans
+RCONB848,Automobile loans
+RCONB849,Automobile loans
+RCONB850,Other consumer loans
+RCONB851,Other consumer loans
+RCONB852,Other consumer loans
+RCONB853,Other consumer loans
+RCONB854,Commercial and industrial loans
+RCONB855,Commercial and industrial loans
+RCONB856,Commercial and industrial loans
+RCONB857,Commercial and industrial loans
+RCONB858,Other
+RCONB859,Other
+RCONB860,Other
+RCONB861,Other
+RCONB867,"Does the institution have any fiduciary or related activity (in the form of assets or accounts) to report in this schedule?  (If ""NO,"" do not complete the rest of Schedule RC-T.)"
+RCONB868,Personal trust and agency accounts
+RCONB869,Personal trust and agency accounts
+RCONB870,Personal trust and agency accounts
+RCONB871,Personal trust and agency accounts
+RCONB872,Employee benefit - defined contribution
+RCONB873,Employee benefit - defined contribution
+RCONB874,Employee benefit - defined contribution
+RCONB875,Employee benefit - defined contribution
+RCONB876,Employee benefit - defined benefit
+RCONB877,Employee benefit - defined benefit
+RCONB878,Employee benefit - defined benefit
+RCONB879,Employee benefit - defined benefit
+RCONB880,Other employee benefit and retirement-related accounts
+RCONB881,Other employee benefit and retirement-related accounts
+RCONB882,Other employee benefit and retirement-related accounts
+RCONB883,Other employee benefit and retirement-related accounts
+RCONB884,Corporate trust and agency accounts
+RCONB885,Corporate trust and agency accounts
+RCONB886,Investment management and investment advisory agency accounts
+RCONB888,Investment management and investment advisory agency accounts
+RCONB890,Other fiduciary accounts
+RCONB891,Other fiduciary accounts
+RCONB892,Other fiduciary accounts
+RCONB893,Other fiduciary accounts
+RCONB894,Total fiduciary accounts (sum of items 4 through 9)
+RCONB895,Total fiduciary accounts (sum of items 4 through 9)
+RCONB896,Total fiduciary accounts (sum of items 4 through 9)
+RCONB897,Total fiduciary accounts (sum of items 4 through 9)
+RCONB898,Custody and safekeeping accounts
+RCONB899,Custody and safekeeping accounts
+RCONB931,Domestic equity
+RCONB932,Domestic equity
+RCONB933,International/Global equity
+RCONB934,International/Global equity
+RCONB935,Stock/Bond blend
+RCONB936,Stock/Bond blend
+RCONB937,Taxable bond
+RCONB938,Taxable bond
+RCONB939,Municipal bond
+RCONB940,Municipal bond
+RCONB941,Short term investments/Money market
+RCONB942,Short term investments/Money market
+RCONB943,Specialty/Other
+RCONB944,Specialty/Other
+RCONB945,Total collective investment funds (sum of Memorandum items 3.a through 3.g)
+RCONB946,Total collective investment funds (sum of Memorandum items 3.a through 3.g)
+RCONB987,Federal funds sold
+RCONB989,Securities purchased under agreements to resell
+RCONB993,Federal funds purchased
+RCONB995,Securities sold under agreements to repurchase
+RCONC001,Corporate trust and agency accounts
+RCONC002,Corporate trust and agency accounts
+RCONC010,Derivatives with a positive fair value held for purposes other than trading
+RCONC011,Deferred compensation liabilities
+RCONC012,Derivatives with a negative fair value held for purposes other than trading
+RCONC026,Asset-backed securities (ABS)
+RCONC027,Asset-backed securities (ABS)
+RCONC219,Gross positive fair value
+RCONC220,Gross negative fair value
+RCONC221,Gross positive fair value
+RCONC222,Gross negative fair value
+RCONC226,"Loans and leases held for sale (included in Schedule RC-N, items 1 through 8, above)"
+RCONC229,Secured by first liens
+RCONC230,Secured by junior liens
+RCONC236,Secured by first liens
+RCONC237,Secured by first liens
+RCONC238,Secured by junior liens
+RCONC239,Secured by junior liens
+RCONC240,"Loans and leases held for sale (included in Schedule RC-N, items 1 through 8, above)"
+RCONC241,"Loans and leases held for sale (included in Schedule RC-N, items 1 through 8, above)"
+RCONC407,Outstanding credit card fees and finance charges
+RCONC968,Credit default swaps
+RCONC969,Credit default swaps
+RCONC970,Total return swaps
+RCONC971,Total return swaps
+RCONC972,Credit options
+RCONC973,Credit options
+RCONC974,Other credit derivatives
+RCONC975,Other credit derivatives
+RCONC978,"Standby letters of credit issued by another party (e.g., a Federal Home Loan Bank) on the bank's behalf"
+RCONC988,Asset-backed securities (ABS)
+RCONC989,Asset-backed securities (ABS)
+RCOND957,Cash and balances due from depository institutions
+RCOND958,Cash and balances due from depository institutions
+RCOND959,Cash and balances due from depository institutions
+RCOND960,Cash and balances due from depository institutions
+RCOND961,Held-to-maturity securities
+RCOND962,Held-to-maturity securities
+RCOND963,Held-to-maturity securities
+RCOND964,Held-to-maturity securities
+RCOND965,Held-to-maturity securities
+RCOND967,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCOND968,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCOND969,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCOND970,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCOND971,Federal funds sold
+RCOND972,Federal funds sold
+RCOND973,Federal funds sold
+RCOND974,Federal funds sold
+RCOND976,Trading assets
+RCOND977,Trading assets
+RCOND978,Trading assets
+RCOND979,Trading assets
+RCOND980,Trading assets
+RCOND981,All other assets
+RCOND982,All other assets
+RCOND983,All other assets
+RCOND984,All other assets
+RCOND985,All other assets
+RCOND987,Total balance sheet assets
+RCOND988,Total balance sheet assets
+RCOND989,Total balance sheet assets
+RCOND990,Total balance sheet assets
+RCOND991,Financial standby letters of credit
+RCOND992,Financial standby letters of credit
+RCOND993,Financial standby letters of credit
+RCOND994,Financial standby letters of credit
+RCOND995,Financial standby letters of credit
+RCOND996,Financial standby letters of credit
+RCOND997,Performance standby letters of credit and transaction-related contingent items
+RCOND998,Performance standby letters of credit and transaction-related contingent items
+RCOND999,Performance standby letters of credit and transaction-related contingent items
+RCONF045,"Amount of retirement deposit accounts of $250,000 or less"
+RCONF046,"Number of retirement deposit accounts of $250,000 or less"
+RCONF047,"Amount of retirement deposit accounts of more than $250,000"
+RCONF048,"Number of retirement deposit accounts of more than $250,000"
+RCONF049,"Amount of deposit accounts (excluding retirement accounts) of $250,000 or less"
+RCONF050,"Number of deposit accounts (excluding retirement accounts) of $250,000 or less"
+RCONF051,"Amount of deposit accounts (excluding retirement accounts) of more than $250,000"
+RCONF052,"Number of deposit accounts (excluding retirement accounts) of more than $250,000"
+RCONF055,One year or less
+RCONF056,Over one year through three years
+RCONF057,Over three years through five years
+RCONF058,Over five years
+RCONF059,Structured advances (included in items 5.a.(1)(a) - (d) above)
+RCONF060,One year or less
+RCONF061,Over one year through three years
+RCONF062,Over three years through five years
+RCONF063,Over five years
+RCONF064,"Amount of ""Federal funds purchased"" that are secured (included in Schedule RC, item 14.a)"
+RCONF065,"Amount of ""Other borrowings"" that are secured (included in Schedule RC-M, items 5.b.(1)(a) - (d))"
+RCONF158,1-4 family residential construction loans
+RCONF159,Other construction loans and all land development and other land loans
+RCONF160,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONF161,Loans secured by other nonfarm nonresidential properties
+RCONF162,"Leases to individuals for household, family, and other personal expenditures (i.e., consumer leases)"
+RCONF163,All other leases
+RCONF164,1-4 family residential construction loan commitments
+RCONF165,"Commercial real estate, other construction loan, and land development loan commitments"
+RCONF166,"Leases to individuals for household, family, and other personal expenditures (included in Schedule RC-N, item 8, above)"
+RCONF167,"Leases to individuals for household, family, and other personal expenditures (included in Schedule RC-N, item 8, above)"
+RCONF168,"Leases to individuals for household, family, and other personal expenditures (included in Schedule RC-N, item 8, above)"
+RCONF172,1-4 family residential construction loans
+RCONF173,Other construction loans and all land development and other land loans
+RCONF174,1-4 family residential construction loans
+RCONF175,Other construction loans and all land development and other land loans
+RCONF176,1-4 family residential construction loans
+RCONF177,Other construction loans and all land development and other land loans
+RCONF178,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONF179,Loans secured by other nonfarm nonresidential properties
+RCONF180,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONF181,Loans secured by other nonfarm nonresidential properties
+RCONF182,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONF183,Loans secured by other nonfarm nonresidential properties
+RCONF233,"Individual Retirement Accounts (IRAs) and Keogh Plan accounts of $100,000 or more included in Memorandum items 2.c and 2.d above"
+RCONF236,Total deposit liabilities before exclusions (gross) as defined in Section 3(l) of the Federal Deposit Insurance Act and FDIC regulations
+RCONF237,"Total allowable exclusions, including interest accrued and unpaid on allowable exclusions"
+RCONF240,"Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above)"
+RCONF241,"Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above)"
+RCONF242,"Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above)"
+RCONF252,Deposits
+RCONF253,Deposits
+RCONF254,Deposits
+RCONF261,Loan commitments (not accounted for as derivatives)
+RCONF262,Loan commitments (not accounted for as derivatives)
+RCONF263,Loan commitments (not accounted for as derivatives)
+RCONF576,Loans secured by 1-4 family residential properties
+RCONF577,"Loans secured by 1-4 family residential properties in process of foreclosure (included in Schedule RC-C, part I, items 1.c.(1), 1.c.(2)(a), and 1.c.(2)(b))"
+RCONF585,Commercial and industrial loans
+RCONF589,Other loans
+RCONF597,Commercial and industrial loans
+RCONF601,Other loans
+RCONF614,Commercial and industrial loans
+RCONF618,Other loans
+RCONF624,Other trading liabilities
+RCONF632,Commercial and industrial loans
+RCONF636,Other loans
+RCONF661,Loans secured by 1-4 family residential properties
+RCONF662,Loans secured by 1-4 family residential properties
+RCONF663,Loans secured by 1-4 family residential properties
+RCONF684,"Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above)"
+RCONF686,Deposits
+RCONF689,Loan commitments (not accounted for as derivatives)
+RCONF692,"Nontrading securities at fair value with changes in fair value reported in current earnings (included in Schedule RC-Q, item 5.b, above)"
+RCONF694,Deposits
+RCONF697,Loan commitments (not accounted for as derivatives)
+RCONF699,1-4 family residential mortgages serviced for others that are in process of foreclosure at quarter-end (includes closed-end and open-end loans)
+RCONFT04,1-4 family residential mortgage loans sold during the quarter
+RCONFT05,"1-4 family residential mortgage loans held for sale or trading at quarter-end (included in Schedule RC, items 4.a and 5)"
+RCONFT33,Computer software
+RCONFT34,Accounts receivable
+RCONFT35,Receivables from foreclosed government-guaranteed mortgage loans
+RCONG105,Total equity capital (sum of items 27.a and 27.b)
+RCONG300,Guaranteed by GNMA
+RCONG301,Guaranteed by GNMA
+RCONG302,Guaranteed by GNMA
+RCONG303,Guaranteed by GNMA
+RCONG304,Issued by FNMA and FHLMC
+RCONG305,Issued by FNMA and FHLMC
+RCONG306,Issued by FNMA and FHLMC
+RCONG307,Issued by FNMA and FHLMC
+RCONG308,Other pass-through securities
+RCONG309,Other pass-through securities
+RCONG310,Other pass-through securities
+RCONG311,Other pass-through securities
+RCONG312,Issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONG313,Issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONG314,Issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONG315,Issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONG316,Collateralized by MBS issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONG317,Collateralized by MBS issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONG318,Collateralized by MBS issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONG319,Collateralized by MBS issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONG320,All other residential MBS
+RCONG321,All other residential MBS
+RCONG322,All other residential MBS
+RCONG323,All other residential MBS
+RCONG348,Trust preferred securities issued by financial institutions
+RCONG349,Trust preferred securities issued by financial institutions
+RCONG350,Trust preferred securities issued by financial institutions
+RCONG351,Trust preferred securities issued by financial institutions
+RCONG352,Trust preferred securities issued by real estate investment trusts
+RCONG353,Trust preferred securities issued by real estate investment trusts
+RCONG354,Trust preferred securities issued by real estate investment trusts
+RCONG355,Trust preferred securities issued by real estate investment trusts
+RCONG356,Corporate and similar loans
+RCONG357,Corporate and similar loans
+RCONG358,Corporate and similar loans
+RCONG359,Corporate and similar loans
+RCONG360,1-4 family residential MBS issued or guaranteed by U.S. government-sponsored enterprises (GSEs)
+RCONG361,1-4 family residential MBS issued or guaranteed by U.S. government-sponsored enterprises (GSEs)
+RCONG362,1-4 family residential MBS issued or guaranteed by U.S. government-sponsored enterprises (GSEs)
+RCONG363,1-4 family residential MBS issued or guaranteed by U.S. government-sponsored enterprises (GSEs)
+RCONG364,1-4 family residential MBS not issued or guaranteed by GSEs
+RCONG365,1-4 family residential MBS not issued or guaranteed by GSEs
+RCONG366,1-4 family residential MBS not issued or guaranteed by GSEs
+RCONG367,1-4 family residential MBS not issued or guaranteed by GSEs
+RCONG368,Diversified (mixed) pools of structured financial products
+RCONG369,Diversified (mixed) pools of structured financial products
+RCONG370,Diversified (mixed) pools of structured financial products
+RCONG371,Diversified (mixed) pools of structured financial products
+RCONG372,Other collateral or reference assets
+RCONG373,Other collateral or reference assets
+RCONG374,Other collateral or reference assets
+RCONG375,Other collateral or reference assets
+RCONG378,Pledged loans and leases
+RCONG379,"Residential mortgage pass-through securities issued or guaranteed by FNMA, FHLMC, or GNMA"
+RCONG380,"Other residential MBS issued or guaranteed by U.S. Government agencies or sponsored agencies (include CMOs, REMICs, and stripped MBS)"
+RCONG381,All other residential MBS
+RCONG386,All other debt securities
+RCONG391,All other assets
+RCONG392,All other assets
+RCONG395,All other assets
+RCONG396,All other assets
+RCONG401,Sold protection
+RCONG402,Purchased protection
+RCONG403,Sold protection
+RCONG404,Purchased protection that is recognized as a guarantee for regulatory capital purposes
+RCONG405,Purchased protection that is not recognized as a guarantee for regulatory capital purposes
+RCONG406,Investment grade
+RCONG407,Investment grade
+RCONG408,Investment grade
+RCONG409,Subinvestment grade
+RCONG410,Subinvestment grade
+RCONG411,Subinvestment grade
+RCONG412,Investment grade
+RCONG413,Investment grade
+RCONG414,Investment grade
+RCONG415,Subinvestment grade
+RCONG416,Subinvestment grade
+RCONG417,Subinvestment grade
+RCONG418,Net current credit exposure
+RCONG422,Net current credit exposure
+RCONG423,Cash - U.S. dollar
+RCONG427,Cash - U.S. dollar
+RCONG428,Cash - Other currencies
+RCONG432,Cash - Other currencies
+RCONG433,U.S. Treasury securities
+RCONG437,U.S. Treasury securities
+RCONG453,All other collateral
+RCONG457,All other collateral
+RCONG458,Total fair value of collateral (sum of items 16.b.(1) through (7))
+RCONG462,Total fair value of collateral (sum of items 16.b.(1) through (7))
+RCONG463,"Does the bank act as trustee or custodian for Individual Retirement Accounts, Health Savings Accounts, and other similar accounts?"
+RCONG464,"Does the bank provide custody, safekeeping, or other services involving the acceptance of orders for the sale or purchase of securities?"
+RCONG465,One year or less
+RCONG466,Over one year through three years
+RCONG467,Over three years through five years
+RCONG468,Over five years
+RCONG469,One year or less
+RCONG470,Over one year through three years
+RCONG471,Over three years through five years
+RCONG472,Over five years
+RCONG474,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONG475,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONG476,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONG477,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONG483,Loans and leases held for sale
+RCONG484,Loans and leases held for sale
+RCONG485,Loans and leases held for sale
+RCONG486,Loans and leases held for sale
+RCONG487,Loans and leases held for sale
+RCONG488,Loans and leases held for investment
+RCONG489,Loans and leases held for investment
+RCONG490,Loans and leases held for investment
+RCONG491,Loans and leases held for investment
+RCONG492,Loans and leases held for investment
+RCONG493,Derivative assets
+RCONG494,Derivative assets
+RCONG495,Derivative assets
+RCONG496,Derivative assets
+RCONG497,Other trading assets
+RCONG498,Other trading assets
+RCONG499,Other trading assets
+RCONG500,Other trading assets
+RCONG501,Other trading assets
+RCONG502,Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6)
+RCONG503,Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6)
+RCONG504,Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6)
+RCONG505,Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6)
+RCONG506,Total assets measured at fair value on a recurring basis (sum of items 1 through 5.b plus item 6)
+RCONG512,Derivative liabilities
+RCONG513,Derivative liabilities
+RCONG514,Derivative liabilities
+RCONG515,Derivative liabilities
+RCONG516,Other trading liabilities
+RCONG517,Other trading liabilities
+RCONG518,Other trading liabilities
+RCONG519,Other trading liabilities
+RCONG520,Other trading liabilities
+RCONG531,Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13)
+RCONG532,Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13)
+RCONG533,Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13)
+RCONG534,Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13)
+RCONG535,Total liabilities measured at fair value on a recurring basis (sum of items 8 through 13)
+RCONG536,Mortgage servicing assets
+RCONG537,Mortgage servicing assets
+RCONG538,Mortgage servicing assets
+RCONG539,Mortgage servicing assets
+RCONG540,Mortgage servicing assets
+RCONG541,Nontrading derivative assets
+RCONG542,Nontrading derivative assets
+RCONG543,Nontrading derivative assets
+RCONG544,Nontrading derivative assets
+RCONG545,Nontrading derivative assets
+RCONG546,Amount of component
+RCONG547,Amount of component
+RCONG548,Amount of component
+RCONG549,Amount of component
+RCONG550,Amount of component
+RCONG551,Amount of component
+RCONG552,Amount of component
+RCONG553,Amount of component
+RCONG554,Amount of component
+RCONG555,Amount of component
+RCONG556,Amount of component
+RCONG557,Amount of component
+RCONG558,Amount of component
+RCONG559,Amount of component
+RCONG560,Amount of component
+RCONG561,Amount of component
+RCONG562,Amount of component
+RCONG563,Amount of component
+RCONG564,Amount of component
+RCONG565,Amount of component
+RCONG566,Nontrading derivative liabilities
+RCONG567,Nontrading derivative liabilities
+RCONG568,Nontrading derivative liabilities
+RCONG569,Nontrading derivative liabilities
+RCONG570,Nontrading derivative liabilities
+RCONG571,Amount of component
+RCONG572,Amount of component
+RCONG573,Amount of component
+RCONG574,Amount of component
+RCONG575,Amount of component
+RCONG576,Amount of component
+RCONG577,Amount of component
+RCONG578,Amount of component
+RCONG579,Amount of component
+RCONG580,Amount of component
+RCONG581,Amount of component
+RCONG582,Amount of component
+RCONG583,Amount of component
+RCONG584,Amount of component
+RCONG585,Amount of component
+RCONG586,Amount of component
+RCONG587,Amount of component
+RCONG588,Amount of component
+RCONG589,Amount of component
+RCONG590,Amount of component
+RCONG603,Performance standby letters of credit and transaction-related contingent items
+RCONG604,Performance standby letters of credit and transaction-related contingent items
+RCONG605,Performance standby letters of credit and transaction-related contingent items
+RCONG606,Commercial and similar letters of credit with an original maturity of one year or less
+RCONG607,Commercial and similar letters of credit with an original maturity of one year or less
+RCONG608,Commercial and similar letters of credit with an original maturity of one year or less
+RCONG609,Commercial and similar letters of credit with an original maturity of one year or less
+RCONG610,Commercial and similar letters of credit with an original maturity of one year or less
+RCONG611,Commercial and similar letters of credit with an original maturity of one year or less
+RCONG612,Retained recourse on small business obligations sold with recourse
+RCONG613,Retained recourse on small business obligations sold with recourse
+RCONG614,Retained recourse on small business obligations sold with recourse
+RCONG615,Retained recourse on small business obligations sold with recourse
+RCONG616,Retained recourse on small business obligations sold with recourse
+RCONG617,Retained recourse on small business obligations sold with recourse
+RCONG618,All other off-balance sheet liabilities
+RCONG619,All other off-balance sheet liabilities
+RCONG620,All other off-balance sheet liabilities
+RCONG621,All other off-balance sheet liabilities
+RCONG622,All other off-balance sheet liabilities
+RCONG623,All other off-balance sheet liabilities
+RCONG624,Original maturity exceeding one year
+RCONG625,Original maturity exceeding one year
+RCONG626,Original maturity exceeding one year
+RCONG627,Original maturity exceeding one year
+RCONG628,Original maturity exceeding one year
+RCONG629,Original maturity exceeding one year
+RCONG630,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONG631,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONG632,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONG633,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONG634,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONG635,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONG636,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONG637,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONG641,Total risk-weighted assets (item 28 minus items 29 and 30)
+RCONG642,Current credit exposure across all derivative contracts covered by the regulatory capital rules
+RCONG803,"Brokered reciprocal deposits (included in Schedule RC-E, Memorandum item 1.b)"
+RCONG804,All other assets
+RCONG805,All other liabilities
+RCONG806,All other liabilities
+RCONG807,All other liabilities
+RCONG808,All other liabilities
+RCONG809,All other liabilities
+RCONH171,Securities purchased under agreements to resell
+RCONH172,Securities purchased under agreements to resell
+RCONH173,Residential mortgage exposures
+RCONH174,High volatility commercial real estate exposures
+RCONH175,High volatility commercial real estate exposures
+RCONH176,High volatility commercial real estate exposures
+RCONH177,High volatility commercial real estate exposures
+RCONH178,Residential mortgage exposures
+RCONH179,High volatility commercial real estate exposures
+RCONH180,High volatility commercial real estate exposures
+RCONH181,High volatility commercial real estate exposures
+RCONH182,High volatility commercial real estate exposures
+RCONH185,All other assets
+RCONH186,Trading assets
+RCONH187,Trading assets
+RCONH188,All other assets
+RCONH191,Unsettled transactions (failed trades)
+RCONH193,Unsettled transactions (failed trades)
+RCONH194,Unsettled transactions (failed trades)
+RCONH195,Unsettled transactions (failed trades)
+RCONH196,Unsettled transactions (failed trades)
+RCONH197,Unsettled transactions (failed trades)
+RCONH198,Unsettled transactions (failed trades)
+RCONH199,Unsettled transactions (failed trades)
+RCONH200,Unsettled transactions (failed trades)
+RCONH271,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONH272,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONH273,Residential mortgage exposures
+RCONH274,Residential mortgage exposures
+RCONH275,High volatility commercial real estate exposures
+RCONH276,High volatility commercial real estate exposures
+RCONH277,Exposures past due 90 days or more or on nonaccrual
+RCONH278,Exposures past due 90 days or more or on nonaccrual
+RCONH279,All other exposures
+RCONH280,All other exposures
+RCONH281,Residential mortgage exposures
+RCONH282,Residential mortgage exposures
+RCONH283,High volatility commercial real estate exposures
+RCONH284,High volatility commercial real estate exposures
+RCONH285,Exposures past due 90 days or more or on nonaccrual
+RCONH286,Exposures past due 90 days or more or on nonaccrual
+RCONH287,All other exposures
+RCONH288,All other exposures
+RCONH290,Trading assets
+RCONH291,Trading assets
+RCONH292,Trading assets
+RCONH293,All other assets
+RCONH294,All other assets
+RCONH295,All other assets
+RCONH296,Separate account bank-owned life insurance
+RCONH297,Separate account bank-owned life insurance
+RCONH298,Default fund contributions to central counterparties
+RCONH299,Default fund contributions to central counterparties
+RCONH300,Total balance sheet assets
+RCONH301,Repo-style transactions
+RCONH302,Repo-style transactions
+RCONH303,Original maturity of one year or less
+RCONH304,Original maturity of one year or less
+RCONH307,Original maturity exceeding one year
+RCONH308,Original maturity exceeding one year
+RCONH309,Over-the-counter derivatives
+RCONH310,Over-the-counter derivatives
+RCONHJ74,Held-to-maturity securities
+RCONHJ75,Held-to-maturity securities
+RCONHJ76,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONHJ77,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONHJ78,Exposures past due 90 days or more or on nonaccrual
+RCONHJ79,Exposures past due 90 days or more or on nonaccrual
+RCONHJ80,All other exposures
+RCONHJ81,All other exposures
+RCONHJ82,Exposures past due 90 days or more or on nonaccrual
+RCONHJ83,Exposures past due 90 days or more or on nonaccrual
+RCONHJ84,All other exposures
+RCONHJ85,All other exposures
+RCONHJ86,Trading assets
+RCONHJ87,Trading assets
+RCONHJ88,All other assets
+RCONHJ89,All other assets
+RCONHJ90,Total balance sheet assets
+RCONHJ91,Total balance sheet assets
+RCONHJ92,Financial standby letters of credit
+RCONHJ93,Financial standby letters of credit
+RCONHJ94,Commercial and similar letters of credit with an original maturity of one year or less
+RCONHJ95,Commercial and similar letters of credit with an original maturity of one year or less
+RCONHJ96,Original maturity of one year or less
+RCONHJ97,Original maturity of one year or less
+RCONHJ98,Original maturity exceeding one year
+RCONHJ99,Original maturity exceeding one year
+RCONHK00,Over-the-counter derivatives
+RCONHK01,Over-the-counter derivatives
+RCONHK05,"Brokered deposits of $250,000 or less (fully insured brokered deposits)"
+RCONHK06,"Brokered deposits of $250,000 or less with a remaining maturity of one year or less (included in Memorandum item 1.c above)"
+RCONHK07,Three months or less
+RCONHK08,Over three months through 12 months
+RCONHK09,Over one year through three years
+RCONHK10,Over three years
+RCONHK11,"Time deposits of $250,000 or less with a REMAINING MATURITY of one year or less (included in Memorandum items 3.a.(1) and 3.a.(2) above)"
+RCONHK12,Three months or less
+RCONHK13,Over three months through 12 months
+RCONHK14,Over one year through three years
+RCONHK15,Over three years
+RCONHK16,"Time deposits of $250,000 or less"
+RCONHK17,"Time deposits of more than $250,000"
+RCONHK25,Total loans restructured in troubled debt restructurings that are in compliance with their modified terms (sum of Memorandum items 1.a.(1) through 1.f)
+RCONHK26,"Total loans restructured in troubled debt restructurings included in Schedule RC-N, items 1 through 7, above and not reported in Schedule RC-C, Part I, Memorandum item 1 (sum of items Memorandum item 1.a.(1) through Memorandum item 1.f)"
+RCONHK27,"Total loans restructured in troubled debt restructurings included in Schedule RC-N, items 1 through 7, above and not reported in Schedule RC-C, Part I, Memorandum item 1 (sum of items Memorandum item 1.a.(1) through Memorandum item 1.f)"
+RCONHK28,"Total loans restructured in troubled debt restructurings included in Schedule RC-N, items 1 through 7, above and not reported in Schedule RC-C, Part I, Memorandum item 1 (sum of items Memorandum item 1.a.(1) through Memorandum item 1.f)"
+RCONHT50,U.S. Government agency and sponsored agency obligations (exclude mortgage-backed securities)
+RCONHT51,U.S. Government agency and sponsored agency obligations (exclude mortgage-backed securities)
+RCONHT52,U.S. Government agency and sponsored agency obligations (exclude mortgage-backed securities)
+RCONHT53,U.S. Government agency and sponsored agency obligations (exclude mortgage-backed securities)
+RCONHT58,Structured financial products
+RCONHT59,Structured financial products
+RCONHT60,Structured financial products
+RCONHT61,Structured financial products
+RCONHT62,Structured financial products
+RCONHT63,Loans secured by 1-4 family residential properties
+RCONHT64,All other loans secured by real estate
+RCONHT65,"Loans to individuals for household, family, and other personal expenditures (i.e., consumer loans) (includes purchased paper)"
+RCONHT66,Loans secured by 1-4 family residential properties
+RCONHT67,All other loans secured by real estate
+RCONHT68,"Loans to individuals for household, family, and other personal expenditures (i.e., consumer loans) (includes purchased paper)"
+RCONHT80,Interest-only strips receivable (not in the form of a security)
+RCONHT81,Retail originations during the quarter of 1-4 family residential mortgage loans for sale
+RCONHT82,Wholesale originations and purchases during the quarter of 1-4 family residential mortgage loans for sale
+RCONHT86,Repurchases and indemnifications of 1-4 family residential mortgage loans during the quarter
+RCONHT87,Secured by 1-4 family residential properties
+RCONHT88,All other loans secured by real estate
+RCONHT89,"Loans to individuals for household, family, and other personal expenditures (i.e., consumer loans) (includes purchased paper)"
+RCONHT91,Secured by 1-4 family residential properties
+RCONHT92,All other loans secured by real estate
+RCONHT93,"Loans to individuals for household, family, and other personal expenditures (i.e., consumer loans) (includes purchased paper)"
+RCONHU09,Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to structures reported in item 1
+RCONHU15,Maximum amount of credit exposure arising from recourse or other seller-provided credit enhancements provided to structures reported in item 1
+RCONHU19,Total amount of ownership (or seller's) interest carried as securities or loans
+RCONHU20,Securities not held for trading
+RCONHU21,Securities not held for trading
+RCONHU22,"Loans and leases held for investment, net of allowance, and held for sale"
+RCONHU23,"Loans and leases held for investment, net of allowance, and held for sale"
+RCONJ253,Investment management and investment advisory agency accounts
+RCONJ254,Investment management and investment advisory agency accounts
+RCONJ255,Foundation and endowment trust and agency accounts
+RCONJ256,Foundation and endowment trust and agency accounts
+RCONJ257,Foundation and endowment trust and agency accounts
+RCONJ258,Foundation and endowment trust and agency accounts
+RCONJ259,"Individual Retirement Accounts, Health Savings Accounts, and other similar accounts (included in items 5.c and 11)"
+RCONJ260,"Individual Retirement Accounts, Health Savings Accounts, and other similar accounts (included in items 5.c and 11)"
+RCONJ261,"Individual Retirement Accounts, Health Savings Accounts, and other similar accounts (included in items 5.c and 11)"
+RCONJ262,"Individual Retirement Accounts, Health Savings Accounts, and other similar accounts (included in items 5.c and 11)"
+RCONJ448,FDIC loss-sharing indemnification assets
+RCONJ451,All other loans (exclude consumer loans)
+RCONJ454,Loans to nondepository financial institutions
+RCONJ457,Commercial and industrial loans
+RCONJ458,Loans to financial institutions
+RCONJ459,All other unused commitments
+RCONJ461,"Debt securities (included in Schedule RC, items 2.a and 2.b)"
+RCONJ462,Other assets (exclude FDIC loss-sharing indemnification assets)
+RCONJ464,Other loans
+RCONJ473,"Total time deposits of $100,000 through $250,000"
+RCONJ474,"Total time deposits of more than $250,000"
+RCONJ981,Cash and balances due from depository institutions
+RCONJA21,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONJA22,Equity securities with readily determinable fair values not held for trading
+RCONJA29,"Cost of equity securities with readily determinable fair values not held for trading (the fair value of which is reported in Schedule RC, item 2.c)"
+RCONJA36,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONJF76,All other intangible assets
+RCONJF77,Total assets of asset-backed commercial paper (ABCP) conduit VIEs
+RCONJF78,Total liabilities of ABCP conduit VIEs
+RCONJF84,Cash and balances due from depository institutions
+RCONJF85,Other borrowed money
+RCONJF86,Other liabilities
+RCONJF87,All other assets of consolidated VIEs (not included in items 1.a. through 1.e above)
+RCONJF88,All other liabilities of consolidated VIEs (not included in items 2.a and 2.b above)
+RCONJF89,Other real estate owned
+RCONJF90,Other assets
+RCONJF91,Other assets
+RCONJF92,Other borrowed money
+RCONJF93,Other liabilities
+RCONJH83,Total reciprocal deposits (as of the report date)
+RCONJJ03,"Allowance for credit losses on other financial assets measured at amortized cost (not included in item 7, above)"
+RCONJJ04,Construction loans
+RCONJJ05,Commercial real estate loans
+RCONJJ06,Residential real estate loans
+RCONJJ07,Commercial loans
+RCONJJ08,Credit cards
+RCONJJ09,Other consumer loans
+RCONJJ11,Total (sum of items 1.a. through 5)
+RCONJJ12,Construction loans
+RCONJJ13,Commercial real estate loans
+RCONJJ14,Residential real estate loans
+RCONJJ15,Commercial loans
+RCONJJ16,Credit cards
+RCONJJ17,Other consumer loans
+RCONJJ18,"Unallocated, if any"
+RCONJJ19,Total (sum of items 1.a. through 5)
+RCONJJ20,Securities issued by states and political subdivisions in the U.S.
+RCONJJ21,"Mortgage-backed securities (MBS) (including CMOs, REMICs, and stripped MBS)"
+RCONJJ23,Asset-backed securities and structured financial products
+RCONJJ24,Other debt securities
+RCONJJ25,Total (sum of items 7 through 10)
+RCONJJ30,Loans and leases held for investment
+RCONJJ31,Held-to-maturity debt securities
+RCONJJ32,Other financial assets measured at amortized cost
+RCONJJ34,"Held-to-maturity securities (from Schedule RC-B, column A)"
+RCONK009,Other real estate owned
+RCONK030,All other assets of consolidated VIEs (not included in items 1.a. through 1.e above)
+RCONK033,All other liabilities of consolidated VIEs (not included in items 2.a and 2.b above)
+RCONK036,"Loans and leases reported in items 1 through 8 above that are wholly or partially guaranteed by the U.S. Government, excluding loans and leases covered by loss-sharing agreements with the FDIC:"
+RCONK037,"Loans and leases reported in items 1 through 8 above that are wholly or partially guaranteed by the U.S. Government, excluding loans and leases covered by loss-sharing agreements with the FDIC:"
+RCONK038,"Loans and leases reported in items 1 through 8 above that are wholly or partially guaranteed by the U.S. Government, excluding loans and leases covered by loss-sharing agreements with the FDIC:"
+RCONK039,"Guaranteed portion of loans and leases included in item 11 above, excluding rebooked ""GNMA loans"""
+RCONK040,"Guaranteed portion of loans and leases included in item 11 above, excluding rebooked ""GNMA loans"""
+RCONK041,"Guaranteed portion of loans and leases included in item 11 above, excluding rebooked ""GNMA loans"""
+RCONK042,"Rebooked ""GNMA loans"" that have been repurchased or are eligible for repurchase included in item 11 above"
+RCONK043,"Rebooked ""GNMA loans"" that have been repurchased or are eligible for repurchase included in item 11 above"
+RCONK044,"Rebooked ""GNMA loans"" that have been repurchased or are eligible for repurchase included in item 11 above"
+RCONK045,1-4 family residential construction loans
+RCONK046,1-4 family residential construction loans
+RCONK047,1-4 family residential construction loans
+RCONK048,Other construction loans and all land development and other land loans
+RCONK049,Other construction loans and all land development and other land loans
+RCONK050,Other construction loans and all land development and other land loans
+RCONK051,Secured by farmland
+RCONK052,Secured by farmland
+RCONK053,Secured by farmland
+RCONK054,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONK055,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONK056,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONK057,Secured by first liens
+RCONK058,Secured by first liens
+RCONK059,Secured by first liens
+RCONK060,Secured by junior liens
+RCONK061,Secured by junior liens
+RCONK062,Secured by junior liens
+RCONK063,Secured by multifamily (5 or more) residential properties
+RCONK064,Secured by multifamily (5 or more) residential properties
+RCONK065,Secured by multifamily (5 or more) residential properties
+RCONK066,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONK067,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONK068,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONK069,Loans secured by other nonfarm nonresidential properties
+RCONK070,Loans secured by other nonfarm nonresidential properties
+RCONK071,Loans secured by other nonfarm nonresidential properties
+RCONK087,All other loans and all leases
+RCONK088,All other loans and all leases
+RCONK089,All other loans and all leases
+RCONK098,Credit cards
+RCONK102,Portion of covered loans and leases included in items 12.a through 12.e above that is protected by FDIC loss-sharing agreements
+RCONK103,Portion of covered loans and leases included in items 12.a through 12.e above that is protected by FDIC loss-sharing agreements
+RCONK104,Portion of covered loans and leases included in items 12.a through 12.e above that is protected by FDIC loss-sharing agreements
+RCONK105,1-4 family residential construction loans
+RCONK106,1-4 family residential construction loans
+RCONK107,1-4 family residential construction loans
+RCONK108,Other construction loans and all land development and other land loans
+RCONK109,Other construction loans and all land development and other land loans
+RCONK110,Other construction loans and all land development and other land loans
+RCONK111,Secured by multifamily (5 or more) residential properties
+RCONK112,Secured by multifamily (5 or more) residential properties
+RCONK113,Secured by multifamily (5 or more) residential properties
+RCONK114,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONK115,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONK116,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONK117,Loans secured by other nonfarm nonresidential properties
+RCONK118,Loans secured by other nonfarm nonresidential properties
+RCONK119,Loans secured by other nonfarm nonresidential properties
+RCONK120,To U.S. addressees (domicile)
+RCONK121,To U.S. addressees (domicile)
+RCONK122,To U.S. addressees (domicile)
+RCONK123,To non-U.S. addressees (domicile)
+RCONK124,To non-U.S. addressees (domicile)
+RCONK125,To non-U.S. addressees (domicile)
+RCONK126,"All other loans (include loans to individuals for household, family, and other personal expenditures)"
+RCONK127,"All other loans (include loans to individuals for household, family, and other personal expenditures)"
+RCONK128,"All other loans (include loans to individuals for household, family, and other personal expenditures)"
+RCONK130,Loans secured by farmland
+RCONK131,Loans secured by farmland
+RCONK132,Loans secured by farmland
+RCONK137,Automobile loans
+RCONK138,"Loans to finance agricultural production and other loans to farmers included in Schedule RC-N, Memorandum item 1.f, above"
+RCONK139,"Loans to finance agricultural production and other loans to farmers included in Schedule RC-N, Memorandum item 1.f, above"
+RCONK140,"Loans to finance agricultural production and other loans to farmers included in Schedule RC-N, Memorandum item 1.f, above"
+RCONK142,"Issued or guaranteed by FNMA, FHLMC, or GNMA"
+RCONK143,"Issued or guaranteed by FNMA, FHLMC, or GNMA"
+RCONK144,"Issued or guaranteed by FNMA, FHLMC, or GNMA"
+RCONK145,"Issued or guaranteed by FNMA, FHLMC, or GNMA"
+RCONK146,Other pass-through securities
+RCONK147,Other pass-through securities
+RCONK148,Other pass-through securities
+RCONK149,Other pass-through securities
+RCONK150,Issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONK151,Issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONK152,Issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONK153,Issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONK154,All other commercial MBS
+RCONK155,All other commercial MBS
+RCONK156,All other commercial MBS
+RCONK157,All other commercial MBS
+RCONK158,1-4 family residential construction loans
+RCONK159,Other construction loans and all land development and other land loans
+RCONK160,Secured by multifamily (5 or more) residential properties
+RCONK161,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONK162,Loans secured by other nonfarm nonresidential properties
+RCONK163,To U.S. addressees (domicile)
+RCONK164,To non-U.S. addressees (domicile)
+RCONK165,"All other loans (include loans to individuals for household, family, and other personal expenditures)"
+RCONK166,Loans secured by farmland
+RCONK168,"Loans to finance agricultural production and other loans to farmers included in Schedule RC-C, part I, Memorandum item 1.f, above"
+RCONK169,1-4 family residential construction loans
+RCONK170,Other construction loans and all land development and other land loans
+RCONK171,Secured by farmland
+RCONK172,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONK173,Secured by first liens
+RCONK174,Secured by junior liens
+RCONK175,Secured by multifamily (5 or more) residential properties
+RCONK176,Loans secured by owner-occupied nonfarm nonresidential properties
+RCONK177,Loans secured by other nonfarm nonresidential properties
+RCONK183,All other loans and all leases
+RCONK187,"Construction, land development, and other land"
+RCONK188,Farmland
+RCONK189,1-4 family residential properties
+RCONK190,Multifamily (5 or more) residential properties
+RCONK191,Nonfarm nonresidential properties
+RCONK192,Portion of covered other real estate owned included in items 13.b.(1) through (5) above that is protected by FDIC loss-sharing agreements
+RCONK197,Commercial MBS issued or guaranteed by U.S. Government agencies or sponsored agencies
+RCONK198,All other commercial MBS
+RCONK201,General account life insurance assets
+RCONK202,Separate account life insurance assets
+RCONK203,Automobile loans
+RCONK204,Other (includes revolving credit plans other than credit cards and other consumer loans)
+RCONK207,Other consumer loans (includes single payment and installment loans other than automobile loans and all student loans)
+RCONK213,Automobile loans
+RCONK214,Automobile loans
+RCONK215,Automobile loans
+RCONK216,Other (includes revolving credit plans other than credit cards and other consumer loans)
+RCONK217,Other (includes revolving credit plans other than credit cards and other consumer loans)
+RCONK218,Other (includes revolving credit plans other than credit cards and other consumer loans)
+RCONK220,"Brokered deposits of more than $250,000 with a remaining maturity of one year or less (included in Memorandum item 1.b above)"
+RCONK222,"Time deposits of more than $250,000 with a REMAINING MATURITY of one year or less (included in Memorandum items 4.a.(1) and 4.a.(2) above)"
+RCONK223,Estimated amount of deposits obtained through the use of deposit listing services that are not brokered deposits
+RCONK256,Commercial and industrial loans
+RCONK257,Commercial and industrial loans
+RCONK258,Commercial and industrial loans
+RCONK259,Commercial and industrial loans
+RCONK270,Hybrid account life insurance assets
+RCONK274,Credit cards
+RCONK275,Credit cards
+RCONK276,Credit cards
+RCONK277,Automobile loans
+RCONK278,Automobile loans
+RCONK279,Automobile loans
+RCONK280,Other (includes revolving credit plans other than credit cards and other consumer loans)
+RCONK281,Other (includes revolving credit plans other than credit cards and other consumer loans)
+RCONK282,Other (includes revolving credit plans other than credit cards and other consumer loans)
+RCONK652,Average consolidated total assets for the calendar quarter
+RCONK653,"Averaging method used (for daily averaging, enter 1: for weekly averaging, enter 2)"
+RCONK654,Average tangible equity for the calendar quarter
+RCONK655,Holdings of long-term unsecured debt issued by other FDIC-insured depository institutions
+RCONK656,"Banker's bank certification:  Does the reporting institution meet both the statutory definition of a banker's bank and the business conduct test set forth in FDIC regulations?  If the answer to item 10 is ""YES,"" complete items 10.a and 10.b."
+RCONK659,"Custodial bank certification:  Does the reporting institution meet the definition of a custodial bank set forth in FDIC regulations?  If the answer to item 11 is ""YES,"" complete items 11.a and 11.b."
+RCONK660,Custodial bank deduction
+RCONK661,Custodial bank deduction limit
+RCONK663,Special mention
+RCONK664,Substandard
+RCONK665,Doubtful
+RCONK666,Loss
+RCONK669,Amount of other real estate owned recoverable from the U.S. government under guarantee or insurance provisions (excluding FDIC loss-sharing agreements)
+RCONK676,Total unfunded commitments
+RCONK677,Portion of unfunded commitments guaranteed or insured by the U.S. government (including the FDIC)
+RCONK678,"Nonbrokered time deposits of more than $250,000 (included in Schedule RC-E, Memorandum item 2.d)"
+RCONL189,"Portion of loans restructured in troubled debt restructurings that are in compliance with their modified terms and are guaranteed or insured by the U.S. government (including the FDIC) (included in Schedule RC-C, part I, Memorandum item 1)"
+RCONL191,For representations and warranties made to U.S. government agencies and government-sponsored agencies
+RCONL192,For representations and warranties made to other parties
+RCONLB56,Operating lease liabilities
+RCONLE75,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit that have converted to non-revolving closed-end status (included in item 1.c.(1) above)"
+RCONLG24,Number of Section 4013 loans outstanding
+RCONLG25,Outstanding balance of Section 4013 loans
+RCONLG26,Number of PPP loans outstanding
+RCONLG27,Outstanding balance of PPP loans
+RCONLG28,Outstanding balance of PPP loans pledged to the PPPLF
+RCONLL57,"Quarterly average amount of PPP loans pledged to the PPPLF and excluded from ""Total assets for the leverage ratio"" reported in Schedule RC-R, Part I, item 30"
+RCONLL58,"Quarterly average amount of assets purchased under the MMLF and excluded from ""Total assets for the leverage ratio"" reported in Schedule RC-R, Part I, item 30"
+RCONLL59,One year or less
+RCONLL60,More than one year
+RCONLL61,Outstanding balance of assets purchased under the MMLF
+RCONM288,Total representation and warranty reserves (sum of items 7.a and 7.b)
+RCONM963,Non-agency residential mortgage-backed securities
+RCONM964,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM965,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM966,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM967,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM968,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM969,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM970,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM971,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM972,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM973,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM974,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM975,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM976,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM977,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM978,Nontraditional 1-4 family residential mortgage loans as defined for assessment purposes only in FDIC regulations
+RCONM979,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM980,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM981,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM982,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM983,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM984,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM985,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM986,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM987,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM988,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM989,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM990,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM991,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM992,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM993,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONM994,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONM995,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONM996,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONM997,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONM998,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONM999,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONMT87,"Fully insured, affiliate sweep deposits"
+RCONMT89,"Not fully insured, affiliate sweep deposits"
+RCONMT91,"Fully insured, non-affiliate sweep deposits"
+RCONMT93,"Not fully insured, non-affiliate sweep deposits"
+RCONMT95,Total sweep deposits that are not brokered deposits
+RCONMW53,Applicable portion of the CECL transitional amount or modified CECL transitional amount that has been added to retained earnings for regulatory capital purposes as of the current report date and is attributable to loans and leases held for investment
+RCONN001,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONN002,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONN003,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONN004,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONN005,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONN006,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONN007,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONN008,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONN009,Closed-end loans secured by junior liens on 1-4 family residential properties
+RCONN010,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN011,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN012,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN013,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN014,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN015,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN016,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN017,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN018,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN019,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN020,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN021,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN022,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN023,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN024,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN025,Nontraditional 1-4 family residential mortgage loans
+RCONN026,Securitizations of nontraditional 1-4 family residential mortgage loans
+RCONN027,Higher-risk consumer loans
+RCONN028,Securitizations of higher-risk consumer loans
+RCONN029,Higher-risk commercial and industrial loans and securities
+RCONN030,Securitizations of higher-risk commercial and industrial loans and securities
+RCONN040,Credit cards
+RCONN041,Credit cards
+RCONN042,Credit cards
+RCONN043,Credit cards
+RCONN044,Credit cards
+RCONN045,Credit cards
+RCONN046,Credit cards
+RCONN047,Credit cards
+RCONN048,Credit cards
+RCONN049,Credit cards
+RCONN050,Credit cards
+RCONN051,Credit cards
+RCONN052,Credit cards
+RCONN053,Credit cards
+RCONN054,Credit cards
+RCONN055,Automobile loans
+RCONN056,Automobile loans
+RCONN057,Automobile loans
+RCONN058,Automobile loans
+RCONN059,Automobile loans
+RCONN060,Automobile loans
+RCONN061,Automobile loans
+RCONN062,Automobile loans
+RCONN063,Automobile loans
+RCONN064,Automobile loans
+RCONN065,Automobile loans
+RCONN066,Automobile loans
+RCONN067,Automobile loans
+RCONN068,Automobile loans
+RCONN069,Automobile loans
+RCONN070,Student loans
+RCONN071,Student loans
+RCONN072,Student loans
+RCONN073,Student loans
+RCONN074,Student loans
+RCONN075,Student loans
+RCONN076,Student loans
+RCONN077,Student loans
+RCONN078,Student loans
+RCONN079,Student loans
+RCONN080,Student loans
+RCONN081,Student loans
+RCONN082,Student loans
+RCONN083,Student loans
+RCONN084,Student loans
+RCONN085,Other consumer loans and revolving credit plans other than credit cards
+RCONN086,Other consumer loans and revolving credit plans other than credit cards
+RCONN087,Other consumer loans and revolving credit plans other than credit cards
+RCONN088,Other consumer loans and revolving credit plans other than credit cards
+RCONN089,Other consumer loans and revolving credit plans other than credit cards
+RCONN090,Other consumer loans and revolving credit plans other than credit cards
+RCONN091,Other consumer loans and revolving credit plans other than credit cards
+RCONN092,Other consumer loans and revolving credit plans other than credit cards
+RCONN093,Other consumer loans and revolving credit plans other than credit cards
+RCONN094,Other consumer loans and revolving credit plans other than credit cards
+RCONN095,Other consumer loans and revolving credit plans other than credit cards
+RCONN096,Other consumer loans and revolving credit plans other than credit cards
+RCONN097,Other consumer loans and revolving credit plans other than credit cards
+RCONN098,Other consumer loans and revolving credit plans other than credit cards
+RCONN099,Other consumer loans and revolving credit plans other than credit cards
+RCONN100,Consumer leases
+RCONN101,Consumer leases
+RCONN102,Consumer leases
+RCONN103,Consumer leases
+RCONN104,Consumer leases
+RCONN105,Consumer leases
+RCONN106,Consumer leases
+RCONN107,Consumer leases
+RCONN108,Consumer leases
+RCONN109,Consumer leases
+RCONN110,Consumer leases
+RCONN111,Consumer leases
+RCONN112,Consumer leases
+RCONN113,Consumer leases
+RCONN114,Consumer leases
+RCONN115,Total
+RCONN116,Total
+RCONN117,Total
+RCONN118,Total
+RCONN119,Total
+RCONN120,Total
+RCONN121,Total
+RCONN122,Total
+RCONN123,Total
+RCONN124,Total
+RCONN125,Total
+RCONN126,Total
+RCONN127,Total
+RCONN128,Total
+RCONN177,"Construction, land development, and other land loans secured by real estate"
+RCONN178,Loans secured by multifamily residential and nonfarm nonresidential properties
+RCONN179,Closed-end loans secured by first liens on 1-4 family residential properties
+RCONN180,"Closed-end loans secured by junior liens on 1-4 family residential properties and revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RCONN181,Commercial and industrial loans
+RCONN182,"Credit card loans to individuals for household, family, and other personal expenditures"
+RCONN183,"All other loans to individuals for household, family, and other personal expenditures"
+RCONP752,"Does your institution offer one or more consumer deposit account products, i.e., transaction account or nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use?"
+RCONP753,"Total deposits in those noninterest-bearing transaction account deposit products intended primarily for individuals for personal, household, or family use"
+RCONP754,"Total deposits in those interest-bearing transaction account deposit products intended primarily for individuals for personal, household, or family use"
+RCONP756,"Total deposits in those MMDA deposit products intended primarily for individuals for personal, household, or family use"
+RCONP757,"Deposits in all other MMDAs of individuals, partnerships, and corporations"
+RCONP758,"Total deposits in those other savings deposit account deposit products intended primarily for individuals for personal, household, or family use"
+RCONP759,"Deposits in all other savings deposit accounts of individuals, partnerships, and corporations"
+RCONS396,Cash and balances due from depository institutions
+RCONS397,Cash and balances due from depository institutions
+RCONS398,Cash and balances due from depository institutions
+RCONS399,Held-to-maturity securities
+RCONS400,Held-to-maturity securities
+RCONS402,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONS403,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONS405,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONS406,Available-for-sale debt securities and equity securities with readily determinable fair values not held for trading
+RCONS410,Federal funds sold
+RCONS411,Federal funds sold
+RCONS413,Residential mortgage exposures
+RCONS414,Residential mortgage exposures
+RCONS415,Residential mortgage exposures
+RCONS416,Residential mortgage exposures
+RCONS417,Residential mortgage exposures
+RCONS419,High volatility commercial real estate exposures
+RCONS420,High volatility commercial real estate exposures
+RCONS421,High volatility commercial real estate exposures
+RCONS423,Exposures past due 90 days or more or on nonaccrual
+RCONS424,Exposures past due 90 days or more or on nonaccrual
+RCONS425,Exposures past due 90 days or more or on nonaccrual
+RCONS426,Exposures past due 90 days or more or on nonaccrual
+RCONS427,Exposures past due 90 days or more or on nonaccrual
+RCONS428,Exposures past due 90 days or more or on nonaccrual
+RCONS429,Exposures past due 90 days or more or on nonaccrual
+RCONS431,All other exposures
+RCONS432,All other exposures
+RCONS433,All other exposures
+RCONS434,All other exposures
+RCONS435,All other exposures
+RCONS436,All other exposures
+RCONS437,All other exposures
+RCONS439,Residential mortgage exposures
+RCONS440,Residential mortgage exposures
+RCONS441,Residential mortgage exposures
+RCONS442,Residential mortgage exposures
+RCONS443,Residential mortgage exposures
+RCONS445,High volatility commercial real estate exposures
+RCONS446,High volatility commercial real estate exposures
+RCONS447,High volatility commercial real estate exposures
+RCONS449,Exposures past due 90 days or more or on nonaccrual
+RCONS450,Exposures past due 90 days or more or on nonaccrual
+RCONS451,Exposures past due 90 days or more or on nonaccrual
+RCONS452,Exposures past due 90 days or more or on nonaccrual
+RCONS453,Exposures past due 90 days or more or on nonaccrual
+RCONS454,Exposures past due 90 days or more or on nonaccrual
+RCONS455,Exposures past due 90 days or more or on nonaccrual
+RCONS457,All other exposures
+RCONS458,All other exposures
+RCONS459,All other exposures
+RCONS460,All other exposures
+RCONS461,All other exposures
+RCONS462,All other exposures
+RCONS463,All other exposures
+RCONS466,Trading assets
+RCONS467,Trading assets
+RCONS469,All other assets
+RCONS470,All other assets
+RCONS471,All other assets
+RCONS475,Held-to-maturity securities
+RCONS476,Held-to-maturity securities
+RCONS477,Held-to-maturity securities
+RCONS478,Held-to-maturity securities
+RCONS479,Held-to-maturity securities
+RCONS480,Available-for-sale securities
+RCONS481,Available-for-sale securities
+RCONS482,Available-for-sale securities
+RCONS483,Available-for-sale securities
+RCONS484,Available-for-sale securities
+RCONS485,Trading assets
+RCONS486,Trading assets
+RCONS487,Trading assets
+RCONS488,Trading assets
+RCONS489,Trading assets
+RCONS490,All other on-balance sheet securitization exposures
+RCONS491,All other on-balance sheet securitization exposures
+RCONS492,All other on-balance sheet securitization exposures
+RCONS493,All other on-balance sheet securitization exposures
+RCONS494,All other on-balance sheet securitization exposures
+RCONS495,Off-balance sheet securitization exposures
+RCONS496,Off-balance sheet securitization exposures
+RCONS497,Off-balance sheet securitization exposures
+RCONS498,Off-balance sheet securitization exposures
+RCONS499,Off-balance sheet securitization exposures
+RCONS500,Total balance sheet assets
+RCONS503,Total balance sheet assets
+RCONS504,Total balance sheet assets
+RCONS505,Total balance sheet assets
+RCONS506,Total balance sheet assets
+RCONS507,Total balance sheet assets
+RCONS510,Total balance sheet assets
+RCONS511,Financial standby letters of credit
+RCONS512,Performance standby letters of credit and transaction-related contingent items
+RCONS513,Commercial and similar letters of credit with an original maturity of one year or less
+RCONS514,Retained recourse on small business obligations sold with recourse
+RCONS515,Repo-style transactions
+RCONS516,Repo-style transactions
+RCONS517,Repo-style transactions
+RCONS518,Repo-style transactions
+RCONS519,Repo-style transactions
+RCONS520,Repo-style transactions
+RCONS521,Repo-style transactions
+RCONS522,Repo-style transactions
+RCONS523,Repo-style transactions
+RCONS524,All other off-balance sheet liabilities
+RCONS525,Original maturity of one year or less
+RCONS526,Original maturity of one year or less
+RCONS527,Original maturity of one year or less
+RCONS528,Original maturity of one year or less
+RCONS529,Original maturity of one year or less
+RCONS530,Original maturity of one year or less
+RCONS531,Original maturity of one year or less
+RCONS539,Original maturity exceeding one year
+RCONS540,Unconditionally cancelable commitments
+RCONS541,Unconditionally cancelable commitments
+RCONS542,Over-the-counter derivatives
+RCONS543,Over-the-counter derivatives
+RCONS544,Over-the-counter derivatives
+RCONS545,Over-the-counter derivatives
+RCONS546,Over-the-counter derivatives
+RCONS547,Over-the-counter derivatives
+RCONS548,Over-the-counter derivatives
+RCONS549,Centrally cleared derivatives
+RCONS550,Centrally cleared derivatives
+RCONS551,Centrally cleared derivatives
+RCONS552,Centrally cleared derivatives
+RCONS554,Centrally cleared derivatives
+RCONS555,Centrally cleared derivatives
+RCONS556,Centrally cleared derivatives
+RCONS557,Centrally cleared derivatives
+RCONS558,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS559,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS560,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS561,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS562,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS563,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS564,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS565,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS566,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS567,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS568,"Total assets, derivatives, off-balance sheet items, and other items subject to risk weighting by risk-weight category (for each of columns C through P, sum of items 11 through 22: for column Q, sum of items 10 through 22)"
+RCONS569,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS570,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS571,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS572,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS573,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS574,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS575,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS576,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS577,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS578,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS579,"Risk-weighted assets by risk-weight category (for each column, item 23 multiplied by item 24)"
+RCONS580,Risk-weighted assets base for purposes of calculating the allowance for loan and lease losses 1.25 percent threshold
+RCONS581,Standardized market-risk weighted assets (applicable only to banks that are covered by the market risk capital rule)
+RCONS582,Interest rate
+RCONS583,Interest rate
+RCONS584,Interest rate
+RCONS585,Foreign exchange rate and gold
+RCONS586,Foreign exchange rate and gold
+RCONS587,Foreign exchange rate and gold
+RCONS588,Credit (investment grade reference asset)
+RCONS589,Credit (investment grade reference asset)
+RCONS590,Credit (investment grade reference asset)
+RCONS591,Credit (non-investment grade reference asset)
+RCONS592,Credit (non-investment grade reference asset)
+RCONS593,Credit (non-investment grade reference asset)
+RCONS594,Equity
+RCONS595,Equity
+RCONS596,Equity
+RCONS597,Precious metals (except gold)
+RCONS598,Precious metals (except gold)
+RCONS599,Precious metals (except gold)
+RCONS600,Other
+RCONS601,Other
+RCONS602,Other
+RCONS603,Interest rate
+RCONS604,Interest rate
+RCONS605,Interest rate
+RCONS606,Foreign exchange rate and gold
+RCONS607,Foreign exchange rate and gold
+RCONS608,Foreign exchange rate and gold
+RCONS609,Credit (investment grade reference asset)
+RCONS610,Credit (investment grade reference asset)
+RCONS611,Credit (investment grade reference asset)
+RCONS612,Credit (non-investment grade reference asset)
+RCONS613,Credit (non-investment grade reference asset)
+RCONS614,Credit (non-investment grade reference asset)
+RCONS615,Equity
+RCONS616,Equity
+RCONS617,Equity
+RCONS618,Precious metals (except gold)
+RCONS619,Precious metals (except gold)
+RCONS620,Precious metals (except gold)
+RCONS621,Other
+RCONS622,Other
+RCONS623,Other
+RIAD0093,Savings deposits (includes MMDAs)
+RIAD0497,Advertising and marketing expenses
+RIAD3123,"Balance end of current period (sum of items 1, 2, 5, and 6, less items 3 and 4) (column A must equal Schedule RC, item 4.c)"
+RIAD3196,Realized gains (losses) on available-for-sale debt securities
+RIAD3210,"Total bank equity capital end of current period (sum of items 3 through 11) (must equal Schedule RC, item 27.a)"
+RIAD3217,"Total bank equity capital most recently reported for the December 31, 2021, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income)"
+RIAD3521,Realized gains (losses) on held-to-maturity securities
+RIAD3584,Secured by farmland
+RIAD3585,Secured by farmland
+RIAD3588,Secured by multifamily (5 or more) residential properties
+RIAD3589,Secured by multifamily (5 or more) residential properties
+RIAD4010,Total interest and fee income on loans (sum of items 1.a.(1)(a) through 1.a.(5))
+RIAD4012,Commercial and industrial loans
+RIAD4020,Interest income on federal funds sold and securities purchased under agreements to resell
+RIAD4024,"Interest and fee income on loans to finance agricultural production and other loans to farmers (included in Schedule RI, item 1.a.(5))"
+RIAD4042,Rent and other income from other real estate owned
+RIAD4058,All other loans
+RIAD4060,All other securities (includes securities issued by states and political subdivisions in the U.S.)
+RIAD4065,Income from lease financing receivables
+RIAD4070,"Total gross fiduciary and related services income (sum of items 14 through 21) (must equal Schedule RI, item 5.a)"
+RIAD4073,Total interest expense (sum of items 2.a through 2.d)
+RIAD4074,Net interest income (item 1.h minus 2.e)
+RIAD4079,Total noninterest income (sum of items 5.a through 5.l)
+RIAD4080,Service charges on deposit accounts
+RIAD4092,Other noninterest expense
+RIAD4093,Total noninterest expense (sum of items 7.a through 7.d)
+RIAD4107,Total interest income (sum of items 1.a.(6) through 1.g)
+RIAD4115,Interest income on balances due from depository institutions
+RIAD4135,Salaries and employee benefits
+RIAD4136,Directors' fees
+RIAD4141,Legal fees and expenses
+RIAD4146,FDIC deposit insurance assessments
+RIAD4150,Number of full-time equivalent employees at end of current period (round to nearest whole number)
+RIAD4180,Expense of federal funds purchased and securities sold under agreements to repurchase
+RIAD4185,Interest on trading liabilities and other borrowed money
+RIAD4200,Interest on subordinated notes and debentures
+RIAD4217,Expenses of premises and fixed assets (net of rental income) (excluding salaries and employee benefits and mortgage interest)
+RIAD4230,Provisions for credit losses
+RIAD4266,Lease financing receivables
+RIAD4267,Lease financing receivables
+RIAD4300,Income (loss) before discontinued operations (item 8.c minus item 9)
+RIAD4301,Income (loss) before applicable income taxes and discontinued operations (sum of items 8.a and 8.b)
+RIAD4302,Applicable income taxes (on item 8.c)
+RIAD4313,"Income on tax-exempt loans and leases to states and political subdivisions in the U.S. (included in Schedule RI, items 1.a and 1.b)"
+RIAD4340,"Net income (loss) attributable to bank (must equal Schedule RI, item 14)"
+RIAD4356,"Changes incident to business combinations, net"
+RIAD4415,"Other transactions with stockholders (including a parent holding company) (not included in items 5, 6, 8, or 9 above)"
+RIAD4435,Loans secured by 1-4 family residential properties
+RIAD4436,All other loans secured by real estate
+RIAD4460,LESS: Cash dividends declared on common stock
+RIAD4461,Amount of component
+RIAD4462,Amount of component
+RIAD4463,Amount of component
+RIAD4464,Amount of component
+RIAD4467,Amount of component
+RIAD4468,Amount of component
+RIAD4470,LESS: Cash dividends declared on preferred stock
+RIAD4498,Amount of component
+RIAD4499,Amount of component
+RIAD4507,"Income on tax-exempt securities issued by states and political subdivisions in the U.S. (included in Schedule RI, item 1.d.(3))"
+RIAD4508,"Transaction accounts (interest-bearing demand deposits, NOW accounts, ATS accounts, and telephone and preauthorized transfer accounts)"
+RIAD4513,"Interest expense incurred to carry tax-exempt securities, loans, and leases acquired after August 7, 1986, that is not deductible for federal income tax purposes"
+RIAD4518,Other interest income
+RIAD4521,Amount of component
+RIAD4522,Amount of component
+RIAD4605,"Recoveries (column A must equal Part I, item 9, column B, above)"
+RIAD4608,Commercial and industrial loans
+RIAD4618,"Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 4, above)"
+RIAD4628,All other loans
+RIAD4635,Total (sum of items 1 through 8)
+RIAD4638,Commercial and industrial loans
+RIAD4644,All other loans
+RIAD4646,"Commercial and industrial loans to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 4, above)"
+RIAD4652,"Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 1, above)"
+RIAD4655,"Loans to finance agricultural production and other loans to farmers (included in Schedule RI-B, part I, item 7, above)"
+RIAD4662,"Loans secured by real estate to non-U.S. addressees (domicile) (included in Schedule RI-B, part I, item 1, above)"
+RIAD4665,"Loans to finance agricultural production and other loans to farmers (included in Schedule RI-B, part I, item 7, above)"
+RIAD4769,Comments?
+RIAD5409,"Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RI-B, part I, items 4 and 7, above"
+RIAD5410,"Loans to finance commercial real estate, construction, and land development activities (not secured by real estate) included in Schedule RI-B, part I, items 4 and 7, above"
+RIAD5411,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RIAD5412,"Revolving, open-end loans secured by 1-4 family residential properties and extended under lines of credit"
+RIAD5415,Net gains (losses) on sales of other real estate owned
+RIAD5416,Net gains (losses) on sales of loans and leases
+RIAD5523,LESS:  Write-downs arising from transfers of financial assets
+RIAD8403,Postage
+RIAD8431,"Income from the sale and servicing of mutual funds and annuities (included in Schedule RI, item 8)"
+RIAD9106,"If the reporting institution has applied pushdown accounting this calendar year, report the date of the institution's acquisition (see instructions)"
+RIADA220,Trading revenue
+RIADA251,Credit losses on derivatives (see instructions)
+RIADA479,Corporate trust and agency accounts
+RIADA480,Other fiduciary accounts
+RIADA530,Does the reporting bank have a Subchapter S election in effect for federal income tax purposes for the current tax year?
+RIADB485,Credit cards
+RIADB486,"Other (includes revolving credit plans other than credit cards, automobile loans, and other consumer loans)"
+RIADB488,U.S. Treasury securities and U.S. Government agency obligations (excluding mortgage-backed securities)
+RIADB489,Mortgage-backed securities
+RIADB491,Venture capital revenue
+RIADB492,Net servicing fees
+RIADB493,Net securitization income
+RIADB496,Net gains (losses) on sales of other assets
+RIADB497,Other noninterest income
+RIADB507,Cumulative effect of changes in accounting principles and corrections of material accounting errors
+RIADB508,Balance end of previous calendar year as restated (sum of items 1 and 2)
+RIADB509,"Sale, conversion, acquisition, or retirement of capital stock, net (excluding treasury stock transactions)"
+RIADB510,"Treasury stock transactions, net"
+RIADB511,Other comprehensive income
+RIADB514,Credit cards
+RIADB515,Credit cards
+RIADB522,"Balance most recently reported for the December 31, 2021, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income)"
+RIADB526,Amount of component
+RIADB527,Amount of component
+RIADB747,Charge-offs
+RIADB753,Charge-offs
+RIADB754,Recoveries
+RIADB760,Recoveries
+RIADB904,Personal trust and agency accounts
+RIADB905,Employee benefit - defined contribution
+RIADB906,Employee benefit - defined benefit
+RIADB907,Other employee benefit and retirement-related accounts
+RIADB909,Custody and safekeeping accounts
+RIADB910,Other fiduciary and related services income
+RIADC013,Income and fees from the printing and sale of checks
+RIADC014,Earnings on/increase in value of cash surrender value of life insurance
+RIADC015,Safe deposit box rent
+RIADC016,Income and fees from automated teller machines (ATMs)
+RIADC017,Data processing expenses
+RIADC018,"Printing, stationery, and supplies"
+RIADC079,"LESS:  Charge-offs (column A must equal Part I, item 9, column A, above less Schedule RI-B, Part II, item 4, column A)"
+RIADC216,Goodwill impairment losses
+RIADC217,Secured by first liens
+RIADC218,Secured by junior liens
+RIADC232,Amortization expense and impairment losses for other intangible assets
+RIADC233,Adjustments (see instructions for this schedule)
+RIADC234,Secured by first liens
+RIADC235,Secured by junior liens
+RIADC386,Underwriting income from insurance and reinsurance activities
+RIADC387,Income from other insurance activities
+RIADC435,"Allocated transfer risk reserve included in Schedule RI-8, Part II, item 7, column A, above"
+RIADC886,Fees and commissions from securities brokerage
+RIADC887,Fees and commissions from annuity sales
+RIADC888,"Investment banking, advisory, and underwriting fees and commissions"
+RIADC889,Net gains (losses) on credit derivatives held for trading
+RIADC890,Net gains (losses) on credit derivatives held for purposes other than trading
+RIADC891,1-4 family residential construction loans
+RIADC892,1-4 family residential construction loans
+RIADC893,Other construction loans and all land development and other land loans
+RIADC894,Other construction loans and all land development and other land loans
+RIADC895,Loans secured by owner-occupied nonfarm nonresidential properties
+RIADC896,Loans secured by owner-occupied nonfarm nonresidential properties
+RIADC897,Loans secured by other nonfarm nonresidential properties
+RIADC898,Loans secured by other nonfarm nonresidential properties
+RIADF185,"Leases to individuals for household, family, and other personal expenditures (included in Schedule RI-B, part I, item 8, above)"
+RIADF187,"Leases to individuals for household, family, and other personal expenditures (included in Schedule RI-B, part I, item 8, above)"
+RIADF551,Net gains (losses) on assets
+RIADF552,Estimated net gains (losses) on loans attributable to changes in instrument-specific credit risk
+RIADF553,Net gains (losses) on liabilities
+RIADF554,Estimated net gains (losses) on liabilities attributable to changes in instrument-specific credit risk
+RIADF555,Bank card and credit card interchange fees
+RIADF556,Accounting and auditing expenses
+RIADF557,Consulting and advisory expenses
+RIADF558,Automated teller machine (ATM) and interchange expenses
+RIADF559,Telecommunications expenses
+RIADFT28,"Discontinued operations, net of applicable income taxes (Describe on Schedule RI-E - Explanations)"
+RIADFT29,Amount of component
+RIADFT30,Applicable income tax effect
+RIADFT31,Amount of component
+RIADFT32,Applicable income tax effect
+RIADG103,"LESS: Net income (loss) attributable to noncontrolling (minority) interests (if net income, report as a positive value: if net loss, report as a negative value)"
+RIADG104,Net income (loss) attributable to bank and noncontrolling (minority) interests (sum of items 10 and 11)
+RIADH032,"Consumer overdraft-related service charges levied on those transaction account and nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use"
+RIADH033,"Consumer account periodic maintenance charges levied on those transaction account and nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use"
+RIADH034,"Consumer customer automated teller machine (ATM) fees levied on those transaction account and nontransaction savings account deposit products intended primarily for individuals for personal, household, or family use"
+RIADH035,All other service charges on deposit accounts
+RIADHK03,"Time deposits of $250,000 or less"
+RIADHK04,"Time deposits of more than $250,000"
+RIADHT69,"Income (loss) before change in net unrealized holding gains (losses) on equity securities not held for trading, applicable income taxes, and discontinued operations (item 3 plus or minus items 4, 5.m, 6.a, 6.b, and 7.e)"
+RIADHT70,Change in net unrealized holding gains (losses) on equity securities not held for trading
+RIADHT85,"Noninterest income for the quarter from the sale, securitization, and servicing of 1-4 family residential mortgage loans (included in Schedule RI, items 5.c, 5.f, 5.g, and 5.i)"
+RIADJ315,Investment management and investment advisory agency accounts
+RIADJ316,Foundation and endowment trust and agency accounts
+RIADJH88,"Balance most recently reported for the December 31, 2021, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income)"
+RIADJH89,"Recoveries (column A must equal Part I, item 9, column B, above)"
+RIADJH90,Provisions for credit losses
+RIADJH91,Adjustments (see instructions for this schedule)
+RIADJH92,"LESS:  Charge-offs (column A must equal Part I, item 9, column A, above less Schedule RI-B, Part II, item 4, column A)"
+RIADJH93,"Balance end of current period (sum of items 1, 2, 5, and 6, less items 3 and 4) (column A must equal Schedule RC, item 4.c)"
+RIADJH94,"Balance most recently reported for the December 31, 2021, Reports of Condition and Income (i.e., after adjustments from amended Reports of Income)"
+RIADJH95,"Recoveries (column A must equal Part I, item 9, column B, above)"
+RIADJH96,Provisions for credit losses
+RIADJH97,Adjustments (see instructions for this schedule)
+RIADJH98,"LESS:  Charge-offs (column A must equal Part I, item 9, column A, above less Schedule RI-B, Part II, item 4, column A)"
+RIADJH99,"Balance end of current period (sum of items 1, 2, 5, and 6, less items 3 and 4) (column A must equal Schedule RC, item 4.c)"
+RIADJJ00,LESS:  Write-downs arising from transfers of financial assets
+RIADJJ01,LESS:  Write-downs arising from transfers of financial assets
+RIADJJ02,"Provisions for credit losses on other financial assets measured at amortized cost (not included in item 5, above)"
+RIADJJ33,Provision for loan and lease losses
+RIADK129,Automobile loans
+RIADK133,Automobile loans
+RIADK205,Other (includes revolving credit plans other than credit cards and other consumer loans)
+RIADK206,Other (includes revolving credit plans other than credit cards and other consumer loans)
+RIADMG93,Provisions for credit losses on off-balance-sheet credit exposures
+RIADMG94,"Estimated amount of expected recoveries of amounts previously written off included within the allowance for credit losses on loans and leases held for investment (included in item 7, column A, ""Balance end of current period,"" above)"
+RIADT047,Income and fees from wire transfers
+RIADY923,Other real estate owned expenses
+RIADY924,"Insurance expenses (not included in employee expenses, premises and fixed asset expenses, and other real estate owned expenses)"
+RSSD9017,Legal title of bank
+RSSD9050,FDIC certificate number
+RSSD9130,City
+RSSD9200,State abbreviation
+RSSD9220,Zip code
+TE01N528,URL 1
+TE01N529,Trade name 1
+TE02N528,URL 2
+TE02N529,Trade name 2
+TE03N528,URL 3
+TE03N529,Trade name 3
+TE04N529,Trade name 4
+TEXT3549,Describe component
+TEXT3550,Describe component
+TEXT3551,Describe component
+TEXT3552,Describe component
+TEXT3553,Describe component
+TEXT3554,Describe component
+TEXT3555,Describe component
+TEXT3556,Describe component
+TEXT3557,Describe component
+TEXT4086,E-mail Address
+TEXT4087,"Uniform Resource Locator (URL) of the reporting institution's primary Internet Web site (home page), if any (Example: www.examplebank.com):"
+TEXT4461,Describe component
+TEXT4462,Describe component
+TEXT4463,Describe component
+TEXT8902,Telephone
+TEXT9116,FAX
+TEXTB926,E-mail Address
+TEXTB962,Name and Title
+TEXTB963,Telephone
+TEXTB964,FAX
+TEXTC366,Name
+TEXTC367,Title
+TEXTC368,E-mail Address
+TEXTC369,Telephone
+TEXTC370,FAX
+TEXTC371,Name
+TEXTC372,Title
+TEXTC373,E-mail Address
+TEXTC374,Telephone
+TEXTC375,FAX
+TEXTC437,Name
+TEXTC438,Title
+TEXTC439,E-mail Address
+TEXTC440,Telephone
+TEXTC442,Name
+TEXTC443,Title
+TEXTC444,E-mail Address
+TEXTC445,Telephone
+TEXTC490,Name
+TEXTC491,Title
+TEXTC492,E-mail Address
+TEXTC493,Telephone
+TEXTC494,FAX
+TEXTC495,Name
+TEXTC496,Title
+TEXTC870,Name
+TEXTC871,Title
+TEXTC872,E-mail Address
+TEXTC873,Telephone
+TEXTC875,Name
+TEXTC876,Title
+TEXTC877,E-mail Address
+TEXTC878,Telephone
+TEXTFT42,Name
+TEXTFT43,Telephone
+TEXTFT44,E-mail Address
+TEXTFT45,FAX
