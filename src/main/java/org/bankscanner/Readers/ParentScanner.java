@@ -19,19 +19,16 @@
 package org.bankscanner.Readers;
 
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Scanner;
 import java.util.regex.MatchResult;
 import java.util.regex.Pattern;
-import java.util.stream.Stream;
 
 public class ParentScanner {
 
     /** Regular expression for the reading in the fields of parents */
-    private static final String PARENT_FIELDS_REGEX = "([A-Z]{4})([\\w]{4})";
+    private static final String PARENT_FIELDS_REGEX = "(?<!\\w)([A-Z]{4}\\w{3}\\d)(?=[\\^\\n])";
 
     /** {@link Pattern} which finds field matches */
     private static final Pattern FIELD_PATTERN = Pattern.compile(PARENT_FIELDS_REGEX);
@@ -79,28 +76,47 @@ public class ParentScanner {
     private ParentScanner() {
         fields = new ArrayList<>();
 
-        ArrayList<File> parents = new ArrayList<>();
-        try (Stream<Path> filePath = Files.walk(Paths.get("src/main/resources"))) {
-            filePath.forEach(path -> {
-                parents.add(new File(path.toUri()));
-            });
+        HashSet<String> fields1 = new HashSet<>();
+        HashSet<String> fields2 = new HashSet<>();
+
+        // source: https://stackoverflow.com/questions/3154488/how-do-i-iterate-through-the-files-in-a-directory-and-its-sub-directories-in-ja
+        File parentDirectory = new File("src/main/resources/parents");
+        File[] parentFiles = parentDirectory.listFiles();
+
+        // just look through the first file - you'll see all the fields
+        try (FileInputStream inStream = new FileInputStream(parentFiles[0])) {
+            Scanner scanner = new Scanner(inStream);
+            while (scanner.findWithinHorizon(FIELD_PATTERN, 0) != null) {
+                MatchResult fileFields = scanner.match();
+                String field = fileFields.group(1);
+                fields.add(field);
+                fields1.add(field);
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }
 
-        // just look through the first file - you'll see all the fields
-        for (File parentFile : parents) {
-            try (FileInputStream inStream = new FileInputStream(parentFile)) {
-                Scanner scanner = new Scanner(inStream);
-                while (scanner.findWithinHorizon(FIELD_PATTERN, 0) != null) {
-                    MatchResult fileFields = scanner.match();
-                    String field = fileFields.group(0) + fileFields.group(1);
-                    fields.add(field);
-                }
-            } catch (IOException e) {
-                e.printStackTrace();
+        try (FileInputStream inStream = new FileInputStream(parentFiles[1])) {
+            Scanner scanner = new Scanner(inStream);
+            while (scanner.findWithinHorizon(FIELD_PATTERN, 0) != null) {
+                MatchResult fileFields = scanner.match();
+                String field = fileFields.group(1);
+                fields2.add(field);
             }
-            break;
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        for (String field : fields1) {
+            if (!fields2.contains(field)){
+                System.out.println(field);
+            }
+        }
+
+        for (String field : fields2) {
+            if (!fields1.contains(field)){
+                System.out.println(field);
+            }
         }
     }
 
