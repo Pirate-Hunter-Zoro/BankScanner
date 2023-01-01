@@ -18,16 +18,20 @@
 
 package org.bankscanner.Readers;
 
-import javafx.scene.image.Image;
-
-import java.io.File;
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Scanner;
+import java.util.regex.MatchResult;
 import java.util.regex.Pattern;
+import java.util.stream.Stream;
 
 public class ParentScanner {
 
     /** Regular expression for the reading in the fields of parents */
-    private static final String PARENT_FIELDS_REGEX = "([A-Z]{4})([\\w]){4}";
+    private static final String PARENT_FIELDS_REGEX = "([A-Z]{4})([\\w]{4})";
 
     /** {@link Pattern} which finds field matches */
     private static final Pattern FIELD_PATTERN = Pattern.compile(PARENT_FIELDS_REGEX);
@@ -61,14 +65,42 @@ public class ParentScanner {
     private static final Pattern ASSET_PATTERN = Pattern.compile(ASSETS_REGEX);
 
     /**
+     * Public method which scans for new files every time
+     * */
+    public static void ScanFiles() {
+        if (fields == null) {
+            new ParentScanner();
+        }
+    }
+
+    /**
      * Read in the fields from all the files for all banks
      */
     private ParentScanner() {
-        if (fields == null) {
-            fields = new ArrayList<>();
-            File resources = new File("src/main/resources");
-            // source: https://stackoverflow.com/questions/4917326/how-to-iterate-over-the-files-of-a-certain-directory-in-java
-            File[] parents = resources.listFiles();
+        fields = new ArrayList<>();
+
+        ArrayList<File> parents = new ArrayList<>();
+        try (Stream<Path> filePath = Files.walk(Paths.get("src/main/resources"))) {
+            filePath.forEach(path -> {
+                parents.add(new File(path.toUri()));
+            });
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        // just look through the first file - you'll see all the fields
+        for (File parentFile : parents) {
+            try (FileInputStream inStream = new FileInputStream(parentFile)) {
+                Scanner scanner = new Scanner(inStream);
+                while (scanner.findWithinHorizon(FIELD_PATTERN, 0) != null) {
+                    MatchResult fileFields = scanner.match();
+                    String field = fileFields.group(0) + fileFields.group(1);
+                    fields.add(field);
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            break;
         }
     }
 
