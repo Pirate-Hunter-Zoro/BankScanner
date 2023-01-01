@@ -16,7 +16,7 @@
  *
  * *****************************************/
 
-package org.bankscanner.Readers;
+package org.bankscanner;
 
 import java.io.*;
 import java.util.ArrayList;

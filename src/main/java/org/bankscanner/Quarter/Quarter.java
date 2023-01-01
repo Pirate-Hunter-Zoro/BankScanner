@@ -18,14 +18,20 @@
 
 package org.bankscanner.Quarter;
 
-import java.util.Comparator;
-import java.util.HashMap;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.*;
+import java.util.regex.MatchResult;
 import java.util.regex.Pattern;
 
 /**
  * Representative of a certain 3 months during a particular year
  */
 public class Quarter {
+
+    /** It's a waste to create the same {@link Quarter} twice, so keep track of all the ones made */
+    private static final HashSet<Quarter> ALL_QUARTERS_FOUND = new HashSet<>();
 
     /** Regular expression for the reading in the fields of parents */
     private static final String PARENT_FIELDS_REGEX = "(?<!\\w)([A-Z]{4}\\w{3}\\d)(?=[\\^\\n])";
@@ -42,6 +48,18 @@ public class Quarter {
     /** Month in the year that this quarter begins */
     private final Month month;
 
+    /** Depending on the month and year, this will affect which suffix we want in the bank files that have information pertaining to this {@link Quarter} */
+    private final String bankFilesSuffix;
+
+    /** Depending on the month and year, this will affect which suffix we want in the parent file that has information pertaining to this {@link Quarter} */
+    private final String parentFileSuffix;
+
+    /** All available parent fields for this {@link Quarter} */
+    private final ArrayList<String> parentFields;
+
+    /** All available bank fields for this {@link Quarter} */
+    private final ArrayList<String> bankFields;
+
     /** Contains all the information for all Banks in this quarter */
     private final HashMap<String, HashMap<String, String>> banks;
 
@@ -54,10 +72,39 @@ public class Quarter {
      * @param month - int
      */
     public Quarter(int year, Month month) {
+
+        // set up year and month
         this.year = Math.max(MIN_YEAR, year);
         this.month = month;
 
+        String yearAsString = Integer.toString(year);
+        String bankYearSuffix = yearAsString.substring(yearAsString.length() - 2);
+        switch (month) {
+            case March -> {
+                this.bankFilesSuffix = "0331" + bankYearSuffix + ".SDF";
+                this.parentFileSuffix = "0331" + yearAsString + ".txt";
+            }
+            case June -> {
+                this.bankFilesSuffix = "0630" + bankYearSuffix + ".SDF";
+                this.parentFileSuffix = "0630" + yearAsString + ".txt";
+            }
+            case September -> {
+                this.bankFilesSuffix = "0930" + bankYearSuffix + ".SDF";
+                this.parentFileSuffix = "0930" + yearAsString + ".txt";
+            }
+            default -> { // December
+                this.bankFilesSuffix = "1231" + bankYearSuffix + ".SDF";
+                this.parentFileSuffix = "1231" + yearAsString + ".txt";
+            }
+        }
+
+        // set up lists of fields
+        this.bankFields = new ArrayList<>();
+        this.parentFields = new ArrayList<>();
+
+        // create the dictionaries of all the banks, each with its corresponding dictionary of fields -> assets
         this.banks = this.scanForBanks();
+        // create the dictionary of all the parents, each with its corresponding dictionary of fields -> assets
         this.parents = this.scanForParents();
     }
 
@@ -66,16 +113,98 @@ public class Quarter {
      */
     public static final Comparator<Quarter> QUARTER_COMPARATOR = (quarter1, quarter2) -> (quarter1.year - quarter2.year + (Month.MONTH_COMPARATOR.compare(quarter1.month, quarter2.month)));
 
-    private HashMap<String, HashMap<String, String>> scanForBanks() {
+    /**
+     * Create the dictionary of data for this {@link Quarter} for all parents
+     * @return {@link HashMap}
+     */
+    private HashMap<String, HashMap<String, String>> scanForParents() {
         HashMap<String, HashMap<String, String>> scanResult = new HashMap<>();
+
+        // source: https://stackoverflow.com/questions/3154488/how-do-i-iterate-through-the-files-in-a-directory-and-its-sub-directories-in-ja
+        File parentDirectory = new File("src/main/resources/parents");
+        File[] parentFiles = parentDirectory.listFiles();
+
+        // scan to find all the fields
+        assert parentFiles != null;
+        loadParentFields(parentFiles);
+
+        // TODO : scan to create the parents dictionary: string -> dictionary: string -> string
 
         return scanResult;
     }
 
-    private HashMap<String, HashMap<String, String>> scanForParents() {
+    /**
+     * Create the dictionary of data for this {@link Quarter} for all banks
+     * @return {@link HashMap}
+     */
+    private HashMap<String, HashMap<String, String>> scanForBanks() {
         HashMap<String, HashMap<String, String>> scanResult = new HashMap<>();
 
+        // now for the banks
+        File bankDirectory = new File("src/main/resources/banks");
+        File[] bankFiles = bankDirectory.listFiles();
+
+        // just look every file because each file is a bank, but each Quarter therefore corresponds to a BUNCH of bank files
+        assert bankFiles != null;
+        loadBankFields(bankFiles);
+
+        // TODO : scan to create the banks dictionary: string -> dictionary: string -> string
+
         return scanResult;
+    }
+
+    /**
+     * Find all the fields belonging to parents during this {@link Quarter}
+     * @param parentFiles {@link File[]}
+     */
+    private void loadParentFields(File[] parentFiles) {
+        // ONLY ONE parent file contributes to the dictionary of data - we want all possible fields
+        for (File parentFile : parentFiles) {
+            String fileName = parentFile.getName();
+            int nameLength = fileName.length();
+            if (fileName.substring(nameLength - this.parentFileSuffix.length(), nameLength).equals(this.parentFileSuffix)) {
+                // we found the correct parent file, which contains information on ALL parents for this quarter
+                try (FileInputStream inStream = new FileInputStream(fileName)) {
+                    Scanner scanner = new Scanner(inStream);
+                    while (scanner.findWithinHorizon(FIELD_PATTERN, 0) != null) {
+                        MatchResult fileFields = scanner.match();
+                        String field = fileFields.group(1);
+                        this.parentFields.add(field);
+                    }
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                // there will only be one matching file
+                break;
+            }
+        }
+    }
+
+    /**
+     * Find all the fields belonging to banks during this {@link Quarter}
+     * @param bankFiles {@link File[]}
+     */
+    private void loadBankFields(File[] bankFiles) {
+        // only one bank file is necessary to find all possible bank fields for this quarter
+        for (File bankFile : bankFiles) {
+            String fileName = bankFile.getName();
+            int nameLength = fileName.length();
+            if (fileName.substring(nameLength - this.bankFilesSuffix.length(), nameLength).equals(this.bankFilesSuffix)) {
+                // we found the correct parent file, which contains information on ALL parents for this quarter
+                try (FileInputStream inStream = new FileInputStream(fileName)) {
+                    Scanner scanner = new Scanner(inStream);
+                    while (scanner.findWithinHorizon(FIELD_PATTERN, 0) != null) {
+                        MatchResult fileFields = scanner.match();
+                        String field = fileFields.group(1);
+                        this.bankFields.add(field);
+                    }
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                // when finding fields, one file will suffice
+                break;
+            }
+        }
     }
 
 }
