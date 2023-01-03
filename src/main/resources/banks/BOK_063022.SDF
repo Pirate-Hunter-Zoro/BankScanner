@@ -2,7 +2,7 @@ Call Date;Bank RSSD Identifier;MDRM #;Value;Last Update;Short Definition;Call Sc
 20220630;339858;RCOA3792;4307271;20220804;Total capital (sum of items 26 and 46);RCRI;47
 20220630;339858;RCOA5310;224358;20220804;Allowance for loan and lease losses includable in tier 2 capital;RCRI;42
 20220630;339858;RCOA5311;289536;20220804;Tier 2 capital (greater of item 44 minus item 45, or zero);RCRI;46
-20220630;339858;RCOA7204;8.5994%;20220804;Leverage ratio (item 26 divided by 30);RCRI;31
+20220630;339858;RCOA7204;8.5994%;20220804;Leverage ratio (item 26 divided by 30);RCRI;31v
 20220630;339858;RCOA7205;11.8159%;20220804;Total capital ratio (item 47 divided by item 48);RCRI;51
 20220630;339858;RCOA7206;11.0216%;20220804;Tier 1 capital ratio (item 26 divided by item 48);RCRI;50
 20220630;339858;RCOA8274;4017735;20220804;Tier 1 capital (sum of items 19 and 25);RCRI;26

@@ -12,7 +12,7 @@
  * Package: org.bankscanner
  * Class: Quarter
  *
- * Description:
+ * Description: Scans all banks and parents given a date/quarter
  *
  * *****************************************/
 
@@ -30,14 +30,17 @@ import java.util.regex.Pattern;
  */
 public class Quarter {
 
+    /** What is the earliest quarter we will ever be interested in */
+    private static final Quarter EARLIEST_QUARTER = new Quarter(2007, Month.December);
+
     /** It's a waste to create the same {@link Quarter} twice, so keep track of all the ones made */
     private static final HashSet<Quarter> ALL_QUARTERS_FOUND = new HashSet<>();
 
     /** Regular expression for the reading in the fields of parents */
     private static final String PARENT_FIELDS_REGEX = "(?<!\\w)([A-Z]{4}\\w{3}\\d)(?=[\\^\\n])";
 
-    /** {@link Pattern} which finds field matches */
-    private static final Pattern FIELD_PATTERN = Pattern.compile(PARENT_FIELDS_REGEX);
+    /** {@link Pattern} which finds field matches in parent files */
+    private static final Pattern PARENT_FIELD_PATTERN = Pattern.compile(PARENT_FIELDS_REGEX);
 
     /** The earliest year in which we have interest */
     private static final int MIN_YEAR = 2007;
@@ -55,16 +58,16 @@ public class Quarter {
     private final String parentFileSuffix;
 
     /** All available parent fields for this {@link Quarter} */
-    private final ArrayList<String> parentFields;
+    public final ArrayList<String> parentFields;
 
     /** All available bank fields for this {@link Quarter} */
-    private final ArrayList<String> bankFields;
+    public final ArrayList<String> bankFields;
 
     /** Contains all the information for all Banks in this quarter */
-    private final HashMap<String, HashMap<String, String>> banks;
+    public final HashMap<String, HashMap<String, String>> banks;
 
     /** Contains all the information for all Parents in this quarter */
-    private final HashMap<String, HashMap<String, String>> parents;
+    public final HashMap<String, HashMap<String, String>> parents;
 
     /**
      * Only two parameters are necessary to have all the information needed to create a quarter
@@ -77,6 +80,7 @@ public class Quarter {
         this.year = Math.max(MIN_YEAR, year);
         this.month = month;
 
+        // find out what names on the files we should be looking for
         String yearAsString = Integer.toString(year);
         String bankYearSuffix = yearAsString.substring(yearAsString.length() - 2);
         switch (month) {
@@ -102,10 +106,13 @@ public class Quarter {
         this.bankFields = new ArrayList<>();
         this.parentFields = new ArrayList<>();
 
-        // create the dictionaries of all the banks, each with its corresponding dictionary of fields -> assets
+        // fill in the above ArrayList's and create the dictionaries of all the banks, each with its corresponding dictionary of fields -> assets
         this.banks = this.scanForBanks();
         // create the dictionary of all the parents, each with its corresponding dictionary of fields -> assets
         this.parents = this.scanForParents();
+
+        // now that we have created the Quarter
+        ALL_QUARTERS_FOUND.add(this);
     }
 
     /**
@@ -128,8 +135,6 @@ public class Quarter {
         assert parentFiles != null;
         loadParentFields(parentFiles);
 
-        // TODO : scan to create the parents dictionary: string -> dictionary: string -> string
-
         return scanResult;
     }
 
@@ -148,8 +153,6 @@ public class Quarter {
         assert bankFiles != null;
         loadBankFields(bankFiles);
 
-        // TODO : scan to create the banks dictionary: string -> dictionary: string -> string
-
         return scanResult;
     }
 
@@ -165,17 +168,34 @@ public class Quarter {
             if (fileName.substring(nameLength - this.parentFileSuffix.length(), nameLength).equals(this.parentFileSuffix)) {
                 // we found the correct parent file, which contains information on ALL parents for this quarter
                 try (FileInputStream inStream = new FileInputStream(fileName)) {
-                    Scanner scanner = new Scanner(inStream);
-                    while (scanner.findWithinHorizon(FIELD_PATTERN, 0) != null) {
-                        MatchResult fileFields = scanner.match();
+                    // find all the field names - the first one is the RSSD Identifier
+                    Scanner fieldScanner = new Scanner(inStream);
+                    while (fieldScanner.findWithinHorizon(PARENT_FIELD_PATTERN, 0) != null) {
+                        MatchResult fileFields = fieldScanner.match();
                         String field = fileFields.group(1);
                         this.parentFields.add(field);
                     }
+
+                    // now we need to scan through the file - each line is a field
+                    Scanner parentScanner = new Scanner(inStream);
+                    parentScanner.nextLine();
+                    while (parentScanner.hasNextLine()) {
+                        // scan a line/row of this file, and edit the dictionary accordingly
+                        String parent = fieldScanner.nextLine();
+                        Scanner individualParentScanner = new Scanner(parent);
+                        individualParentScanner.useDelimiter("^");
+                        String identifier = individualParentScanner.next();
+                        this.parents.put(identifier, new HashMap<>());
+                        int fieldIndex = 1;
+                        while (individualParentScanner.hasNext()) {
+                            this.parents.get(identifier).put(this.parentFields.get(fieldIndex++), individualParentScanner.next());
+                        }
+                    }
+
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
                 // there will only be one matching file
-                break;
             }
         }
     }
@@ -190,13 +210,26 @@ public class Quarter {
             String fileName = bankFile.getName();
             int nameLength = fileName.length();
             if (fileName.substring(nameLength - this.bankFilesSuffix.length(), nameLength).equals(this.bankFilesSuffix)) {
-                // we found the correct parent file, which contains information on ALL parents for this quarter
+                // we found a correct bank file, which contains information on a certain bank for this quarter
                 try (FileInputStream inStream = new FileInputStream(fileName)) {
-                    Scanner scanner = new Scanner(inStream);
-                    while (scanner.findWithinHorizon(FIELD_PATTERN, 0) != null) {
-                        MatchResult fileFields = scanner.match();
-                        String field = fileFields.group(1);
-                        this.bankFields.add(field);
+                    // first skip past the heading line
+                    Scanner fileScanner = new Scanner(inStream);
+                    fileScanner.nextLine();
+
+                    // now we are ready to add to our map
+                    boolean scannedIdentifier = false;
+                    while (fileScanner.hasNextLine()) {
+                        Scanner fieldScanner = new Scanner(fileScanner.nextLine());
+                        fieldScanner.useDelimiter(";");
+                        // the first entry is the date - we already have this information contained within this class
+                        fieldScanner.next();
+                        String identifier = fieldScanner.next();
+                        if (!scannedIdentifier) {
+                            this.banks.put(identifier, new HashMap<>());
+                            scannedIdentifier = true;
+                        }
+                        // now comes the field - the next two items in the row
+                        this.banks.get(identifier).put(fieldScanner.next(), fieldScanner.next());
                     }
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -207,4 +240,29 @@ public class Quarter {
         }
     }
 
+    /**
+     * Overridden method to determine if an {@link Object} is equivalent to this {@link Quarter} are equal
+     * @param obj {@link Object}
+     * @return boolean
+     */
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == null) {
+            return false;
+        } else if (!(obj instanceof Quarter)){
+            return false;
+        } else {
+            Quarter other = (Quarter) obj;
+            return QUARTER_COMPARATOR.compare(this, other) == 0;
+        }
+    }
+
+    /**
+     * Overridden method to yield a hashcode for this {@link Quarter}
+     * @return int
+     */
+    @Override
+    public int hashCode() {
+        return Objects.hash(this.year, this.month);
+    }
 }
