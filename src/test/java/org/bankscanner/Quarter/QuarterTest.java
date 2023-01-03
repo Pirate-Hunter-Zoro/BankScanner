@@ -11,7 +11,9 @@ class QuarterTest {
      * Run this method right before all tests
      */
     @BeforeAll
-    public void
+    public void setup() {
+
+    }
 
     /**
      * A simple test to ensure that the fields for parents are showing up correctly
