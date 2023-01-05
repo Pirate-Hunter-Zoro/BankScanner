@@ -25,16 +25,12 @@ import java.util.*;
 import java.util.regex.MatchResult;
 import java.util.regex.Pattern;
 
+import static org.bankscanner.Quarter.Month.*;
+
 /**
  * Representative of a certain 3 months during a particular year
  */
 public class Quarter {
-
-    /** What is the earliest quarter we will ever be interested in */
-    private static final Quarter EARLIEST_QUARTER = new Quarter(2007, Month.December);
-
-    /** It's a waste to create the same {@link Quarter} twice, so keep track of all the ones made */
-    private static final HashSet<Quarter> ALL_QUARTERS_FOUND = new HashSet<>();
 
     /** Regular expression for the reading in the fields of parents */
     private static final String PARENT_FIELDS_REGEX = "(?<!\\w)([A-Z]{4}\\w{3}\\d)(?=[\\^\\n])";
@@ -58,16 +54,16 @@ public class Quarter {
     private final String parentFileSuffix;
 
     /** All available parent fields for this {@link Quarter} */
-    public final ArrayList<String> parentFields;
+    private final ArrayList<String> parentFields;
 
     /** All available bank fields for this {@link Quarter} */
-    public final ArrayList<String> bankFields;
+    private final ArrayList<String> bankFields;
 
     /** Contains all the information for all Banks in this quarter */
-    public final HashMap<String, HashMap<String, String>> banks;
+    private final HashMap<String, HashMap<String, String>> banks;
 
     /** Contains all the information for all Parents in this quarter */
-    public final HashMap<String, HashMap<String, String>> parents;
+    private final HashMap<String, HashMap<String, String>> parents;
 
     /**
      * Only two parameters are necessary to have all the information needed to create a quarter
@@ -85,20 +81,20 @@ public class Quarter {
         String bankYearSuffix = yearAsString.substring(yearAsString.length() - 2);
         switch (month) {
             case March -> {
-                this.bankFilesSuffix = "0331" + bankYearSuffix + ".SDF";
-                this.parentFileSuffix = "0331" + yearAsString + ".txt";
+                this.bankFilesSuffix = "03" + March.getNumDays() + bankYearSuffix + ".SDF";
+                this.parentFileSuffix = "03" + March.getNumDays() + yearAsString + ".txt";
             }
             case June -> {
-                this.bankFilesSuffix = "0630" + bankYearSuffix + ".SDF";
-                this.parentFileSuffix = "0630" + yearAsString + ".txt";
+                this.bankFilesSuffix = "06" + June.getNumDays() + bankYearSuffix + ".SDF";
+                this.parentFileSuffix = "06" + June.getNumDays() + yearAsString + ".txt";
             }
             case September -> {
-                this.bankFilesSuffix = "0930" + bankYearSuffix + ".SDF";
-                this.parentFileSuffix = "0930" + yearAsString + ".txt";
+                this.bankFilesSuffix = "09" + September.getNumDays() + bankYearSuffix + ".SDF";
+                this.parentFileSuffix = "09" + September.getNumDays() + yearAsString + ".txt";
             }
             default -> { // December
-                this.bankFilesSuffix = "1231" + bankYearSuffix + ".SDF";
-                this.parentFileSuffix = "1231" + yearAsString + ".txt";
+                this.bankFilesSuffix = "12" + December.getNumDays() + bankYearSuffix + ".SDF";
+                this.parentFileSuffix = "12" + December.getNumDays() + yearAsString + ".txt";
             }
         }
 
@@ -106,13 +102,14 @@ public class Quarter {
         this.bankFields = new ArrayList<>();
         this.parentFields = new ArrayList<>();
 
-        // fill in the above ArrayList's and create the dictionaries of all the banks, each with its corresponding dictionary of fields -> assets
-        this.banks = this.scanForBanks();
-        // create the dictionary of all the parents, each with its corresponding dictionary of fields -> assets
-        this.parents = this.scanForParents();
+        // set up dictionaries
+        this.banks = new HashMap<>();
+        this.parents = new HashMap<>();
 
-        // now that we have created the Quarter
-        ALL_QUARTERS_FOUND.add(this);
+        // fill in the above ArrayList's and create the dictionaries of all the banks, each with its corresponding dictionary of fields -> assets
+        this.scanForBanks();
+        // create the dictionary of all the parents, each with its corresponding dictionary of fields -> assets
+        this.scanForParents();
     }
 
     /**
@@ -124,9 +121,7 @@ public class Quarter {
      * Create the dictionary of data for this {@link Quarter} for all parents
      * @return {@link HashMap}
      */
-    private HashMap<String, HashMap<String, String>> scanForParents() {
-        HashMap<String, HashMap<String, String>> scanResult = new HashMap<>();
-
+    private void scanForParents() {
         // source: https://stackoverflow.com/questions/3154488/how-do-i-iterate-through-the-files-in-a-directory-and-its-sub-directories-in-ja
         File parentDirectory = new File("src/main/resources/parents");
         File[] parentFiles = parentDirectory.listFiles();
@@ -134,17 +129,13 @@ public class Quarter {
         // scan to find all the fields
         assert parentFiles != null;
         loadParentFields(parentFiles);
-
-        return scanResult;
     }
 
     /**
      * Create the dictionary of data for this {@link Quarter} for all banks
      * @return {@link HashMap}
      */
-    private HashMap<String, HashMap<String, String>> scanForBanks() {
-        HashMap<String, HashMap<String, String>> scanResult = new HashMap<>();
-
+    private void scanForBanks() {
         // now for the banks
         File bankDirectory = new File("src/main/resources/banks");
         File[] bankFiles = bankDirectory.listFiles();
@@ -152,8 +143,6 @@ public class Quarter {
         // just look every file because each file is a bank, but each Quarter therefore corresponds to a BUNCH of bank files
         assert bankFiles != null;
         loadBankFields(bankFiles);
-
-        return scanResult;
     }
 
     /**
@@ -167,9 +156,9 @@ public class Quarter {
             int nameLength = fileName.length();
             if (fileName.substring(nameLength - this.parentFileSuffix.length(), nameLength).equals(this.parentFileSuffix)) {
                 // we found the correct parent file, which contains information on ALL parents for this quarter
-                try (FileInputStream inStream = new FileInputStream(fileName)) {
+                try (FileInputStream inStream1 = new FileInputStream(parentFile); FileInputStream inStream2 = new FileInputStream(parentFile)) {
                     // find all the field names - the first one is the RSSD Identifier
-                    Scanner fieldScanner = new Scanner(inStream);
+                    Scanner fieldScanner = new Scanner(inStream1);
                     while (fieldScanner.findWithinHorizon(PARENT_FIELD_PATTERN, 0) != null) {
                         MatchResult fileFields = fieldScanner.match();
                         String field = fileFields.group(1);
@@ -177,16 +166,16 @@ public class Quarter {
                     }
 
                     // now we need to scan through the file - each line is a field
-                    Scanner parentScanner = new Scanner(inStream);
+                    Scanner parentScanner = new Scanner(inStream2);
                     parentScanner.nextLine();
                     while (parentScanner.hasNextLine()) {
                         // scan a line/row of this file, and edit the dictionary accordingly
-                        String parent = fieldScanner.nextLine();
+                        String parent = parentScanner.nextLine();
                         Scanner individualParentScanner = new Scanner(parent);
-                        individualParentScanner.useDelimiter("^");
+                        individualParentScanner.useDelimiter("\\^");
                         String identifier = individualParentScanner.next();
                         this.parents.put(identifier, new HashMap<>());
-                        int fieldIndex = 1;
+                        int fieldIndex = 0;
                         while (individualParentScanner.hasNext()) {
                             this.parents.get(identifier).put(this.parentFields.get(fieldIndex++), individualParentScanner.next());
                         }
@@ -211,7 +200,7 @@ public class Quarter {
             int nameLength = fileName.length();
             if (fileName.substring(nameLength - this.bankFilesSuffix.length(), nameLength).equals(this.bankFilesSuffix)) {
                 // we found a correct bank file, which contains information on a certain bank for this quarter
-                try (FileInputStream inStream = new FileInputStream(fileName)) {
+                try (FileInputStream inStream = new FileInputStream(bankFile)) {
                     // first skip past the heading line
                     Scanner fileScanner = new Scanner(inStream);
                     fileScanner.nextLine();
@@ -234,8 +223,6 @@ public class Quarter {
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
-                // when finding fields, one file will suffice
-                break;
             }
         }
     }
@@ -264,5 +251,21 @@ public class Quarter {
     @Override
     public int hashCode() {
         return Objects.hash(this.year, this.month);
+    }
+
+    /**
+     * Getter for a copy of the banks dictionary
+     * @return {@link HashMap}
+     */
+    public HashMap<String, HashMap<String, String>> getBanks() {
+        return (HashMap<String, HashMap<String, String>>) banks.clone();
+    }
+
+    /**
+     * Getter for a copy of the parents dictionary
+     * @return {@link HashMap}
+     */
+    public HashMap<String, HashMap<String, String>> getParents() {
+        return (HashMap<String, HashMap<String, String>>) parents.clone();
     }
 }
