@@ -159,10 +159,16 @@ public class Quarter {
                 try (FileInputStream inStream1 = new FileInputStream(parentFile); FileInputStream inStream2 = new FileInputStream(parentFile)) {
                     // find all the field names - the first one is the RSSD Identifier
                     Scanner fieldScanner = new Scanner(inStream1);
+                    boolean idBurned = false;
                     while (fieldScanner.findWithinHorizon(PARENT_FIELD_PATTERN, 0) != null) {
-                        MatchResult fileFields = fieldScanner.match();
-                        String field = fileFields.group(1);
-                        this.parentFields.add(field);
+                        if (!idBurned) {
+                            fieldScanner.match();
+                            idBurned = true;
+                        } else {
+                            MatchResult fileFields = fieldScanner.match();
+                            String field = fileFields.group(1);
+                            this.parentFields.add(field);
+                        }
                     }
 
                     // now we need to scan through the file - each line is a field
@@ -175,9 +181,13 @@ public class Quarter {
                         individualParentScanner.useDelimiter("\\^");
                         String identifier = individualParentScanner.next();
                         this.parents.put(identifier, new HashMap<>());
-                        int fieldIndex = 0;
+                        int fieldIndex = 1;
                         while (individualParentScanner.hasNext()) {
-                            this.parents.get(identifier).put(this.parentFields.get(fieldIndex++), individualParentScanner.next());
+                            if (fieldIndex < this.parentFields.size()) {
+                                this.parents.get(identifier).put(this.parentFields.get(fieldIndex++), individualParentScanner.next());
+                            } else {
+                                break;
+                            }
                         }
                     }
 
