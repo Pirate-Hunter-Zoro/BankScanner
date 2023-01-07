@@ -189,6 +189,7 @@ public class Quarter {
                             this.parents.get(identifier).put(this.parentFields.get(fieldIndex), individualParentScanner.next());
                             fieldIndex++;
                         }
+                        // we are one short...
                     }
 
                 } catch (IOException e) {
