@@ -171,7 +171,7 @@ public class Quarter {
                         }
                     }
                     fieldScanner.useDelimiter("\\n");
-                    String lastField = fieldScanner.next();
+                    String lastField = fieldScanner.next().substring(1); // get rid of the carrot
                     this.parentFields.add(lastField);
 
                     // now we need to scan through the file - each line is a field
