@@ -18,8 +18,8 @@ class QuarterTest {
      */
     @BeforeEach
     public void setup() {
-        FIRST_QUARTER = new Quarter(2022, Month.June); // 2329 parent fields
-        SECOND_QUARTER = new Quarter(2022, Month.March); // 2328 parent fields
+        FIRST_QUARTER = new Quarter(2022, Month.September); // 2328 parent fields
+        SECOND_QUARTER = new Quarter(2022, Month.June); // 2327 parent fields
     }
 
     /**
@@ -27,9 +27,13 @@ class QuarterTest {
      */
     @Test
     public void testParentDictionary() {
-        assertEquals(3958, FIRST_QUARTER.getParents().keySet().size());
+        assertEquals(427, FIRST_QUARTER.getParents().keySet().size());
         for (HashMap parent : FIRST_QUARTER.getParents().values()) {
             assertEquals(2328, parent.size());
+        }
+        assertEquals(3958, SECOND_QUARTER.getParents().keySet().size());
+        for (HashMap parent : SECOND_QUARTER.getParents().values()) {
+            assertEquals(2327, parent.size());
         }
     }
 

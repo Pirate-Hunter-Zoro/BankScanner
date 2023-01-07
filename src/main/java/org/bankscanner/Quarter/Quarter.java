@@ -170,6 +170,9 @@ public class Quarter {
                             this.parentFields.add(field);
                         }
                     }
+                    fieldScanner.useDelimiter("\\n");
+                    String lastField = fieldScanner.next();
+                    this.parentFields.add(lastField);
 
                     // now we need to scan through the file - each line is a field
                     Scanner parentScanner = new Scanner(inStream2);
@@ -181,13 +184,10 @@ public class Quarter {
                         individualParentScanner.useDelimiter("\\^");
                         String identifier = individualParentScanner.next();
                         this.parents.put(identifier, new HashMap<>());
-                        int fieldIndex = 1;
+                        int fieldIndex = 0;
                         while (individualParentScanner.hasNext()) {
-                            if (fieldIndex < this.parentFields.size()) {
-                                this.parents.get(identifier).put(this.parentFields.get(fieldIndex++), individualParentScanner.next());
-                            } else {
-                                break;
-                            }
+                            this.parents.get(identifier).put(this.parentFields.get(fieldIndex), individualParentScanner.next());
+                            fieldIndex++;
                         }
                     }
 
