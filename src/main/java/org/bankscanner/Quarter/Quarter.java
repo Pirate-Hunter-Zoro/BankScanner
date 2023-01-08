@@ -38,12 +38,6 @@ public class Quarter {
     /** {@link Pattern} which finds field matches in parent files */
     private static final Pattern PARENT_FIELD_PATTERN = Pattern.compile(PARENT_FIELDS_REGEX);
 
-    /** Regular expression for the final parent field value for each parent - for some reason the scanners miss it */
-    private static final String FINAL_PARENT_FIELD_VALUE_REGEX = "(?<=\\^)[^\\^]*(?=\\n)";
-
-    /** {@link Pattern} which finds the final parent field value that the scanners miss */
-    private static final Pattern FINAL_PARENT_FIELD_VALUE_PATTERN = Pattern.compile(FINAL_PARENT_FIELD_VALUE_REGEX);
-
     /** The earliest year in which we have interest */
     private static final int MIN_YEAR = 2007;
 
