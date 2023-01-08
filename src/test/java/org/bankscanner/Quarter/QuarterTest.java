@@ -1,6 +1,5 @@
 package org.bankscanner.Quarter;
 
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
@@ -9,30 +8,20 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class QuarterTest {
 
-    /** Variable setup for the tests */
-    private static Quarter FIRST_QUARTER;
-    private static Quarter SECOND_QUARTER;
-
-    /**
-     * Run this method right before all tests
-     */
-    @BeforeEach
-    public void setup() {
-        FIRST_QUARTER = new Quarter(2022, Month.September); // 2328 parent fields
-        SECOND_QUARTER = new Quarter(2022, Month.June); // 2327 parent fields
-    }
-
     /**
      * A simple test to ensure that the fields for parents are showing up correctly
      */
     @Test
     public void testParentDictionary() {
-        assertEquals(427, FIRST_QUARTER.getParents().keySet().size());
-        for (HashMap parent : FIRST_QUARTER.getParents().values()) {
+        Quarter firstQuarter = new Quarter(2022, Month.September); // 2328 parent fields
+        assertEquals(427, firstQuarter.getParents().keySet().size());
+        for (HashMap parent : firstQuarter.getParents().values()) {
             assertEquals(2328, parent.size());
         }
-        assertEquals(3958, SECOND_QUARTER.getParents().keySet().size());
-        for (HashMap parent : SECOND_QUARTER.getParents().values()) {
+
+        Quarter secondQuarter = new Quarter(2022, Month.June); // 2327 parent fields
+        assertEquals(3958, secondQuarter.getParents().keySet().size());
+        for (HashMap parent : secondQuarter.getParents().values()) {
             assertEquals(2327, parent.size());
         }
     }
