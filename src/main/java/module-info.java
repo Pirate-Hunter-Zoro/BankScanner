@@ -5,4 +5,10 @@ module csci205_final_project{
     requires javafx.graphics;
     requires javafx.controls;
     requires javafx.fxml;
+
+    exports org.bankscanner.Application;
+    opens org.bankscanner.Application to javafx.fxml;
+
+    exports org.bankscanner.Quarter;
+    opens org.bankscanner.Quarter to javafx.fxml;
 }

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.bankscanner.Application.AppController">
+   <children>
+      <ImageView fx:id="backgroundImage" fitHeight="406.0" fitWidth="600.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@Asta&amp;Yami.jpeg" />
+         </image>
+      </ImageView>
+      <TextField fx:id="startQuarterInput" layoutY="145.0" prefHeight="26.0" prefWidth="120.0" />
+      <Label fx:id="startQuarterLabel" alignment="CENTER" layoutY="120.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="Start Quarter (mm/yy)">
+         <effect>
+            <DropShadow />
+         </effect>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Label>
+      <TextField fx:id="endQuarterInput" layoutX="410.0" layoutY="145.0" prefHeight="26.0" prefWidth="120.0" AnchorPane.rightAnchor="0.0" />
+      <Label fx:id="endQuarterLabel" alignment="CENTER" layoutY="120.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="End Quarter (mm/yy)" AnchorPane.rightAnchor="0.0">
+         <effect>
+            <DropShadow />
+         </effect>
+      </Label>
+      <Label fx:id="banksOutputLabel" alignment="CENTER" layoutX="60.0" layoutY="175.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="Banks:" AnchorPane.leftAnchor="0.0" />
+      <Label fx:id="parentsOutputLabel" alignment="CENTER" layoutX="400.0" layoutY="175.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="Parents" AnchorPane.rightAnchor="0.0" />
+      <TextField fx:id="categoricalBankFieldInput" layoutX="125.0" layoutY="25.0" prefHeight="26.0" prefWidth="120.0" />
+      <TextField fx:id="categoricalParentFieldInput" layoutX="355.0" layoutY="25.0" prefHeight="26.0" prefWidth="120.0" />
+      <TextArea fx:id="banksOutput" layoutY="200.0" prefHeight="200.0" prefWidth="200.0" />
+      <TextArea fx:id="parentsOutput" layoutX="400.0" layoutY="200.0" prefHeight="200.0" prefWidth="200.0" />
+      <Button fx:id="searchButton" layoutX="270.0" layoutY="360.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="69.0" style="-fx-border-color: black;" text="Search!" AnchorPane.leftAnchor="260.0" AnchorPane.rightAnchor="260.0">
+         <effect>
+            <InnerShadow />
+         </effect>
+      </Button>
+      <Button fx:id="clearButton" layoutX="260.0" layoutY="20.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="69.0" style="-fx-border-color: black;" text="Clear Query!" AnchorPane.leftAnchor="250.0" AnchorPane.rightAnchor="250.0">
+         <effect>
+            <InnerShadow />
+         </effect>
+      </Button>
+      <TextField fx:id="bankFieldNumericInput" prefHeight="26.0" prefWidth="120.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="480.0" AnchorPane.topAnchor="25.0" />
+      <Label fx:id="bankFieldNumericInputLabel" alignment="CENTER" layoutY="1.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="Numeric Bank Field:" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="480.0" AnchorPane.topAnchor="0.0">
+         <effect>
+            <DropShadow />
+         </effect>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Label>
+      <Label fx:id="nonNumericBankFieldInputLabel" alignment="CENTER" layoutX="120.0" layoutY="1.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="Categorial Bank Field:" AnchorPane.leftAnchor="120.0" AnchorPane.rightAnchor="350.0" AnchorPane.topAnchor="0.0">
+         <effect>
+            <DropShadow />
+         </effect>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <font>
+            <Font size="12.0" />
+         </font>
+      </Label>
+      <TextField fx:id="parentFieldNumericInput" prefHeight="26.0" prefWidth="120.0" AnchorPane.leftAnchor="480.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="25.0" />
+      <Label fx:id="parentFieldNumericInputLabel" alignment="CENTER" layoutX="459.0" layoutY="7.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="Numeric Parent Field:" AnchorPane.leftAnchor="480.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <effect>
+            <DropShadow />
+         </effect>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Label>
+      <TextField fx:id="bankNumericRangeInput" layoutY="77.0" prefHeight="26.0" prefWidth="120.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="75.0">
+         <effect>
+            <InnerShadow />
+         </effect>
+      </TextField>
+      <TextField fx:id="parentNumericRangeInput" layoutX="480.0" layoutY="75.0" prefHeight="26.0" prefWidth="120.0">
+         <effect>
+            <InnerShadow />
+         </effect>
+      </TextField>
+      <Label fx:id="bankFieldNumericInputLabel1" alignment="CENTER" layoutY="51.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="Numeric Range ([lower bound, upperbound]):" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="350.0">
+         <effect>
+            <DropShadow />
+         </effect>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Label>
+      <Label fx:id="bankFieldNumericInputLabel11" alignment="CENTER" layoutX="459.0" layoutY="51.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="Numeric Range ([lower bound, upperbound]):" AnchorPane.leftAnchor="350.0" AnchorPane.rightAnchor="0.0">
+         <effect>
+            <DropShadow />
+         </effect>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Label>
+      <Label fx:id="categoricalParentFieldInputLabel" alignment="CENTER" layoutX="340.0" layoutY="1.0" prefHeight="26.0" prefWidth="141.0" style="-fx-background-color: white;" text="Categorical Parent Field:" AnchorPane.leftAnchor="350.0" AnchorPane.rightAnchor="120.0" AnchorPane.topAnchor="0.0">
+         <effect>
+            <DropShadow />
+         </effect>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <font>
+            <Font size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
